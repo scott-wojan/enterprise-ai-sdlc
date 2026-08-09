@@ -10,7 +10,7 @@ Version 0.1 Pilot Edition.
 
 ## Current objective
 
-Select pilot teams and establish support and incident channels in issue [#40](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/40).
+Create assisted codebase explanation and requirements analysis procedures in issue [#41](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/41).
 
 ## Completed
 
@@ -46,6 +46,7 @@ Select pilot teams and establish support and incident channels in issue [#40](ht
 - Approved-use categories and change-risk classes
 - Pilot Edition minimum control baseline
 - Executable pre-pilot delivery baseline procedure
+- Executable pilot selection, support and incident-preparation procedure
 - Product roadmap
 - Complete epic catalog
 - Issue and pull-request templates
@@ -62,8 +63,8 @@ Select pilot teams and establish support and incident channels in issue [#40](ht
 
 ## Next controlled sequence
 
-1. Select pilot teams and establish support and incident channels in issue [#40](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/40).
-2. Continue with the next dependency-safe Pilot Edition work item recorded in the backlog.
+1. Create assisted codebase explanation and requirements analysis procedures in issue [#41](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/41).
+2. Create the assisted documentation drafting procedure in issue [#42](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/42).
 3. Continue only in the dependency order recorded by the Pilot Edition backlog.
 
 The foundation gate is satisfied. Changes to the release boundary or product architecture require a recorded methodology decision.
