@@ -321,3 +321,10 @@ Version 0.1 may maintain traceability in Markdown. A machine-readable register m
 - PROC-BND-002 consumes the classification and produces revision-bound context, baseline checks, access configuration and recovery evidence.
 - Both produce explicit reroute, restriction and stop evidence and implement bounded authority, small-batch, context and reversibility principles.
 - SRC-003, SRC-004 and SRC-005 inform lifecycle classification, specification evidence and repository context preparation and are interpreted in these procedures.
+
+### Bounded execution boundary
+
+- PROC-BND-003 translates classification and repository preparation into an explicit, least-authority, expiring technical grant.
+- It covers repository, revision, path, environment, data, secret, identity, tool, command, network, side-effect, resource, time, output, evidence, recovery and cleanup dimensions.
+- Positive and negative boundary tests implement deterministic precedence and produce durable evidence before execution.
+- SRC-007, SRC-008 and SRC-009 inform harness-enforced boundaries, security controls and financial-services governance and are interpreted in this procedure.
