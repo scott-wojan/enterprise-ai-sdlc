@@ -10,7 +10,7 @@ Version 0.1 Pilot Edition.
 
 ## Current objective
 
-Define the Bounded Change adoption state in issue [#30](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/30), establishing controlled AI-created repository changes without production authority.
+Define transition decisions across Pilot Edition adoption states in issue [#31](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/31).
 
 ## Completed
 
@@ -35,6 +35,7 @@ Define the Bounded Change adoption state in issue [#30](https://github.com/scott
 - Context ownership, exception and repeated-failure controls
 - Foundation adoption state
 - Assisted Work adoption state
+- Bounded Change adoption state
 - Product roadmap
 - Complete epic catalog
 - Issue and pull-request templates
@@ -51,8 +52,8 @@ Define the Bounded Change adoption state in issue [#30](https://github.com/scott
 
 ## Next controlled sequence
 
-1. Implement the Bounded Change adoption state in issue [#30](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/30).
-2. Implement transition decisions in issue [#31](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/31).
+1. Implement transition decisions in issue [#31](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/31).
+2. Continue with the next dependency-safe Pilot Edition work item recorded in the backlog.
 3. Continue only in the dependency order recorded by the Pilot Edition backlog.
 
 The foundation gate is satisfied. Changes to the release boundary or product architecture require a recorded methodology decision.

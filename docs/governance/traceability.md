@@ -152,3 +152,18 @@ Version 0.1 may maintain traceability in Markdown. A machine-readable register m
 - CTRL-STATE-AST-001 through CTRL-STATE-AST-005 are defined in `docs/adoption/assisted-work.md`.
 - SRC-001, SRC-005 and SRC-010 inform the Assisted Work state and are interpreted in `docs/adoption/assisted-work.md`.
 - Later Pilot Edition procedures and artifacts must identify how they implement or consume the Assisted Work state controls.
+
+### Bounded Change adoption state
+
+- PRIN-001 is implemented by CTRL-STATE-BND-001 and CTRL-STATE-BND-006.
+- PRIN-002 is implemented by CTRL-STATE-BND-001 through CTRL-STATE-BND-003 and CTRL-STATE-BND-006.
+- PRIN-003 is implemented by CTRL-STATE-BND-003, CTRL-STATE-BND-005 and CTRL-STATE-BND-006.
+- PRIN-004 is implemented by CTRL-STATE-BND-001 and CTRL-STATE-BND-003 through CTRL-STATE-BND-006.
+- PRIN-005 is implemented by CTRL-STATE-BND-002, CTRL-STATE-BND-004 and CTRL-STATE-BND-006.
+- PRIN-006 is implemented by CTRL-STATE-BND-001, CTRL-STATE-BND-003, CTRL-STATE-BND-004 and CTRL-STATE-BND-006.
+- PRIN-008 is implemented by CTRL-STATE-BND-001, CTRL-STATE-BND-002 and CTRL-STATE-BND-006.
+- PRIN-010 is implemented by CTRL-STATE-BND-001 and CTRL-STATE-BND-005.
+- CTRL-STATE-BND-001 through CTRL-STATE-BND-006 consume the applicable normative-core, Foundation and Assisted Work controls.
+- CTRL-STATE-BND-001 through CTRL-STATE-BND-006 are defined in `docs/adoption/bounded-change.md`.
+- SRC-002, SRC-003, SRC-004 and SRC-007 inform the Bounded Change state and are interpreted in `docs/adoption/bounded-change.md`.
+- Later Pilot Edition procedures and artifacts must identify how they implement or consume the Bounded Change state controls.
