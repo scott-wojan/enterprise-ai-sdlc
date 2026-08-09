@@ -64,6 +64,10 @@ Assignment of a task to another participant without transferring accountability.
 
 Information made available to an AI system for a task, including specifications, code, architecture, policies, examples, operational data and tool results.
 
+## Context asset
+
+A durable, owned and versioned source intentionally made available to humans, AI or controls for defined delivery work.
+
 ## Control
 
 A preventive, detective or corrective mechanism that reduces the probability or impact of an undesirable outcome.
@@ -91,6 +95,14 @@ A durable record showing that an action occurred, a requirement was evaluated or
 ## Evidence package
 
 The linked set of durable records needed to reconstruct one material AI-assisted work item, including its intent, authority, actions, verification, human decisions and disposition.
+
+## Exception
+
+Explicit, temporary human authorization to deviate from a named requirement within a bounded scope, period and set of compensating conditions.
+
+## Failure classification
+
+Assignment of an observed failure to the delivery-system elements that should be investigated or changed.
 
 ## Governed workflow
 
@@ -127,6 +139,10 @@ Actions that restore an acceptable safe state after a failed, harmful or unwante
 ## Retention owner
 
 The human or organizational role accountable for keeping evidence protected, accessible, readable and appropriately disposed of under applicable policy.
+
+## Repeated failure
+
+Recurrence of the same or materially similar failure showing that the existing treatment did not prevent or reliably detect it.
 
 ## Restriction
 

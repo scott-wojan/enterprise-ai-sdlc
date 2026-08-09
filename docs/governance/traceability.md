@@ -105,3 +105,19 @@ Version 0.1 may maintain traceability in Markdown. A machine-readable register m
 - CTRL-BATCH-001 through CTRL-BATCH-007 are defined in `docs/core/small-batch-and-reversibility.md`.
 - SRC-001, SRC-003 and SRC-007 inform the small-batch and reversibility model and are interpreted in `docs/core/small-batch-and-reversibility.md`.
 - Later Pilot Edition procedures and artifacts must identify which CTRL-BATCH controls they implement or consume.
+
+### Context, exceptions and system learning
+
+- PRIN-001 is implemented by CTRL-CTX-002, CTRL-EXC-002, CTRL-LEARN-002 and CTRL-LEARN-003.
+- PRIN-002 is implemented by CTRL-CTX-002, CTRL-EXC-001, CTRL-EXC-002 and CTRL-LEARN-003.
+- PRIN-003 is implemented by CTRL-CTX-001, CTRL-CTX-003, CTRL-EXC-001, CTRL-EXC-002 and CTRL-LEARN-001 through CTRL-LEARN-003.
+- PRIN-004 is implemented by CTRL-CTX-001 through CTRL-CTX-004, CTRL-EXC-001, CTRL-EXC-002 and CTRL-LEARN-001 through CTRL-LEARN-003.
+- PRIN-005 is implemented by CTRL-EXC-001, CTRL-LEARN-002 and CTRL-LEARN-003.
+- PRIN-008 is implemented by CTRL-CTX-002, CTRL-EXC-001, CTRL-EXC-002 and CTRL-LEARN-003.
+- PRIN-009 is implemented by CTRL-CTX-001 through CTRL-CTX-004.
+- PRIN-010 is protected by CTRL-EXC-001 because an exception cannot exceed the Pilot Edition authority ceiling.
+- PRIN-011 is implemented by CTRL-LEARN-001 through CTRL-LEARN-003.
+- CTRL-CTX-001 through CTRL-CTX-004, CTRL-EXC-001, CTRL-EXC-002 and CTRL-LEARN-001 through CTRL-LEARN-003 consume the applicable CTRL-ACC, CTRL-AUTH, CTRL-EVID, CTRL-PREC and CTRL-BATCH controls.
+- These controls are defined in `docs/core/context-exceptions-and-learning.md`.
+- SRC-005, SRC-006 and SRC-007 inform the context, exception and learning model and are interpreted in `docs/core/context-exceptions-and-learning.md`.
+- Later Pilot Edition procedures and artifacts must identify which CTRL-CTX, CTRL-EXC and CTRL-LEARN controls they implement or consume.
