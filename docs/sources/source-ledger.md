@@ -91,3 +91,30 @@ The source ledger records material reused across the playbook. It distinguishes 
 - **Type:** Product-specific adoption guidance
 - **Limit:** Tool adoption is not equivalent to delivery-system transformation
 - **Last verified:** 2026-08-08
+
+## SRC-011: Node.js file-system API
+
+- **Publisher:** OpenJS Foundation Node.js project
+- **Location:** https://nodejs.org/api/fs.html
+- **Use:** Built-in recursive file discovery and content reading for repository validation
+- **Type:** Official runtime documentation
+- **Limit:** API reference only; it does not define this repository's validation rules
+- **Last verified:** 2026-08-09
+
+## SRC-012: GitHub Actions workflow reference
+
+- **Publisher:** GitHub
+- **Location:** https://docs.github.com/en/actions/reference/workflows-and-actions
+- **Use:** Pull-request and main-branch validation workflow structure and permissions
+- **Type:** Official platform documentation
+- **Limit:** Platform-specific repository automation, not normative playbook guidance
+- **Last verified:** 2026-08-09
+
+## SRC-013: GitHub setup-node action
+
+- **Publisher:** GitHub
+- **Location:** https://github.com/actions/setup-node
+- **Use:** Explicit Node.js runtime selection in the validation workflow
+- **Type:** Official action documentation
+- **Limit:** Platform-specific repository automation, not normative playbook guidance
+- **Last verified:** 2026-08-09
