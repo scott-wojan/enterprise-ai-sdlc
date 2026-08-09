@@ -24,6 +24,10 @@ The adoption state in which AI may analyze, explain, recommend and draft for rea
 
 An explicit, authenticated human decision that authorizes defined work or an effect within a recorded scope, set of conditions and effective period.
 
+## Approved-use category
+
+A classification that determines the kind of AI participation permitted for a work item, including advisory, bounded change, isolated evaluation or no AI use.
+
 ## Artifact
 
 A durable, versioned input or output used to coordinate, govern or prove delivery work.
@@ -51,6 +55,10 @@ A change performed within an approved repository, branch, environment, scope and
 ## Change batch
 
 One coherent unit of change with explicit scope, independently evaluable acceptance criteria, bounded blast radius and a defined recovery treatment.
+
+## Change-risk class
+
+A classification of credible delivery impact that determines permitted AI actions, required controls and human gates.
 
 ## Consequential decision
 

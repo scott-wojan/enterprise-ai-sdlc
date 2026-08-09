@@ -244,3 +244,14 @@ Version 0.1 may maintain traceability in Markdown. A machine-readable register m
 - CTRL-BASE-OWN-001 through CTRL-BASE-OWN-005 consume organizational readiness, ART-READY-001 and the applicable normative-core and state controls.
 - SRC-001 and SRC-010 inform enterprise ownership and stance and are interpreted in `docs/foundation/ownership-and-ai-stance.md`.
 - Foundation, readiness, pilot and team procedures must identify the enterprise roles and stance version they consume.
+
+### Approved use and change-risk classification
+
+- PRIN-001, PRIN-002, PRIN-004, PRIN-006, PRIN-008 and PRIN-010 are implemented by CTRL-BASE-CLASS-001 through CTRL-BASE-CLASS-005.
+- PRIN-003 is implemented by the consequential-decision ownership required by CTRL-BASE-CLASS-001, CTRL-BASE-CLASS-003 and CTRL-BASE-CLASS-005.
+- USE-ADV, USE-BND, USE-EVAL and USE-DENY define approved-use categories.
+- RISK-C1 through RISK-C4 define change-risk classes and their actions and gates.
+- CTRL-BASE-CLASS-001 through CTRL-BASE-CLASS-005 consume the normative-core risk, authority, batch and evidence controls plus the Pilot Edition states.
+- These categories, classes and controls are defined in `docs/foundation/use-and-risk-classification.md`.
+- SRC-002, SRC-003, SRC-008 and SRC-009 inform classification and are interpreted in `docs/foundation/use-and-risk-classification.md`.
+- Readiness, pilot and delivery procedures must consume and preserve the classification.
