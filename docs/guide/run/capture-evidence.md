@@ -54,4 +54,4 @@ Evidence is being fabricated, backfilled from memory, used to punish honest repo
 Use the [weekly record and evidence review in the Pilot Workbook](../reference/pilot-workbook.md). Detailed measures remain in [balanced outcomes](../../measures/balanced-outcomes.md).
 
 **Previous:** [Handle failures, uncertainty and unsafe conditions](handle-problems.md)  
-**Next:** Review the pilot evidence in Decide when the charter's review condition is reached.
+**Next:** [Review the pilot evidence](../decide/review-evidence.md) when the charter's review condition is reached.
