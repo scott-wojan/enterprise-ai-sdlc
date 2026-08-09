@@ -282,3 +282,12 @@ Version 0.1 may maintain traceability in Markdown. A machine-readable register m
 - It produces the pilot charter, launch decision, exact grant, support map, participant preparation, stop criteria and incident and recovery rehearsal evidence.
 - SRC-001 and SRC-010 inform evidence-based pilot selection, support and iterative review and are interpreted in `docs/procedures/pilot/select-and-prepare.md`.
 - Every Pilot Edition delivery procedure must consume the approved pilot scope and stop criteria.
+
+### Assisted explanation and requirements analysis
+
+- PRIN-001 through PRIN-005 and PRIN-008 through PRIN-011 are implemented by PROC-AST-001 through bounded, read-only, source-grounded explanation and human validation.
+- PRIN-001 through PRIN-005 and PRIN-007 through PRIN-011 are implemented by PROC-AST-002 through versioned analysis, visible uncertainty and human-owned intent decisions.
+- PROC-AST-001 and PROC-AST-002 consume the approved Assisted Work scope, CTRL-STATE-AST controls, the applicable CTRL-BASELINE profile and PROC-PILOT-002.
+- They produce revision-bound evidence, explicit fact and inference separation, human dispositions, unresolved-risk records and escalation evidence.
+- SRC-005 and SRC-006 inform context-grounded explanation and specification analysis and are interpreted in `docs/procedures/assisted/`.
+- No output from these procedures grants change authority.
