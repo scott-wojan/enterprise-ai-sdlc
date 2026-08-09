@@ -152,6 +152,10 @@ The human or organizational role accountable for keeping evidence protected, acc
 
 Recurrence of the same or materially similar failure showing that the existing treatment did not prevent or reliably detect it.
 
+## Readiness finding
+
+An evidence-backed determination that a scoped readiness condition is ready, ready with restriction, a gap or not applicable.
+
 ## Restriction
 
 A reduction of previously granted authority while some part of the grant remains active.
