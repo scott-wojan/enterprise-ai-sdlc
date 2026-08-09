@@ -16,6 +16,10 @@ An AI-enabled system that can perform one or more actions using provided context
 
 Use of an AI system to advise, analyze, draft or execute bounded software-delivery work under defined human accountability.
 
+## Assisted Work
+
+The adoption state in which AI may analyze, explain, recommend and draft for real delivery while humans validate every material output and perform every state-changing action.
+
 ## Approval
 
 An explicit, authenticated human decision that authorizes defined work or an effect within a recorded scope, set of conditions and effective period.
