@@ -381,3 +381,10 @@ Version 0.1 may maintain traceability in Markdown. A machine-readable register m
 - ROLE-OPS-010 through ROLE-OPS-015 map change, delivery, verification, human review, service and pilot-learning rights to procedures.
 - AI-SYS-001 explicitly defines the AI as a non-accountable bounded actor and cannot satisfy human gates.
 - The role chapters consume accountability, authority, segregation and evidence controls and make escalation and absence stop behavior explicit.
+
+### Balanced pilot measurement and decisions
+
+- MEAS-FLOW-001 through MEAS-FLOW-002 and MEAS-QUAL-001 through MEAS-QUAL-004 define reproducible baseline, flow and quality calculations and cautions.
+- MEAS-OPS-001, MEAS-SEC-001, MEAS-PROD-001, MEAS-EXP-001, MEAS-ECON-001 and MEAS-USE-001 complete operational, security, product, experience, economic and diagnostic coverage.
+- PROC-PILOT-003 consumes every required dimension, applies guardrails before benefits and produces ART-ADV-001 without a composite score.
+- SRC-001 and SRC-010 inform balanced delivery outcomes and measured rollout and are interpreted in the measure chapters and procedure.
