@@ -34,9 +34,11 @@ Organizations may remain at any state appropriate to a team, repository or work 
 
 ## DEC-006: Version 0.1 is a Pilot Edition
 
-**Status:** Proposed for foundation review.
+**Status:** Accepted.
 
 The first content release will implement enough foundation, assisted-work and bounded-change guidance to conduct controlled pilots. Later states will remain represented but not yet normative for adoption.
+
+Approval was recorded by the merge of [PR #1](https://github.com/scott-wojan/enterprise-ai-sdlc/pull/1) in commit [`9fb14f04a0125668b548e76495194fde379bf74b`](https://github.com/scott-wojan/enterprise-ai-sdlc/commit/9fb14f04a0125668b548e76495194fde379bf74b).
 
 ## Decision process
 
