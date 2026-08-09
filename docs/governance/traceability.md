@@ -88,3 +88,20 @@ Version 0.1 may maintain traceability in Markdown. A machine-readable register m
 - CTRL-PREC-001 through CTRL-PREC-007 are defined in `docs/core/control-precedence.md`.
 - SRC-005, SRC-006, SRC-007 and SRC-008 inform the control-precedence model and are interpreted in `docs/core/control-precedence.md`.
 - Later Pilot Edition procedures and artifacts must identify which CTRL-PREC controls they implement or consume.
+
+### Small batches and reversibility
+
+- PRIN-001 is implemented by CTRL-BATCH-003, CTRL-BATCH-004 and CTRL-BATCH-007.
+- PRIN-002 is implemented by CTRL-BATCH-002, CTRL-BATCH-003 and CTRL-BATCH-005.
+- PRIN-003 is implemented by CTRL-BATCH-003, CTRL-BATCH-005 and CTRL-BATCH-007.
+- PRIN-004 is implemented by CTRL-BATCH-001 and CTRL-BATCH-003 through CTRL-BATCH-007.
+- PRIN-005 is implemented by CTRL-BATCH-004, CTRL-BATCH-006 and CTRL-BATCH-007.
+- PRIN-006 is implemented by CTRL-BATCH-001 through CTRL-BATCH-007.
+- PRIN-008 is implemented by CTRL-BATCH-002, CTRL-BATCH-003 and CTRL-BATCH-005.
+- PRIN-011 is supported by CTRL-BATCH-007.
+- CTRL-BATCH-001 through CTRL-BATCH-007 consume CTRL-ACC-001, CTRL-ACC-003, CTRL-ACC-005 and CTRL-ACC-007.
+- CTRL-BATCH-001 through CTRL-BATCH-007 consume CTRL-AUTH-002 through CTRL-AUTH-005, CTRL-AUTH-007 and CTRL-AUTH-008.
+- CTRL-BATCH-001 through CTRL-BATCH-007 consume CTRL-EVID-001 through CTRL-EVID-008 and CTRL-PREC-001 through CTRL-PREC-007 as applicable.
+- CTRL-BATCH-001 through CTRL-BATCH-007 are defined in `docs/core/small-batch-and-reversibility.md`.
+- SRC-001, SRC-003 and SRC-007 inform the small-batch and reversibility model and are interpreted in `docs/core/small-batch-and-reversibility.md`.
+- Later Pilot Edition procedures and artifacts must identify which CTRL-BATCH controls they implement or consume.

@@ -44,6 +44,10 @@ The maximum credible scope of systems, data, people, operations or obligations a
 
 A change performed within an approved repository, branch, environment, scope and permission boundary, followed by required verification and human review.
 
+## Change batch
+
+One coherent unit of change with explicit scope, independently evaluable acceptance criteria, bounded blast radius and a defined recovery treatment.
+
 ## Consequential decision
 
 A decision with material product, architectural, security, compliance, release, financial or operational impact.
@@ -112,6 +116,14 @@ An action that accesses governed context, invokes an authorized tool, changes du
 
 Information that establishes a record's producer, origin, time, version, transformations and relationship to the work it supports.
 
+## Recoverable
+
+A state-change classification indicating that an acceptable safe state can be restored through a defined method even when direct rollback is not reliable or appropriate.
+
+## Recovery
+
+Actions that restore an acceptable safe state after a failed, harmful or unwanted change, including rollback, restore, rebuild, failover or forward correction.
+
 ## Retention owner
 
 The human or organizational role accountable for keeping evidence protected, accessible, readable and appropriately disposed of under applicable policy.
@@ -123,6 +135,10 @@ A reduction of previously granted authority while some part of the grant remains
 ## Reversibility
 
 The demonstrated ability to restore affected state within an acceptable period and without creating greater harm.
+
+## Rollback
+
+A recovery method that returns affected state to a verified earlier state or version.
 
 ## Revocation
 

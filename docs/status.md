@@ -10,7 +10,7 @@ Version 0.1 Pilot Edition.
 
 ## Current objective
 
-Define small-batch and reversibility requirements in issue [#26](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/26), using the approved authority, evidence and control-precedence rules as its foundation.
+Define context ownership, exception handling and repeated-failure improvement in issue [#27](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/27), completing the Pilot Edition normative core.
 
 ## Completed
 
@@ -31,6 +31,7 @@ Define small-batch and reversibility requirements in issue [#26](https://github.
 - Authority-boundary and risk-treatment controls
 - Durable-evidence controls
 - Deterministic and inferential control-precedence rules
+- Small-batch and reversibility controls
 - Product roadmap
 - Complete epic catalog
 - Issue and pull-request templates
@@ -48,8 +49,8 @@ Define small-batch and reversibility requirements in issue [#26](https://github.
 
 ## Next controlled sequence
 
-1. Implement small-batch and reversibility requirements in issue [#26](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/26).
-2. Complete the remaining normative core in issue [#27](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/27).
+1. Implement context ownership, exception handling and repeated-failure improvement in issue [#27](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/27).
+2. Begin the Foundation adoption state in issue [#28](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/28).
 3. Continue only in the dependency order recorded by the Pilot Edition backlog.
 
 The foundation gate is satisfied. Changes to the release boundary or product architecture require a recorded methodology decision.
