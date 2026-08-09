@@ -10,7 +10,7 @@ Version 0.1 Pilot Edition.
 
 ## Current objective
 
-Define control and measurement readiness in issue [#34](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/34).
+Create the readiness decision and remediation procedure in issue [#35](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/35).
 
 ## Completed
 
@@ -39,6 +39,7 @@ Define control and measurement readiness in issue [#34](https://github.com/scott
 - Pilot Edition adoption-state transition decisions
 - Organizational and team readiness conditions
 - Engineering and context readiness conditions
+- Control and measurement readiness conditions
 - Product roadmap
 - Complete epic catalog
 - Issue and pull-request templates
@@ -55,8 +56,8 @@ Define control and measurement readiness in issue [#34](https://github.com/scott
 
 ## Next controlled sequence
 
-1. Implement control and measurement readiness in issue [#34](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/34).
-2. Create the readiness decision and remediation procedure in issue [#35](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/35).
+1. Create the readiness decision and remediation procedure in issue [#35](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/35).
+2. Continue with the next dependency-safe Pilot Edition work item recorded in the backlog.
 3. Continue only in the dependency order recorded by the Pilot Edition backlog.
 
 The foundation gate is satisfied. Changes to the release boundary or product architecture require a recorded methodology decision.
