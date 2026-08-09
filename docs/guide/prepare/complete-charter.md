@@ -52,4 +52,4 @@ Any prerequisite is incomplete, an approver has not accepted their accountabilit
 Complete this section in the [Pilot Workbook](../reference/pilot-workbook.md). The canonical [pilot charter definition](../../artifacts/pilot-charter.md) governs required evidence.
 
 **Previous:** [Establish the baseline and success measures](establish-baseline.md)  
-**Next:** Launch and onboard the team in Run.
+**Next:** [Launch and onboard the team](../run/launch-and-onboard.md)

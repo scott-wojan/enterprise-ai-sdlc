@@ -43,7 +43,12 @@ At minimum, involve an executive sponsor, pilot lead, engineering manager, parti
 
 ### Run
 
-Launch and onboard, use Assisted Work or approved Bounded Change, operate weekly, handle problems and capture evidence.
+12. [Launch and onboard the team](run/launch-and-onboard.md)
+13. [Use AI for Assisted Work](run/assisted-work.md)
+14. [Use AI for a Bounded Change](run/bounded-change.md)
+15. [Run the weekly operating rhythm](run/weekly-rhythm.md)
+16. [Handle failures, uncertainty and unsafe conditions](run/handle-problems.md)
+17. [Capture evidence without burdening the team](run/capture-evidence.md)
 
 ### Decide
 
