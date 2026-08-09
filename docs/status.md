@@ -10,7 +10,7 @@ Version 0.1 Pilot Edition.
 
 ## Current objective
 
-Define deterministic and inferential control precedence in issue [#25](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/25), using the approved accountability, authority and evidence controls as its foundation.
+Define small-batch and reversibility requirements in issue [#26](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/26), using the approved authority, evidence and control-precedence rules as its foundation.
 
 ## Completed
 
@@ -30,6 +30,7 @@ Define deterministic and inferential control precedence in issue [#25](https://g
 - Human-accountability and consequential-decision controls
 - Authority-boundary and risk-treatment controls
 - Durable-evidence controls
+- Deterministic and inferential control-precedence rules
 - Product roadmap
 - Complete epic catalog
 - Issue and pull-request templates
@@ -47,8 +48,8 @@ Define deterministic and inferential control precedence in issue [#25](https://g
 
 ## Next controlled sequence
 
-1. Implement deterministic and inferential control precedence in issue [#25](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/25).
-2. Complete the remaining normative core in issues [#26](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/26) and [#27](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/27) in dependency order.
+1. Implement small-batch and reversibility requirements in issue [#26](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/26).
+2. Complete the remaining normative core in issue [#27](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/27).
 3. Continue only in the dependency order recorded by the Pilot Edition backlog.
 
 The foundation gate is satisfied. Changes to the release boundary or product architecture require a recorded methodology decision.
