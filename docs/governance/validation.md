@@ -65,3 +65,33 @@ A release must not be published until:
 ## Automation roadmap
 
 Repository automation should eventually validate headings, required procedure sections, stable identifiers, internal links, prohibited terminology, orphaned artifacts and basic traceability coverage.
+
+## Initial automated validation
+
+The repository provides a zero-dependency Node.js validation command:
+
+```bash
+npm run validate
+```
+
+Node.js 24 or later is required. The command runs both the canonical-content check and seeded failure tests. Contributors may run the checks separately:
+
+```bash
+npm run validate:content
+npm run test:validation
+```
+
+The canonical-content check validates:
+
+- Internal Markdown file links and heading anchors resolve.
+- External links are excluded from this structural check.
+- Prose outside fenced and inline code contains no em dashes.
+- Markdown tables contain no more than three columns.
+- Canonical Markdown outside `.github` contains exactly one level-one heading and does not skip heading levels.
+- Procedure files under `docs/procedures` use a `PROC` identifier in the title and contain every section defined by the procedure schema in [the writing standard](writing-standard.md).
+
+Diagnostics identify the file, line, rule code and failure. Any failure produces a nonzero exit status.
+
+The seeded test command creates isolated temporary fixtures for valid content, an em dash, a broken link, a wide table, a skipped heading level and an incomplete procedure. Each invalid fixture must produce a nonzero exit status and the expected rule code.
+
+The `Content validation` GitHub Actions workflow runs `npm run validate` for every pull request and every push to `main`. The workflow has read-only repository permission.
