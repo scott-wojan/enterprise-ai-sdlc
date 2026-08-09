@@ -136,3 +136,19 @@ Version 0.1 may maintain traceability in Markdown. A machine-readable register m
 - CTRL-STATE-FND-001 through CTRL-STATE-FND-005 are defined in `docs/adoption/foundation.md`.
 - SRC-001 and SRC-010 inform the Foundation state and are interpreted in `docs/adoption/foundation.md`.
 - Later Pilot Edition procedures and artifacts must identify how they implement or consume the Foundation state controls.
+
+### Assisted Work adoption state
+
+- PRIN-001 is implemented by CTRL-STATE-AST-001, CTRL-STATE-AST-004 and CTRL-STATE-AST-005.
+- PRIN-002 is implemented by CTRL-STATE-AST-001, CTRL-STATE-AST-002 and CTRL-STATE-AST-005.
+- PRIN-003 is implemented by CTRL-STATE-AST-002, CTRL-STATE-AST-003 and CTRL-STATE-AST-005.
+- PRIN-004 is implemented by CTRL-STATE-AST-001 through CTRL-STATE-AST-005.
+- PRIN-005 is implemented by CTRL-STATE-AST-003.
+- PRIN-007 is implemented by CTRL-STATE-AST-004.
+- PRIN-008 is implemented by CTRL-STATE-AST-001, CTRL-STATE-AST-002 and CTRL-STATE-AST-005.
+- PRIN-009 is implemented by CTRL-STATE-AST-003.
+- PRIN-010 is implemented by CTRL-STATE-AST-001 and CTRL-STATE-AST-004.
+- CTRL-STATE-AST-001 through CTRL-STATE-AST-005 consume the applicable normative-core and Foundation controls.
+- CTRL-STATE-AST-001 through CTRL-STATE-AST-005 are defined in `docs/adoption/assisted-work.md`.
+- SRC-001, SRC-005 and SRC-010 inform the Assisted Work state and are interpreted in `docs/adoption/assisted-work.md`.
+- Later Pilot Edition procedures and artifacts must identify how they implement or consume the Assisted Work state controls.
