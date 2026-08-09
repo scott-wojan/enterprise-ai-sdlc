@@ -10,7 +10,7 @@ Version 0.1 Pilot Edition.
 
 ## Current objective
 
-Complete the next dependency-safe Pilot Edition work item recorded in the backlog.
+Create the bounded execution-boundary procedure in issue [#46](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/46).
 
 ## Completed
 
@@ -51,6 +51,7 @@ Complete the next dependency-safe Pilot Edition work item recorded in the backlo
 - Human-owned assisted documentation drafting procedure
 - Advisory test-suggestion and code-review procedures
 - Human-controlled incident summarization and balanced Assisted Work evaluation procedures
+- Bounded Change work-classification and repository-preparation procedures
 - Product roadmap
 - Complete epic catalog
 - Issue and pull-request templates
@@ -67,7 +68,7 @@ Complete the next dependency-safe Pilot Edition work item recorded in the backlo
 
 ## Next controlled sequence
 
-1. Complete the next dependency-safe Pilot Edition work item recorded in the backlog.
+1. Create the bounded execution-boundary procedure in issue [#46](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/46).
 2. Preserve the recorded dependency order and validation gates.
 3. Continue only in the dependency order recorded by the Pilot Edition backlog.
 
