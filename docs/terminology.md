@@ -104,6 +104,10 @@ Explicit, temporary human authorization to deviate from a named requirement with
 
 Assignment of an observed failure to the delivery-system elements that should be investigated or changed.
 
+## Foundation
+
+The adoption state in which an enterprise scope establishes and tests the capabilities required for AI-assisted delivery but has not authorized AI outputs for managed delivery work.
+
 ## Governed workflow
 
 A multi-step workflow in which AI may plan and execute bounded tasks between explicit validation and approval points.
@@ -171,6 +175,10 @@ The decision that changes permitted actions, controls, accountability or use of 
 ## Selective orchestration
 
 Approved coordination of multiple delivery activities or specialized agents for a bounded work type. It does not mean unrestricted autonomous delivery.
+
+## State decision
+
+An authenticated human decision that assigns, continues, restricts or exits an adoption state for an exact scope and effective period.
 
 ## Stop condition
 

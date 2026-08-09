@@ -10,7 +10,7 @@ Version 0.1 Pilot Edition.
 
 ## Current objective
 
-Define the Foundation adoption state in issue [#28](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/28), translating the completed normative core into an evaluable entry state.
+Define the Assisted Work adoption state in issue [#29](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/29), establishing the first permitted enterprise delivery use of AI.
 
 ## Completed
 
@@ -33,6 +33,7 @@ Define the Foundation adoption state in issue [#28](https://github.com/scott-woj
 - Deterministic and inferential control-precedence rules
 - Small-batch and reversibility controls
 - Context ownership, exception and repeated-failure controls
+- Foundation adoption state
 - Product roadmap
 - Complete epic catalog
 - Issue and pull-request templates
@@ -49,8 +50,8 @@ Define the Foundation adoption state in issue [#28](https://github.com/scott-woj
 
 ## Next controlled sequence
 
-1. Implement the Foundation adoption state in issue [#28](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/28).
-2. Implement the Assisted Work adoption state in issue [#29](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/29) after its dependencies are resolved.
+1. Implement the Assisted Work adoption state in issue [#29](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/29).
+2. Continue with the next dependency-safe Pilot Edition work item recorded in the backlog.
 3. Continue only in the dependency order recorded by the Pilot Edition backlog.
 
 The foundation gate is satisfied. Changes to the release boundary or product architecture require a recorded methodology decision.
