@@ -10,7 +10,7 @@ Version 0.1 Pilot Edition.
 
 ## Current objective
 
-Establish enterprise ownership and the AI stance in issue [#36](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/36).
+Define approved-use categories and change-risk classes in issue [#37](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/37).
 
 ## Completed
 
@@ -42,6 +42,7 @@ Establish enterprise ownership and the AI stance in issue [#36](https://github.c
 - Control and measurement readiness conditions
 - Executable readiness decision and remediation procedure
 - Readiness decision artifact definition
+- Enterprise ownership roles and actionable AI delivery stance
 - Product roadmap
 - Complete epic catalog
 - Issue and pull-request templates
@@ -58,8 +59,8 @@ Establish enterprise ownership and the AI stance in issue [#36](https://github.c
 
 ## Next controlled sequence
 
-1. Establish enterprise ownership and the AI stance in issue [#36](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/36).
-2. Define approved-use categories and change-risk classes in issue [#37](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/37).
+1. Define approved-use categories and change-risk classes in issue [#37](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/37).
+2. Define the Pilot Edition minimum control baseline in issue [#38](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/38).
 3. Continue only in the dependency order recorded by the Pilot Edition backlog.
 
 The foundation gate is satisfied. Changes to the release boundary or product architecture require a recorded methodology decision.
