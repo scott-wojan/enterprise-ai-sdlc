@@ -274,3 +274,11 @@ Version 0.1 may maintain traceability in Markdown. A machine-readable register m
 - PROC-PILOT-001 produces versioned scope, measure definitions, baseline results, lineage, limitations, confounders and claim restrictions.
 - SRC-001 and SRC-010 inform the outcome and pilot orientation and are interpreted in `docs/procedures/pilot/establish-baseline.md`.
 - Pilot selection, review and advancement procedures must consume the exact baseline version.
+
+### Pilot selection and preparation
+
+- PRIN-001, PRIN-002, PRIN-003, PRIN-004, PRIN-007, PRIN-008 and PRIN-010 are implemented by PROC-PILOT-002.
+- PROC-PILOT-002 consumes ART-READY-001, the AI stance, use and risk classification, minimum control profile and PROC-PILOT-001 baseline.
+- It produces the pilot charter, launch decision, exact grant, support map, participant preparation, stop criteria and incident and recovery rehearsal evidence.
+- SRC-001 and SRC-010 inform evidence-based pilot selection, support and iterative review and are interpreted in `docs/procedures/pilot/select-and-prepare.md`.
+- Every Pilot Edition delivery procedure must consume the approved pilot scope and stop criteria.
