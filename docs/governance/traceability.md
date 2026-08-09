@@ -314,3 +314,10 @@ Version 0.1 may maintain traceability in Markdown. A machine-readable register m
 - PROC-AST-007 uses the pre-pilot baseline and balanced flow, quality, risk and experience evidence to decide continue, condition, restrict, pause or stop.
 - Both consume the approved Assisted Work scope, applicable controls and PROC-PILOT-002. PROC-AST-007 also consumes PROC-PILOT-001.
 - SRC-001, SRC-005 and SRC-010 inform balanced outcome review, context-grounded synthesis and measured rollout and are interpreted in these procedures.
+
+### Bounded Change classification and repository preparation
+
+- PROC-BND-001 consumes USE and RISK classification plus Bounded Change state controls and prevents the executor from lowering treatment.
+- PROC-BND-002 consumes the classification and produces revision-bound context, baseline checks, access configuration and recovery evidence.
+- Both produce explicit reroute, restriction and stop evidence and implement bounded authority, small-batch, context and reversibility principles.
+- SRC-003, SRC-004 and SRC-005 inform lifecycle classification, specification evidence and repository context preparation and are interpreted in these procedures.
