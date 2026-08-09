@@ -28,6 +28,18 @@ A durable, versioned input or output used to coordinate, govern or prove deliver
 
 The explicitly granted ability to access information, use tools, change state or initiate downstream activity.
 
+## Authority boundary
+
+The enforceable limits around an AI identity's permitted work, context, tools, actions, resources, environment, downstream effects and effective period.
+
+## Authority grant
+
+A versioned, human-approved record assigning explicit authority to a specific AI identity for bounded work under defined controls and stop conditions.
+
+## Blast radius
+
+The maximum credible scope of systems, data, people, operations or obligations affected when an action fails or behaves unexpectedly.
+
 ## Bounded change
 
 A change performed within an approved repository, branch, environment, scope and permission boundary, followed by required verification and human review.
@@ -75,6 +87,26 @@ A required decision made by a named accountable human role before work may conti
 ## Inferential control
 
 A probabilistic evaluation, often performed by an AI model, used where deterministic rules cannot fully evaluate meaning or intent.
+
+## Restriction
+
+A reduction of previously granted authority while some part of the grant remains active.
+
+## Reversibility
+
+The demonstrated ability to restore affected state within an acceptable period and without creating greater harm.
+
+## Revocation
+
+Termination of an authority grant and the associated ability to act.
+
+## Risk factor
+
+An observable condition that changes the probability, impact, detectability or recoverability of an undesirable outcome.
+
+## Risk treatment
+
+The decision that changes permitted actions, controls, accountability or use of AI in response to identified risk.
 
 ## Selective orchestration
 

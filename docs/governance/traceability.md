@@ -45,3 +45,18 @@ Version 0.1 may maintain traceability in Markdown. A machine-readable register m
 - CTRL-ACC-001 through CTRL-ACC-007 are defined in `docs/core/accountability.md`.
 - SRC-001, SRC-002, SRC-003 and SRC-015 inform the accountability model and are interpreted in `docs/core/accountability.md`.
 - Later Pilot Edition procedures and artifacts must identify which CTRL-ACC controls they implement or consume.
+
+### Authority boundaries and risk treatment
+
+- PRIN-001 is implemented by CTRL-AUTH-003, CTRL-AUTH-006 and CTRL-AUTH-008.
+- PRIN-002 is implemented by CTRL-AUTH-001 through CTRL-AUTH-008.
+- PRIN-003 is implemented by CTRL-AUTH-005.
+- PRIN-004 is implemented by CTRL-AUTH-001, CTRL-AUTH-005, CTRL-AUTH-006, CTRL-AUTH-007 and CTRL-AUTH-008.
+- PRIN-005 is implemented by CTRL-AUTH-002, CTRL-AUTH-003, CTRL-AUTH-004, CTRL-AUTH-007 and CTRL-AUTH-008.
+- PRIN-006 is implemented by CTRL-AUTH-003 and CTRL-AUTH-004.
+- PRIN-008 is implemented by CTRL-AUTH-001, CTRL-AUTH-002, CTRL-AUTH-006 and CTRL-AUTH-008.
+- PRIN-010 is implemented by CTRL-AUTH-004.
+- CTRL-AUTH-001 through CTRL-AUTH-008 consume CTRL-ACC-001, CTRL-ACC-003, CTRL-ACC-005 and CTRL-ACC-007.
+- CTRL-AUTH-001 through CTRL-AUTH-008 are defined in `docs/core/authority-and-risk.md`.
+- SRC-003, SRC-007 and SRC-009 inform the authority model and are interpreted in `docs/core/authority-and-risk.md`.
+- Later Pilot Edition procedures and artifacts must identify which CTRL-AUTH controls they implement or consume.
