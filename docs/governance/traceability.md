@@ -235,3 +235,12 @@ Version 0.1 may maintain traceability in Markdown. A machine-readable register m
 - PROC-READY-001 produces ART-READY-001, state and authority restrictions, remediation and risk decisions.
 - ART-READY-001 is defined in `docs/artifacts/readiness-decision.md` and consumed by state, authority, foundation and pilot procedures.
 - SRC-001 informs the procedure's capability and evidence orientation and is interpreted in the readiness chapters.
+
+### Enterprise ownership and AI stance
+
+- PRIN-001, PRIN-002, PRIN-003, PRIN-004, PRIN-008 and PRIN-010 are implemented by CTRL-BASE-OWN-001 through CTRL-BASE-OWN-005.
+- PRIN-009 and PRIN-011 are implemented by CTRL-BASE-OWN-002, CTRL-BASE-OWN-003 and CTRL-BASE-OWN-005.
+- ROLE-ENT-001 through ROLE-ENT-004 are defined in `docs/foundation/ownership-and-ai-stance.md` and consume the accountable role archetypes in `docs/core/accountability.md`.
+- CTRL-BASE-OWN-001 through CTRL-BASE-OWN-005 consume organizational readiness, ART-READY-001 and the applicable normative-core and state controls.
+- SRC-001 and SRC-010 inform enterprise ownership and stance and are interpreted in `docs/foundation/ownership-and-ai-stance.md`.
+- Foundation, readiness, pilot and team procedures must identify the enterprise roles and stance version they consume.
