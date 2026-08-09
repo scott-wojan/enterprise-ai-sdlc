@@ -60,3 +60,17 @@ Version 0.1 may maintain traceability in Markdown. A machine-readable register m
 - CTRL-AUTH-001 through CTRL-AUTH-008 are defined in `docs/core/authority-and-risk.md`.
 - SRC-003, SRC-007 and SRC-009 inform the authority model and are interpreted in `docs/core/authority-and-risk.md`.
 - Later Pilot Edition procedures and artifacts must identify which CTRL-AUTH controls they implement or consume.
+
+### Durable evidence
+
+- PRIN-003 is implemented by CTRL-EVID-004 and CTRL-EVID-008.
+- PRIN-004 is implemented by CTRL-EVID-001 through CTRL-EVID-008.
+- PRIN-005 is implemented by CTRL-EVID-003, CTRL-EVID-005, CTRL-EVID-006 and CTRL-EVID-008.
+- PRIN-008 is implemented by CTRL-EVID-001, CTRL-EVID-003 and CTRL-EVID-008.
+- PRIN-009 is implemented by CTRL-EVID-002, CTRL-EVID-006 and CTRL-EVID-007.
+- PRIN-011 is supported by CTRL-EVID-003, CTRL-EVID-005 and CTRL-EVID-008 because they preserve failure and disposition evidence for later system improvement.
+- CTRL-EVID-001 through CTRL-EVID-008 consume CTRL-ACC-001, CTRL-ACC-004, CTRL-ACC-005 and CTRL-ACC-007.
+- CTRL-EVID-001 through CTRL-EVID-008 consume CTRL-AUTH-001, CTRL-AUTH-002, CTRL-AUTH-005, CTRL-AUTH-007 and CTRL-AUTH-008.
+- CTRL-EVID-001 through CTRL-EVID-008 are defined in `docs/core/evidence.md`.
+- SRC-002, SRC-003, SRC-004 and SRC-009 inform the evidence model and are interpreted in `docs/core/evidence.md`.
+- Later Pilot Edition procedures and artifacts must identify which CTRL-EVID controls they implement or consume.
