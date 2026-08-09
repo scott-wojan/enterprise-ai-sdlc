@@ -10,7 +10,7 @@ Version 0.1 Pilot Edition.
 
 ## Current objective
 
-Define Pilot Edition roles and operating-model procedures beginning with issue [#60](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/60).
+Define balanced Pilot Edition measures beginning with issue [#63](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/63).
 
 ## Completed
 
@@ -59,6 +59,7 @@ Define Pilot Edition roles and operating-model procedures beginning with issue [
 - Complete Bounded Change evidence, release-handoff and failure-response procedures
 - Operational identity, isolation, tool, verification, approval, audit, evidence, incident and revocation controls
 - Complete Pilot Edition artifact definitions and usable Markdown templates
+- Complete enterprise, platform, domain, delivery and operations decision-right model
 - Product roadmap
 - Complete epic catalog
 - Issue and pull-request templates
@@ -75,7 +76,7 @@ Define Pilot Edition roles and operating-model procedures beginning with issue [
 
 ## Next controlled sequence
 
-1. Define Pilot Edition roles and operating-model procedures beginning with issue [#60](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/60).
+1. Define balanced Pilot Edition measures beginning with issue [#63](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/63).
 2. Preserve the recorded dependency order and validation gates.
 3. Continue only in the dependency order recorded by the Pilot Edition backlog.
 
