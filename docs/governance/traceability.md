@@ -342,3 +342,10 @@ Version 0.1 may maintain traceability in Markdown. A machine-readable register m
 - It executes recoverable batches, records material actions, runs independent checks and stops on uncertainty or deviation before unapproved action.
 - It produces a candidate or verified recovered state, full execution evidence and revocation and cleanup proof without claiming success.
 - SRC-003, SRC-004 and SRC-007 inform lifecycle execution, specification-led batches and harness enforcement and are interpreted in this procedure.
+
+### Bounded verification and human review
+
+- PROC-BND-006 produces independent deterministic evidence and blocks on any required failure, missing result or scope mismatch.
+- PROC-BND-007 follows verification as a separate gate for human judgment of intent, design, risk, verification adequacy and maintainability.
+- Candidate drift invalidates both gates, and AI cannot approve, merge or reinterpret a failed deterministic result.
+- SRC-004, SRC-006, SRC-007 and SRC-008 inform specification evidence, context-aware review, harness checks and deterministic precedence and are interpreted in these procedures.
