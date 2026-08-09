@@ -255,3 +255,14 @@ Version 0.1 may maintain traceability in Markdown. A machine-readable register m
 - These categories, classes and controls are defined in `docs/foundation/use-and-risk-classification.md`.
 - SRC-002, SRC-003, SRC-008 and SRC-009 inform classification and are interpreted in `docs/foundation/use-and-risk-classification.md`.
 - Readiness, pilot and delivery procedures must consume and preserve the classification.
+
+### Pilot Edition minimum control baseline
+
+- PRIN-002, PRIN-004, PRIN-005 and PRIN-008 are implemented by CTRL-BASELINE-001 through CTRL-BASELINE-005.
+- PRIN-001 and PRIN-010 are implemented by the baseline's state and risk profiles and restriction rules.
+- The Foundation, Assisted Work and Bounded Change profiles map normative controls to required owners, enforcement and evidence.
+- RISK-C1 through RISK-C4 add risk overlays to those state profiles.
+- CTRL-BASELINE-001 through CTRL-BASELINE-005 consume CTRL-READY-CTL and the normative control families.
+- The profiles and controls are defined in `docs/foundation/minimum-controls.md`.
+- SRC-006, SRC-008 and SRC-009 inform the baseline and are interpreted in `docs/foundation/minimum-controls.md`.
+- Readiness, pilot selection and delivery procedures must consume the applicable profile and preserve test evidence.
