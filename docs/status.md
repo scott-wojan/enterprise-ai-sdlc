@@ -10,7 +10,7 @@ Version 0.1 Pilot Edition.
 
 ## Current objective
 
-Establish the pre-pilot delivery baseline in issue [#39](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/39).
+Select pilot teams and establish support and incident channels in issue [#40](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/40).
 
 ## Completed
 
@@ -45,6 +45,7 @@ Establish the pre-pilot delivery baseline in issue [#39](https://github.com/scot
 - Enterprise ownership roles and actionable AI delivery stance
 - Approved-use categories and change-risk classes
 - Pilot Edition minimum control baseline
+- Executable pre-pilot delivery baseline procedure
 - Product roadmap
 - Complete epic catalog
 - Issue and pull-request templates
@@ -61,8 +62,8 @@ Establish the pre-pilot delivery baseline in issue [#39](https://github.com/scot
 
 ## Next controlled sequence
 
-1. Establish the pre-pilot delivery baseline in issue [#39](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/39).
-2. Select pilot teams and establish support and incident channels in issue [#40](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/40).
+1. Select pilot teams and establish support and incident channels in issue [#40](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/40).
+2. Continue with the next dependency-safe Pilot Edition work item recorded in the backlog.
 3. Continue only in the dependency order recorded by the Pilot Edition backlog.
 
 The foundation gate is satisfied. Changes to the release boundary or product architecture require a recorded methodology decision.
