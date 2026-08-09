@@ -10,7 +10,7 @@ Version 0.1 Pilot Edition.
 
 ## Current objective
 
-Define approved-use categories and change-risk classes in issue [#37](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/37).
+Define the Pilot Edition minimum control baseline in issue [#38](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/38).
 
 ## Completed
 
@@ -43,6 +43,7 @@ Define approved-use categories and change-risk classes in issue [#37](https://gi
 - Executable readiness decision and remediation procedure
 - Readiness decision artifact definition
 - Enterprise ownership roles and actionable AI delivery stance
+- Approved-use categories and change-risk classes
 - Product roadmap
 - Complete epic catalog
 - Issue and pull-request templates
@@ -59,8 +60,8 @@ Define approved-use categories and change-risk classes in issue [#37](https://gi
 
 ## Next controlled sequence
 
-1. Define approved-use categories and change-risk classes in issue [#37](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/37).
-2. Define the Pilot Edition minimum control baseline in issue [#38](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/38).
+1. Define the Pilot Edition minimum control baseline in issue [#38](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/38).
+2. Establish the pre-pilot delivery baseline in issue [#39](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/39).
 3. Continue only in the dependency order recorded by the Pilot Edition backlog.
 
 The foundation gate is satisfied. Changes to the release boundary or product architecture require a recorded methodology decision.
