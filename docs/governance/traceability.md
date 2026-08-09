@@ -328,3 +328,10 @@ Version 0.1 may maintain traceability in Markdown. A machine-readable register m
 - It covers repository, revision, path, environment, data, secret, identity, tool, command, network, side-effect, resource, time, output, evidence, recovery and cleanup dimensions.
 - Positive and negative boundary tests implement deterministic precedence and produce durable evidence before execution.
 - SRC-007, SRC-008 and SRC-009 inform harness-enforced boundaries, security controls and financial-services governance and are interpreted in this procedure.
+
+### Bounded plan and approval
+
+- PROC-BND-004 consumes classification, prepared-repository and execution-boundary versions and produces an immutable small-batch plan.
+- It separates factual constraints from consequential choices and records accountable human dispositions before execution.
+- Each batch names scope, checks, review, stop and recovery, and technical gating prevents execution without matching approval.
+- SRC-002, SRC-003 and SRC-004 inform specification artifacts, lifecycle gates and human approval and are interpreted in this procedure.
