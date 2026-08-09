@@ -335,3 +335,10 @@ Version 0.1 may maintain traceability in Markdown. A machine-readable register m
 - It separates factual constraints from consequential choices and records accountable human dispositions before execution.
 - Each batch names scope, checks, review, stop and recovery, and technical gating prevents execution without matching approval.
 - SRC-002, SRC-003 and SRC-004 inform specification artifacts, lifecycle gates and human approval and are interpreted in this procedure.
+
+### Bounded execution
+
+- PROC-BND-005 consumes the immutable plan, boundary, prepared base and executor identity as a matched start tuple.
+- It executes recoverable batches, records material actions, runs independent checks and stops on uncertainty or deviation before unapproved action.
+- It produces a candidate or verified recovered state, full execution evidence and revocation and cleanup proof without claiming success.
+- SRC-003, SRC-004 and SRC-007 inform lifecycle execution, specification-led batches and harness enforcement and are interpreted in this procedure.
