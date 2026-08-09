@@ -365,3 +365,11 @@ Version 0.1 may maintain traceability in Markdown. A machine-readable register m
 - CTRL-GATE-001 through CTRL-GATE-002 and CTRL-AUD-001 through CTRL-AUD-002 implement exact-context approval, segregation, reconstructable audit and protected evidence.
 - CTRL-INC-001 through CTRL-INC-004 implement incident triggers, independent stop and revocation, evidence-preserving investigation and governed re-entry.
 - SRC-003, SRC-005 through SRC-009 inform this substrate and are interpreted in `docs/controls/`.
+
+### Pilot artifact system
+
+- ART-ENT-001, ART-USE-001 and ART-READY-001 preserve enterprise authority, use intake and evidence-backed readiness decisions.
+- ART-PILOT-001 and ART-RISK-001 turn pilot scope, stop criteria and workflow classification into durable inputs.
+- ART-SPEC-001, ART-PLAN-001 and ART-APPROVAL-001 separate human intent, implementation method and exact-version human decisions.
+- ART-VERIFY-001, ART-RELEASE-001, ART-FEEDBACK-001 and ART-ADV-001 preserve gate evidence, release lineage, operational outcomes and explicit adoption decisions.
+- A matching Markdown template under `templates/` makes each artifact producible without hidden author context.
