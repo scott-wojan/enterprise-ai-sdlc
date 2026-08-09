@@ -10,7 +10,7 @@ Version 0.1 Pilot Edition.
 
 ## Current objective
 
-Create assisted test suggestion and code-review procedures in issue [#43](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/43).
+Complete the next dependency-safe Pilot Edition work item recorded in the backlog.
 
 ## Completed
 
@@ -49,6 +49,7 @@ Create assisted test suggestion and code-review procedures in issue [#43](https:
 - Executable pilot selection, support and incident-preparation procedure
 - Read-only assisted codebase explanation and requirements analysis procedures
 - Human-owned assisted documentation drafting procedure
+- Advisory test-suggestion and code-review procedures
 - Product roadmap
 - Complete epic catalog
 - Issue and pull-request templates
@@ -65,8 +66,8 @@ Create assisted test suggestion and code-review procedures in issue [#43](https:
 
 ## Next controlled sequence
 
-1. Create assisted test suggestion and code-review procedures in issue [#43](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/43).
-2. Continue with the next dependency-safe Pilot Edition work item recorded in the backlog.
+1. Complete the next dependency-safe Pilot Edition work item recorded in the backlog.
+2. Preserve the recorded dependency order and validation gates.
 3. Continue only in the dependency order recorded by the Pilot Edition backlog.
 
 The foundation gate is satisfied. Changes to the release boundary or product architecture require a recorded methodology decision.

@@ -299,3 +299,11 @@ Version 0.1 may maintain traceability in Markdown. A machine-readable register m
 - It produces an authorized source map, non-authoritative draft, review dispositions, human-approved candidate and verified publication record.
 - SRC-005 and SRC-010 inform context-grounded drafting and bounded pilot use and are interpreted in `docs/procedures/assisted/draft-documentation.md`.
 - AI cannot own accuracy, approval, publication or audience permissions.
+
+### Assisted test suggestion and code review
+
+- PROC-AST-004 implements evidence-linked advisory test design while separating suggestions from deterministic execution results.
+- PROC-AST-005 implements revision-bound advisory code review while preserving independent checks and accountable human approval.
+- Both procedures consume the approved Assisted Work scope, CTRL-STATE-AST controls, CTRL-PREC controls, applicable CTRL-BASELINE profile and PROC-PILOT-002.
+- They produce source-linked observations, visible uncertainty, coverage limits and human dispositions without change or approval authority.
+- SRC-006 and SRC-008 inform specification-led review and deterministic control precedence and are interpreted in these procedures.
