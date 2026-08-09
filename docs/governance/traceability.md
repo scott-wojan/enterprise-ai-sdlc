@@ -388,3 +388,11 @@ Version 0.1 may maintain traceability in Markdown. A machine-readable register m
 - MEAS-OPS-001, MEAS-SEC-001, MEAS-PROD-001, MEAS-EXP-001, MEAS-ECON-001 and MEAS-USE-001 complete operational, security, product, experience, economic and diagnostic coverage.
 - PROC-PILOT-003 consumes every required dimension, applies guardrails before benefits and produces ART-ADV-001 without a composite score.
 - SRC-001 and SRC-010 inform balanced delivery outcomes and measured rollout and are interpreted in the measure chapters and procedure.
+
+### Integrated pilot operation
+
+- PROC-PILOT-004 integrates readiness, selection, charter, baseline and launch into one testable start gate.
+- PROC-PILOT-005 and PROC-PILOT-006 turn role-specific onboarding, support, canonical procedures and guardrail monitoring into normal operation.
+- PROC-PILOT-007 converts failure and friction into multi-factor, owned, verified system improvement rather than prompt blame.
+- PROC-PILOT-008 consumes the scorecard and inspection evidence to decide exact continuation and standardize only comparable, risk-preserving practices.
+- SRC-001, SRC-005 through SRC-007 and SRC-010 inform this integrated lifecycle and are interpreted in these procedures.
