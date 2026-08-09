@@ -195,3 +195,18 @@ Version 0.1 may maintain traceability in Markdown. A machine-readable register m
 - These controls are defined in `docs/readiness/organizational-and-team.md`.
 - SRC-001 and SRC-010 inform organizational and team readiness and are interpreted in `docs/readiness/organizational-and-team.md`.
 - The readiness decision procedure must consume each readiness finding and its evidence.
+
+### Engineering and context readiness
+
+- PRIN-001 is implemented by CTRL-READY-ENG-001 through CTRL-READY-ENG-004 and CTRL-READY-CTX-001 through CTRL-READY-CTX-002.
+- PRIN-002 is implemented by CTRL-READY-ENG-002 through CTRL-READY-ENG-004 and CTRL-READY-CTX-002.
+- PRIN-004 is implemented by all engineering and context readiness controls.
+- PRIN-005 is implemented by CTRL-READY-ENG-003 and CTRL-READY-ENG-004.
+- PRIN-006 is implemented by CTRL-READY-ENG-002 and CTRL-READY-ENG-004.
+- PRIN-008 is implemented by CTRL-READY-CTX-002.
+- PRIN-009 is implemented by CTRL-READY-CTX-001 and CTRL-READY-CTX-002.
+- PRIN-011 is supported by the remediation and review triggers in all engineering and context readiness controls.
+- CTRL-READY-ENG-001 through CTRL-READY-ENG-004 and CTRL-READY-CTX-001 through CTRL-READY-CTX-002 consume the applicable normative-core and adoption-state controls.
+- These controls are defined in `docs/readiness/engineering-and-context.md`.
+- SRC-001, SRC-005, SRC-006 and SRC-007 inform engineering and context readiness and are interpreted in `docs/readiness/engineering-and-context.md`.
+- The readiness decision procedure must consume each finding, restriction and remediation item.
