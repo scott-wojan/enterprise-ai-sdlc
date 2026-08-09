@@ -10,7 +10,7 @@ Version 0.1 Pilot Edition.
 
 ## Current objective
 
-Implement the repository validation automation defined by issue [#21](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/21), then begin the normative core in its recorded dependency order.
+Define human accountability and consequential decisions in issue [#22](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/22), then continue the normative core in its recorded dependency order.
 
 ## Completed
 
@@ -26,6 +26,7 @@ Implement the repository validation automation defined by issue [#21](https://gi
 - Writing standard
 - Traceability model
 - Validation approach
+- Automated repository content validation
 - Product roadmap
 - Complete epic catalog
 - Issue and pull-request templates
@@ -33,7 +34,6 @@ Implement the repository validation automation defined by issue [#21](https://gi
 
 ## Not yet started
 
-- Automated repository content validation
 - Normative controls and procedures
 - Artifact templates
 - Worked examples
@@ -41,8 +41,8 @@ Implement the repository validation automation defined by issue [#21](https://gi
 
 ## Next controlled sequence
 
-1. Implement and validate content automation in issue [#21](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/21).
-2. Implement the normative core in issues [#22](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/22) through [#27](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/27).
+1. Implement human accountability and consequential decisions in issue [#22](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/22).
+2. Complete the remaining normative core in issues [#23](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/23) through [#27](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/27) in dependency order.
 3. Continue only in the dependency order recorded by the Pilot Edition backlog.
 
 The foundation gate is satisfied. Changes to the release boundary or product architecture require a recorded methodology decision.
