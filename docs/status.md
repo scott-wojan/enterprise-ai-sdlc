@@ -10,7 +10,7 @@ Version 0.1 Pilot Edition.
 
 ## Current objective
 
-Create the bounded-change execution procedure in issue [#48](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/48).
+Create bounded verification and human-review procedures in issue [#49](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/49).
 
 ## Completed
 
@@ -54,6 +54,7 @@ Create the bounded-change execution procedure in issue [#48](https://github.com/
 - Bounded Change work-classification and repository-preparation procedures
 - Least-authority bounded execution-boundary procedure
 - Human-approved, small-batch Bounded Change planning procedure
+- Controlled, checkpointed Bounded Change execution procedure
 - Product roadmap
 - Complete epic catalog
 - Issue and pull-request templates
@@ -70,7 +71,7 @@ Create the bounded-change execution procedure in issue [#48](https://github.com/
 
 ## Next controlled sequence
 
-1. Create the bounded-change execution procedure in issue [#48](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/48).
+1. Create bounded verification and human-review procedures in issue [#49](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/49).
 2. Preserve the recorded dependency order and validation gates.
 3. Continue only in the dependency order recorded by the Pilot Edition backlog.
 
