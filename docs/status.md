@@ -10,7 +10,7 @@ Version 0.1 Pilot Edition.
 
 ## Current objective
 
-Create complete worked examples beginning with issue [#70](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/70).
+Create facilitation guides beginning with issue [#72](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/72).
 
 ## Completed
 
@@ -62,6 +62,7 @@ Create complete worked examples beginning with issue [#70](https://github.com/sc
 - Complete enterprise, platform, domain, delivery and operations decision-right model
 - Balanced baseline, flow, quality, operations, security, product, experience and economic measures with a decision procedure and scorecard
 - Integrated pilot start, onboarding, operation, failure-inspection and standardization runbook
+- Complete Assisted Work and Bounded Defect Correction examples with filled artifacts and stop paths
 - Product roadmap
 - Complete epic catalog
 - Issue and pull-request templates
@@ -78,7 +79,7 @@ Create complete worked examples beginning with issue [#70](https://github.com/sc
 
 ## Next controlled sequence
 
-1. Create complete worked examples beginning with issue [#70](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/70).
+1. Create facilitation guides beginning with issue [#72](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/72).
 2. Preserve the recorded dependency order and validation gates.
 3. Continue only in the dependency order recorded by the Pilot Edition backlog.
 

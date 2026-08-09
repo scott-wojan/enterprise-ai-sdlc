@@ -396,3 +396,9 @@ Version 0.1 may maintain traceability in Markdown. A machine-readable register m
 - PROC-PILOT-007 converts failure and friction into multi-factor, owned, verified system improvement rather than prompt blame.
 - PROC-PILOT-008 consumes the scorecard and inspection evidence to decide exact continuation and standardize only comparable, risk-preserving practices.
 - SRC-001, SRC-005 through SRC-007 and SRC-010 inform this integrated lifecycle and are interpreted in these procedures.
+
+### Worked Pilot Edition examples
+
+- `docs/examples/assisted-work.md` executes intake, readiness, charter, onboarding, PROC-AST-001 through PROC-AST-003, evidence, balanced evaluation and a sensitive-source stop path.
+- `docs/examples/bounded-defect-correction.md` executes PROC-BND-001 through PROC-BND-009 with filled risk, specification, plan, approval, verification, release, feedback and advancement artifacts.
+- Both examples preserve human accountability, exact scope, facts versus inference, deterministic precedence, stop behavior and vendor neutrality.
