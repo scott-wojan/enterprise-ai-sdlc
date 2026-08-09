@@ -10,7 +10,7 @@ Version 0.1 Pilot Edition.
 
 ## Current objective
 
-Create the integrated pilot operating procedures beginning with issue [#66](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/66).
+Create complete worked examples beginning with issue [#70](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/70).
 
 ## Completed
 
@@ -61,6 +61,7 @@ Create the integrated pilot operating procedures beginning with issue [#66](http
 - Complete Pilot Edition artifact definitions and usable Markdown templates
 - Complete enterprise, platform, domain, delivery and operations decision-right model
 - Balanced baseline, flow, quality, operations, security, product, experience and economic measures with a decision procedure and scorecard
+- Integrated pilot start, onboarding, operation, failure-inspection and standardization runbook
 - Product roadmap
 - Complete epic catalog
 - Issue and pull-request templates
@@ -77,7 +78,7 @@ Create the integrated pilot operating procedures beginning with issue [#66](http
 
 ## Next controlled sequence
 
-1. Create the integrated pilot operating procedures beginning with issue [#66](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/66).
+1. Create complete worked examples beginning with issue [#70](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/70).
 2. Preserve the recorded dependency order and validation gates.
 3. Continue only in the dependency order recorded by the Pilot Edition backlog.
 
