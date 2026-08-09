@@ -10,7 +10,7 @@ Version 0.1 Pilot Edition.
 
 ## Current objective
 
-Define the Pilot Edition minimum control baseline in issue [#38](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/38).
+Establish the pre-pilot delivery baseline in issue [#39](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/39).
 
 ## Completed
 
@@ -44,6 +44,7 @@ Define the Pilot Edition minimum control baseline in issue [#38](https://github.
 - Readiness decision artifact definition
 - Enterprise ownership roles and actionable AI delivery stance
 - Approved-use categories and change-risk classes
+- Pilot Edition minimum control baseline
 - Product roadmap
 - Complete epic catalog
 - Issue and pull-request templates
@@ -60,8 +61,8 @@ Define the Pilot Edition minimum control baseline in issue [#38](https://github.
 
 ## Next controlled sequence
 
-1. Define the Pilot Edition minimum control baseline in issue [#38](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/38).
-2. Establish the pre-pilot delivery baseline in issue [#39](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/39).
+1. Establish the pre-pilot delivery baseline in issue [#39](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/39).
+2. Select pilot teams and establish support and incident channels in issue [#40](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/40).
 3. Continue only in the dependency order recorded by the Pilot Edition backlog.
 
 The foundation gate is satisfied. Changes to the release boundary or product architecture require a recorded methodology decision.
