@@ -10,7 +10,7 @@ Version 0.1 Pilot Edition.
 
 ## Current objective
 
-Define transition decisions across Pilot Edition adoption states in issue [#31](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/31).
+Define organizational and team readiness in issue [#32](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/32).
 
 ## Completed
 
@@ -36,6 +36,7 @@ Define transition decisions across Pilot Edition adoption states in issue [#31](
 - Foundation adoption state
 - Assisted Work adoption state
 - Bounded Change adoption state
+- Pilot Edition adoption-state transition decisions
 - Product roadmap
 - Complete epic catalog
 - Issue and pull-request templates
@@ -52,8 +53,8 @@ Define transition decisions across Pilot Edition adoption states in issue [#31](
 
 ## Next controlled sequence
 
-1. Implement transition decisions in issue [#31](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/31).
-2. Continue with the next dependency-safe Pilot Edition work item recorded in the backlog.
+1. Implement organizational and team readiness in issue [#32](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/32).
+2. Implement engineering and context readiness in issue [#33](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/33).
 3. Continue only in the dependency order recorded by the Pilot Edition backlog.
 
 The foundation gate is satisfied. Changes to the release boundary or product architecture require a recorded methodology decision.
