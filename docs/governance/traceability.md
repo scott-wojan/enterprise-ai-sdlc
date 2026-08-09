@@ -402,3 +402,10 @@ Version 0.1 may maintain traceability in Markdown. A machine-readable register m
 - `docs/examples/assisted-work.md` executes intake, readiness, charter, onboarding, PROC-AST-001 through PROC-AST-003, evidence, balanced evaluation and a sensitive-source stop path.
 - `docs/examples/bounded-defect-correction.md` executes PROC-BND-001 through PROC-BND-009 with filled risk, specification, plan, approval, verification, release, feedback and advancement artifacts.
 - Both examples preserve human accountability, exact scope, facts versus inference, deterministic precedence, stop behavior and vendor neutrality.
+
+### Facilitation guides
+
+- `leadership-alignment.md` produces ART-ENT-001 and named enterprise accountability from evidence and decision owners.
+- `readiness-workshop.md` produces ART-READY-001 and authority-changing remediation without composite scoring.
+- The pilot design, team onboarding and pilot review guides produce downstream-ready ART-PILOT-001, role demonstration and ART-ADV-001 evidence.
+- Each guide defines pre-work, required decision owners, outputs, agenda, stop conditions and procedural handoff.
