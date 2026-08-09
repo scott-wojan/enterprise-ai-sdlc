@@ -10,7 +10,7 @@ Version 0.1 Pilot Edition.
 
 ## Current objective
 
-Define durable evidence requirements in issue [#24](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/24), using the approved accountability and authority controls as its foundation.
+Define deterministic and inferential control precedence in issue [#25](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/25), using the approved accountability, authority and evidence controls as its foundation.
 
 ## Completed
 
@@ -29,6 +29,7 @@ Define durable evidence requirements in issue [#24](https://github.com/scott-woj
 - Automated repository content validation
 - Human-accountability and consequential-decision controls
 - Authority-boundary and risk-treatment controls
+- Durable-evidence controls
 - Product roadmap
 - Complete epic catalog
 - Issue and pull-request templates
@@ -46,8 +47,8 @@ Define durable evidence requirements in issue [#24](https://github.com/scott-woj
 
 ## Next controlled sequence
 
-1. Implement durable evidence requirements in issue [#24](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/24).
-2. Complete the remaining normative core in issues [#25](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/25) through [#27](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/27) in dependency order.
+1. Implement deterministic and inferential control precedence in issue [#25](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/25).
+2. Complete the remaining normative core in issues [#26](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/26) and [#27](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/27) in dependency order.
 3. Continue only in the dependency order recorded by the Pilot Edition backlog.
 
 The foundation gate is satisfied. Changes to the release boundary or product architecture require a recorded methodology decision.
