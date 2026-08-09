@@ -349,3 +349,10 @@ Version 0.1 may maintain traceability in Markdown. A machine-readable register m
 - PROC-BND-007 follows verification as a separate gate for human judgment of intent, design, risk, verification adequacy and maintainability.
 - Candidate drift invalidates both gates, and AI cannot approve, merge or reinterpret a failed deterministic result.
 - SRC-004, SRC-006, SRC-007 and SRC-008 inform specification evidence, context-aware review, harness checks and deterministic precedence and are interpreted in these procedures.
+
+### Bounded completion, release and failure response
+
+- PROC-BND-009 assembles end-to-end evidence and hands the exact verified and human-approved candidate to existing enterprise release controls without bypass.
+- PROC-BND-008 stops and revokes independently, preserves reconstructable evidence, verifies recovery and cleanup, and converts repeat causes into owned system remediation.
+- Together they complete the Bounded Change lifecycle while preserving normal release and incident authority.
+- SRC-002, SRC-006 and SRC-007 inform human gates, context learning and harness-controlled recovery and are interpreted in these procedures.
