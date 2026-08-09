@@ -291,3 +291,11 @@ Version 0.1 may maintain traceability in Markdown. A machine-readable register m
 - They produce revision-bound evidence, explicit fact and inference separation, human dispositions, unresolved-risk records and escalation evidence.
 - SRC-005 and SRC-006 inform context-grounded explanation and specification analysis and are interpreted in `docs/procedures/assisted/`.
 - No output from these procedures grants change authority.
+
+### Assisted documentation drafting
+
+- PRIN-001 through PRIN-005 and PRIN-007 through PRIN-011 are implemented by PROC-AST-003 through source mapping, draft-only authority, human accuracy review and authorized publication.
+- PROC-AST-003 consumes the approved Assisted Work scope, CTRL-STATE-AST controls, applicable classification and CTRL-BASELINE profile, and PROC-PILOT-002.
+- It produces an authorized source map, non-authoritative draft, review dispositions, human-approved candidate and verified publication record.
+- SRC-005 and SRC-010 inform context-grounded drafting and bounded pilot use and are interpreted in `docs/procedures/assisted/draft-documentation.md`.
+- AI cannot own accuracy, approval, publication or audience permissions.

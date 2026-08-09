@@ -10,7 +10,7 @@ Version 0.1 Pilot Edition.
 
 ## Current objective
 
-Create the assisted documentation drafting procedure in issue [#42](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/42).
+Create assisted test suggestion and code-review procedures in issue [#43](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/43).
 
 ## Completed
 
@@ -48,6 +48,7 @@ Create the assisted documentation drafting procedure in issue [#42](https://gith
 - Executable pre-pilot delivery baseline procedure
 - Executable pilot selection, support and incident-preparation procedure
 - Read-only assisted codebase explanation and requirements analysis procedures
+- Human-owned assisted documentation drafting procedure
 - Product roadmap
 - Complete epic catalog
 - Issue and pull-request templates
@@ -64,8 +65,8 @@ Create the assisted documentation drafting procedure in issue [#42](https://gith
 
 ## Next controlled sequence
 
-1. Create the assisted documentation drafting procedure in issue [#42](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/42).
-2. Create assisted test suggestion and code-review procedures in issue [#43](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/43).
+1. Create assisted test suggestion and code-review procedures in issue [#43](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/43).
+2. Continue with the next dependency-safe Pilot Edition work item recorded in the backlog.
 3. Continue only in the dependency order recorded by the Pilot Edition backlog.
 
 The foundation gate is satisfied. Changes to the release boundary or product architecture require a recorded methodology decision.
