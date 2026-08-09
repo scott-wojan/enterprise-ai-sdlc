@@ -72,6 +72,10 @@ A control whose execution and result are reproducible, such as a test, policy ru
 
 A durable record showing that an action occurred, a requirement was evaluated or a decision was made.
 
+## Evidence package
+
+The linked set of durable records needed to reconstruct one material AI-assisted work item, including its intent, authority, actions, verification, human decisions and disposition.
+
 ## Governed workflow
 
 A multi-step workflow in which AI may plan and execute bounded tasks between explicit validation and approval points.
@@ -87,6 +91,18 @@ A required decision made by a named accountable human role before work may conti
 ## Inferential control
 
 A probabilistic evaluation, often performed by an AI model, used where deterministic rules cannot fully evaluate meaning or intent.
+
+## Material action
+
+An action that accesses governed context, invokes an authorized tool, changes durable state, directs later work, evaluates a requirement, crosses a boundary or affects a consequential decision.
+
+## Provenance
+
+Information that establishes a record's producer, origin, time, version, transformations and relationship to the work it supports.
+
+## Retention owner
+
+The human or organizational role accountable for keeping evidence protected, accessible, readable and appropriately disposed of under applicable policy.
 
 ## Restriction
 
