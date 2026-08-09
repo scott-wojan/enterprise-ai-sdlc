@@ -10,7 +10,7 @@ Version 0.1 Pilot Edition.
 
 ## Current objective
 
-Create evidence, release and failed-execution procedures in issue [#50](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/50).
+Define identity and authorization controls in issue [#51](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/51).
 
 ## Completed
 
@@ -56,6 +56,7 @@ Create evidence, release and failed-execution procedures in issue [#50](https://
 - Human-approved, small-batch Bounded Change planning procedure
 - Controlled, checkpointed Bounded Change execution procedure
 - Independent deterministic verification and accountable human-review gates
+- Complete Bounded Change evidence, release-handoff and failure-response procedures
 - Product roadmap
 - Complete epic catalog
 - Issue and pull-request templates
@@ -72,7 +73,7 @@ Create evidence, release and failed-execution procedures in issue [#50](https://
 
 ## Next controlled sequence
 
-1. Create evidence, release and failed-execution procedures in issue [#50](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/50).
+1. Define identity and authorization controls in issue [#51](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/51).
 2. Preserve the recorded dependency order and validation gates.
 3. Continue only in the dependency order recorded by the Pilot Edition backlog.
 
