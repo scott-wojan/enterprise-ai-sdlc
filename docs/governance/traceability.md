@@ -121,3 +121,18 @@ Version 0.1 may maintain traceability in Markdown. A machine-readable register m
 - These controls are defined in `docs/core/context-exceptions-and-learning.md`.
 - SRC-005, SRC-006 and SRC-007 inform the context, exception and learning model and are interpreted in `docs/core/context-exceptions-and-learning.md`.
 - Later Pilot Edition procedures and artifacts must identify which CTRL-CTX, CTRL-EXC and CTRL-LEARN controls they implement or consume.
+
+### Foundation adoption state
+
+- PRIN-001 is implemented by CTRL-STATE-FND-001, CTRL-STATE-FND-004 and CTRL-STATE-FND-005.
+- PRIN-002 is implemented by CTRL-STATE-FND-001 through CTRL-STATE-FND-005.
+- PRIN-003 is implemented by CTRL-STATE-FND-003 through CTRL-STATE-FND-005.
+- PRIN-004 is implemented by CTRL-STATE-FND-001 and CTRL-STATE-FND-003 through CTRL-STATE-FND-005.
+- PRIN-005 is implemented by CTRL-STATE-FND-002 and CTRL-STATE-FND-004.
+- PRIN-007 is implemented by CTRL-STATE-FND-004 and CTRL-STATE-FND-005.
+- PRIN-008 is implemented by CTRL-STATE-FND-002 and CTRL-STATE-FND-003.
+- PRIN-010 is implemented by CTRL-STATE-FND-001 and CTRL-STATE-FND-005.
+- CTRL-STATE-FND-001 through CTRL-STATE-FND-005 consume the applicable normative-core controls.
+- CTRL-STATE-FND-001 through CTRL-STATE-FND-005 are defined in `docs/adoption/foundation.md`.
+- SRC-001 and SRC-010 inform the Foundation state and are interpreted in `docs/adoption/foundation.md`.
+- Later Pilot Edition procedures and artifacts must identify how they implement or consume the Foundation state controls.
