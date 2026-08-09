@@ -307,3 +307,10 @@ Version 0.1 may maintain traceability in Markdown. A machine-readable register m
 - Both procedures consume the approved Assisted Work scope, CTRL-STATE-AST controls, CTRL-PREC controls, applicable CTRL-BASELINE profile and PROC-PILOT-002.
 - They produce source-linked observations, visible uncertainty, coverage limits and human dispositions without change or approval authority.
 - SRC-006 and SRC-008 inform specification-led review and deterministic control precedence and are interpreted in these procedures.
+
+### Assisted incident summary and outcome evaluation
+
+- PROC-AST-006 preserves human incident authority while producing a source-grounded timeline with visible uncertainty.
+- PROC-AST-007 uses the pre-pilot baseline and balanced flow, quality, risk and experience evidence to decide continue, condition, restrict, pause or stop.
+- Both consume the approved Assisted Work scope, applicable controls and PROC-PILOT-002. PROC-AST-007 also consumes PROC-PILOT-001.
+- SRC-001, SRC-005 and SRC-010 inform balanced outcome review, context-grounded synthesis and measured rollout and are interpreted in these procedures.

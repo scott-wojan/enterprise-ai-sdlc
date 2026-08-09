@@ -50,6 +50,7 @@ Complete the next dependency-safe Pilot Edition work item recorded in the backlo
 - Read-only assisted codebase explanation and requirements analysis procedures
 - Human-owned assisted documentation drafting procedure
 - Advisory test-suggestion and code-review procedures
+- Human-controlled incident summarization and balanced Assisted Work evaluation procedures
 - Product roadmap
 - Complete epic catalog
 - Issue and pull-request templates
