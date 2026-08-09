@@ -10,7 +10,7 @@ Version 0.1 Pilot Edition.
 
 ## Current objective
 
-Create facilitation guides beginning with issue [#72](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/72).
+Assemble the Pilot Edition release in issue [#74](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/74).
 
 ## Completed
 
@@ -63,6 +63,7 @@ Create facilitation guides beginning with issue [#72](https://github.com/scott-w
 - Balanced baseline, flow, quality, operations, security, product, experience and economic measures with a decision procedure and scorecard
 - Integrated pilot start, onboarding, operation, failure-inspection and standardization runbook
 - Complete Assisted Work and Bounded Defect Correction examples with filled artifacts and stop paths
+- Leadership, readiness, pilot-design, team-onboarding and pilot-review facilitation guides
 - Product roadmap
 - Complete epic catalog
 - Issue and pull-request templates
@@ -79,7 +80,7 @@ Create facilitation guides beginning with issue [#72](https://github.com/scott-w
 
 ## Next controlled sequence
 
-1. Create facilitation guides beginning with issue [#72](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/72).
+1. Assemble the Pilot Edition release in issue [#74](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/74).
 2. Preserve the recorded dependency order and validation gates.
 3. Continue only in the dependency order recorded by the Pilot Edition backlog.
 
