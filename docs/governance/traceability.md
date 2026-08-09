@@ -224,3 +224,14 @@ Version 0.1 may maintain traceability in Markdown. A machine-readable register m
 - These controls are defined in `docs/readiness/control-and-measurement.md`.
 - SRC-001, SRC-008 and SRC-009 inform control and measurement readiness and are interpreted in `docs/readiness/control-and-measurement.md`.
 - The readiness decision and pilot procedures must consume each finding, restriction, baseline and measure definition.
+
+### Readiness decision and remediation
+
+- PRIN-001 is implemented by PROC-READY-001 and ART-READY-001 through evidence-based state selection and reassessment.
+- PRIN-002, PRIN-003, PRIN-004, PRIN-007, PRIN-008 and PRIN-010 are implemented by the procedure's scoped decision, accountability, evidence, measurement, authority and optional-advancement rules.
+- PRIN-011 is implemented by owned remediation and triggered reassessment.
+- PROC-READY-001 consumes every organizational, team, engineering, context, control and measurement readiness condition.
+- PROC-READY-001 consumes the Pilot Edition state definitions and CTRL-STATE-DEC-001 through CTRL-STATE-DEC-005.
+- PROC-READY-001 produces ART-READY-001, state and authority restrictions, remediation and risk decisions.
+- ART-READY-001 is defined in `docs/artifacts/readiness-decision.md` and consumed by state, authority, foundation and pilot procedures.
+- SRC-001 informs the procedure's capability and evidence orientation and is interpreted in the readiness chapters.

@@ -10,7 +10,7 @@ Version 0.1 Pilot Edition.
 
 ## Current objective
 
-Create the readiness decision and remediation procedure in issue [#35](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/35).
+Establish enterprise ownership and the AI stance in issue [#36](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/36).
 
 ## Completed
 
@@ -40,6 +40,8 @@ Create the readiness decision and remediation procedure in issue [#35](https://g
 - Organizational and team readiness conditions
 - Engineering and context readiness conditions
 - Control and measurement readiness conditions
+- Executable readiness decision and remediation procedure
+- Readiness decision artifact definition
 - Product roadmap
 - Complete epic catalog
 - Issue and pull-request templates
@@ -56,8 +58,8 @@ Create the readiness decision and remediation procedure in issue [#35](https://g
 
 ## Next controlled sequence
 
-1. Create the readiness decision and remediation procedure in issue [#35](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/35).
-2. Continue with the next dependency-safe Pilot Edition work item recorded in the backlog.
+1. Establish enterprise ownership and the AI stance in issue [#36](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/36).
+2. Define approved-use categories and change-risk classes in issue [#37](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/37).
 3. Continue only in the dependency order recorded by the Pilot Edition backlog.
 
 The foundation gate is satisfied. Changes to the release boundary or product architecture require a recorded methodology decision.

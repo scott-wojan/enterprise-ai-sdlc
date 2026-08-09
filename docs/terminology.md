@@ -156,6 +156,10 @@ Recurrence of the same or materially similar failure showing that the existing t
 
 An evidence-backed determination that a scoped readiness condition is ready, ready with restriction, a gap or not applicable.
 
+## Readiness decision
+
+An authenticated human decision assigning eligible work, restrictions, remediation and an adoption state from scoped readiness evidence.
+
 ## Restriction
 
 A reduction of previously granted authority while some part of the grant remains active.
