@@ -66,4 +66,4 @@ For each accountability, record the named person, backup, decisions they own, ex
 The detailed decision-rights model remains available in the canonical [role definitions](../../roles/enterprise-and-value-stream.md).
 
 **Previous:** [What the default pilot looks like](default-pilot.md)  
-**Next:** Name the pilot owner and decision group in Prepare.
+**Next:** [Name the pilot owner and decision group](../prepare/name-owners.md)
