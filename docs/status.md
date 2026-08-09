@@ -10,7 +10,7 @@ Version 0.1 Pilot Edition.
 
 ## Current objective
 
-Define context ownership, exception handling and repeated-failure improvement in issue [#27](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/27), completing the Pilot Edition normative core.
+Define the Foundation adoption state in issue [#28](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/28), translating the completed normative core into an evaluable entry state.
 
 ## Completed
 
@@ -32,6 +32,7 @@ Define context ownership, exception handling and repeated-failure improvement in
 - Durable-evidence controls
 - Deterministic and inferential control-precedence rules
 - Small-batch and reversibility controls
+- Context ownership, exception and repeated-failure controls
 - Product roadmap
 - Complete epic catalog
 - Issue and pull-request templates
@@ -39,7 +40,6 @@ Define context ownership, exception handling and repeated-failure improvement in
 
 ## Not yet started
 
-- Remaining normative core
 - Adoption-state definitions
 - Readiness and enterprise-foundation procedures
 - Assisted-work and bounded-change procedures
@@ -49,8 +49,8 @@ Define context ownership, exception handling and repeated-failure improvement in
 
 ## Next controlled sequence
 
-1. Implement context ownership, exception handling and repeated-failure improvement in issue [#27](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/27).
-2. Begin the Foundation adoption state in issue [#28](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/28).
+1. Implement the Foundation adoption state in issue [#28](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/28).
+2. Implement the Assisted Work adoption state in issue [#29](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/29) after its dependencies are resolved.
 3. Continue only in the dependency order recorded by the Pilot Edition backlog.
 
 The foundation gate is satisfied. Changes to the release boundary or product architecture require a recorded methodology decision.
