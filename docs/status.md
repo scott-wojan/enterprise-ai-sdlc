@@ -10,7 +10,7 @@ Version 0.1 Pilot Edition.
 
 ## Current objective
 
-Define identity and authorization controls in issue [#51](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/51).
+Create Pilot Edition artifact definitions beginning with issue [#56](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/56).
 
 ## Completed
 
@@ -57,6 +57,7 @@ Define identity and authorization controls in issue [#51](https://github.com/sco
 - Controlled, checkpointed Bounded Change execution procedure
 - Independent deterministic verification and accountable human-review gates
 - Complete Bounded Change evidence, release-handoff and failure-response procedures
+- Operational identity, isolation, tool, verification, approval, audit, evidence, incident and revocation controls
 - Product roadmap
 - Complete epic catalog
 - Issue and pull-request templates
@@ -73,7 +74,7 @@ Define identity and authorization controls in issue [#51](https://github.com/sco
 
 ## Next controlled sequence
 
-1. Define identity and authorization controls in issue [#51](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/51).
+1. Create Pilot Edition artifact definitions beginning with issue [#56](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/56).
 2. Preserve the recorded dependency order and validation gates.
 3. Continue only in the dependency order recorded by the Pilot Edition backlog.
 

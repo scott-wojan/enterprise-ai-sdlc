@@ -356,3 +356,12 @@ Version 0.1 may maintain traceability in Markdown. A machine-readable register m
 - PROC-BND-008 stops and revokes independently, preserves reconstructable evidence, verifies recovery and cleanup, and converts repeat causes into owned system remediation.
 - Together they complete the Bounded Change lifecycle while preserving normal release and incident authority.
 - SRC-002, SRC-006 and SRC-007 inform human gates, context learning and harness-controlled recovery and are interpreted in these procedures.
+
+### Pilot control substrate
+
+- CTRL-ID-001 through CTRL-ID-004 implement attributable, least-authority, expiring, segregated and independently revocable access.
+- CTRL-ISO-001 through CTRL-ISO-003 and CTRL-TOOL-001 implement isolation, input trust, tool allowlisting, bounded blast radius and cleanup.
+- CTRL-VER-001 through CTRL-VER-004 implement local and broad deterministic timing, bounded inferential review and fail-closed disagreement handling.
+- CTRL-GATE-001 through CTRL-GATE-002 and CTRL-AUD-001 through CTRL-AUD-002 implement exact-context approval, segregation, reconstructable audit and protected evidence.
+- CTRL-INC-001 through CTRL-INC-004 implement incident triggers, independent stop and revocation, evidence-preserving investigation and governed re-entry.
+- SRC-003, SRC-005 through SRC-009 inform this substrate and are interpreted in `docs/controls/`.
