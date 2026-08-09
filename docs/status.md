@@ -10,7 +10,7 @@ Version 0.1 Pilot Edition.
 
 ## Current objective
 
-Create the bounded execution-boundary procedure in issue [#46](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/46).
+Create the bounded plan generation and approval procedure in issue [#47](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/47).
 
 ## Completed
 
@@ -52,6 +52,7 @@ Create the bounded execution-boundary procedure in issue [#46](https://github.co
 - Advisory test-suggestion and code-review procedures
 - Human-controlled incident summarization and balanced Assisted Work evaluation procedures
 - Bounded Change work-classification and repository-preparation procedures
+- Least-authority bounded execution-boundary procedure
 - Product roadmap
 - Complete epic catalog
 - Issue and pull-request templates
@@ -68,7 +69,7 @@ Create the bounded execution-boundary procedure in issue [#46](https://github.co
 
 ## Next controlled sequence
 
-1. Create the bounded execution-boundary procedure in issue [#46](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/46).
+1. Create the bounded plan generation and approval procedure in issue [#47](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/47).
 2. Preserve the recorded dependency order and validation gates.
 3. Continue only in the dependency order recorded by the Pilot Edition backlog.
 
