@@ -64,6 +64,18 @@ Information made available to an AI system for a task, including specifications,
 
 A preventive, detective or corrective mechanism that reduces the probability or impact of an undesirable outcome.
 
+## Control plan
+
+A versioned record mapping applicable requirements to control classes, mechanisms, owners, lifecycle points, passing criteria, evidence and failure responses.
+
+## Control precedence
+
+The rules determining which control result governs continuation when multiple evaluations apply or disagree.
+
+## Control result
+
+A durable record that a defined control passed, failed, was unable to evaluate or was determined not applicable for an exact input version.
+
 ## Deterministic control
 
 A control whose execution and result are reproducible, such as a test, policy rule, permission boundary or structural check.
