@@ -266,3 +266,11 @@ Version 0.1 may maintain traceability in Markdown. A machine-readable register m
 - The profiles and controls are defined in `docs/foundation/minimum-controls.md`.
 - SRC-006, SRC-008 and SRC-009 inform the baseline and are interpreted in `docs/foundation/minimum-controls.md`.
 - Readiness, pilot selection and delivery procedures must consume the applicable profile and preserve test evidence.
+
+### Pre-pilot delivery baseline
+
+- PRIN-001, PRIN-004, PRIN-007 and PRIN-010 are implemented by PROC-PILOT-001.
+- PROC-PILOT-001 consumes ART-READY-001, CTRL-READY-MEAS-001 through CTRL-READY-MEAS-003 and the applicable state and baseline controls.
+- PROC-PILOT-001 produces versioned scope, measure definitions, baseline results, lineage, limitations, confounders and claim restrictions.
+- SRC-001 and SRC-010 inform the outcome and pilot orientation and are interpreted in `docs/procedures/pilot/establish-baseline.md`.
+- Pilot selection, review and advancement procedures must consume the exact baseline version.
