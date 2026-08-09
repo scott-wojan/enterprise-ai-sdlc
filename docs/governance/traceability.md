@@ -373,3 +373,11 @@ Version 0.1 may maintain traceability in Markdown. A machine-readable register m
 - ART-SPEC-001, ART-PLAN-001 and ART-APPROVAL-001 separate human intent, implementation method and exact-version human decisions.
 - ART-VERIFY-001, ART-RELEASE-001, ART-FEEDBACK-001 and ART-ADV-001 preserve gate evidence, release lineage, operational outcomes and explicit adoption decisions.
 - A matching Markdown template under `templates/` makes each artifact producible without hidden author context.
+
+### Pilot operating roles
+
+- ROLE-OPS-001 through ROLE-OPS-004 separate enterprise sponsorship, policy, value-stream participation and human product outcomes.
+- ROLE-OPS-005 through ROLE-OPS-009 separate platform, developer experience, architecture, security and product responsibilities and control ownership.
+- ROLE-OPS-010 through ROLE-OPS-015 map change, delivery, verification, human review, service and pilot-learning rights to procedures.
+- AI-SYS-001 explicitly defines the AI as a non-accountable bounded actor and cannot satisfy human gates.
+- The role chapters consume accountability, authority, segregation and evidence controls and make escalation and absence stop behavior explicit.
