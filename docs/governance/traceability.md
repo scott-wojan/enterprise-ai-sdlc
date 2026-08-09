@@ -167,3 +167,17 @@ Version 0.1 may maintain traceability in Markdown. A machine-readable register m
 - CTRL-STATE-BND-001 through CTRL-STATE-BND-006 are defined in `docs/adoption/bounded-change.md`.
 - SRC-002, SRC-003, SRC-004 and SRC-007 inform the Bounded Change state and are interpreted in `docs/adoption/bounded-change.md`.
 - Later Pilot Edition procedures and artifacts must identify how they implement or consume the Bounded Change state controls.
+
+### Adoption-state decisions
+
+- PRIN-001 is implemented by CTRL-STATE-DEC-001 through CTRL-STATE-DEC-005.
+- PRIN-002 is implemented by CTRL-STATE-DEC-001 through CTRL-STATE-DEC-005.
+- PRIN-003 is implemented by CTRL-STATE-DEC-002 through CTRL-STATE-DEC-005.
+- PRIN-004 is implemented by CTRL-STATE-DEC-001, CTRL-STATE-DEC-002 and CTRL-STATE-DEC-004.
+- PRIN-007 is implemented by CTRL-STATE-DEC-002 and CTRL-STATE-DEC-003.
+- PRIN-008 is implemented by CTRL-STATE-DEC-001, CTRL-STATE-DEC-004 and CTRL-STATE-DEC-005.
+- PRIN-010 is implemented by CTRL-STATE-DEC-003.
+- CTRL-STATE-DEC-001 through CTRL-STATE-DEC-005 consume the three Pilot Edition state definitions and applicable normative-core controls.
+- CTRL-STATE-DEC-001 through CTRL-STATE-DEC-005 are defined in `docs/adoption/state-decisions.md`.
+- SRC-001 and SRC-010 inform the state-decision model and are interpreted in `docs/adoption/state-decisions.md`.
+- Later Pilot Edition procedures and artifacts must identify the state decisions they consume or produce.
