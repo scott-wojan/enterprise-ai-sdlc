@@ -1,5 +1,9 @@
 # Terminology
 
+## Accountable human
+
+An identifiable person with the competence, context and organizational authority to make a decision, reject or stop the work and answer for the outcome.
+
 ## Adoption state
 
 A defined set of permitted AI actions, required capabilities, controls, human decisions and evidence. It is not a score of organizational sophistication.
@@ -11,6 +15,10 @@ An AI-enabled system that can perform one or more actions using provided context
 ## AI assistance
 
 Use of an AI system to advise, analyze, draft or execute bounded software-delivery work under defined human accountability.
+
+## Approval
+
+An explicit, authenticated human decision that authorizes defined work or an effect within a recorded scope, set of conditions and effective period.
 
 ## Artifact
 
@@ -27,6 +35,14 @@ A change performed within an approved repository, branch, environment, scope and
 ## Consequential decision
 
 A decision with material product, architectural, security, compliance, release, financial or operational impact.
+
+## Decision owner
+
+The accountable human assigned to make a specific consequential decision within defined organizational authority.
+
+## Delegation
+
+Assignment of a task to another participant without transferring accountability. Accountability transfers only through explicit reassignment to another authorized human.
 
 ## Context
 
