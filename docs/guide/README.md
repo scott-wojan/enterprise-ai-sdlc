@@ -52,13 +52,14 @@ At minimum, involve an executive sponsor, pilot lead, engineering manager, parti
 
 ### Decide
 
-Review evidence, decide whether to continue, restrict, expand or stop, then plan only the next justified increment.
+18. [Review the pilot evidence](decide/review-evidence.md)
+19. [Continue, restrict, expand or stop](decide/make-decision.md)
+20. [Standardize what worked and plan the next increment](decide/plan-next-increment.md)
 
 ### Reference
 
 21. [Pilot Workbook](reference/pilot-workbook.md)
-
-Open examples, facilitation guides or canonical material only when needed.
+22. [Examples, facilitation help and detailed reference](reference/examples-and-reference.md)
 
 ## What this guide does not do
 
