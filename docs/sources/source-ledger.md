@@ -127,3 +127,12 @@ The source ledger records material reused across the playbook. It distinguishes 
 - **Type:** Official action documentation
 - **Limit:** Platform-specific repository automation, not normative playbook guidance
 - **Last verified:** 2026-08-09
+
+## SRC-015: NIST AI Risk Management Framework
+
+- **Publisher:** National Institute of Standards and Technology
+- **Location:** https://airc.nist.gov/airmf-resources/airmf/5-sec-core/
+- **Use:** Accountability structures, documented roles and responsibilities, executive risk ownership and differentiation of human and AI responsibilities
+- **Type:** Consensus-developed, voluntary risk-management framework
+- **Limit:** Applies broadly to AI risk management and does not define a software-delivery accountability workflow
+- **Last verified:** 2026-08-09
