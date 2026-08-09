@@ -10,7 +10,7 @@ Version 0.1 Pilot Edition.
 
 ## Current objective
 
-Create Pilot Edition artifact definitions beginning with issue [#56](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/56).
+Define Pilot Edition roles and operating-model procedures beginning with issue [#60](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/60).
 
 ## Completed
 
@@ -58,6 +58,7 @@ Create Pilot Edition artifact definitions beginning with issue [#56](https://git
 - Independent deterministic verification and accountable human-review gates
 - Complete Bounded Change evidence, release-handoff and failure-response procedures
 - Operational identity, isolation, tool, verification, approval, audit, evidence, incident and revocation controls
+- Complete Pilot Edition artifact definitions and usable Markdown templates
 - Product roadmap
 - Complete epic catalog
 - Issue and pull-request templates
@@ -74,7 +75,7 @@ Create Pilot Edition artifact definitions beginning with issue [#56](https://git
 
 ## Next controlled sequence
 
-1. Create Pilot Edition artifact definitions beginning with issue [#56](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/56).
+1. Define Pilot Edition roles and operating-model procedures beginning with issue [#60](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/60).
 2. Preserve the recorded dependency order and validation gates.
 3. Continue only in the dependency order recorded by the Pilot Edition backlog.
 
