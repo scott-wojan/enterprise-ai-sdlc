@@ -63,7 +63,10 @@ These materials explain the detailed requirements, provenance and limitations. T
 ## Working materials
 
 - [Pilot Workbook](pilot-workbook.md)
-- [Canonical fill-in templates](../../../templates/)
+- [Use-case intake template](../../../templates/use-case-intake.md)
+- [Readiness decision template](../../../templates/readiness-decision.md)
+- [Pilot charter template](../../../templates/pilot-charter.md)
+- [Pilot decision scorecard](../../../templates/pilot-decision-scorecard.md)
 
 **Previous:** [Standardize what worked and plan the next increment](../decide/plan-next-increment.md)  
 **Return to:** [Start here](../README.md)
