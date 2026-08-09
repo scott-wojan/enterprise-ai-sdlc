@@ -10,7 +10,7 @@ Version 0.1 Pilot Edition.
 
 ## Current objective
 
-Define authority boundaries and risk treatment in issue [#23](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/23), using the approved accountability controls as its dependency.
+Define durable evidence requirements in issue [#24](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/24), using the approved accountability and authority controls as its foundation.
 
 ## Completed
 
@@ -28,6 +28,7 @@ Define authority boundaries and risk treatment in issue [#23](https://github.com
 - Validation approach
 - Automated repository content validation
 - Human-accountability and consequential-decision controls
+- Authority-boundary and risk-treatment controls
 - Product roadmap
 - Complete epic catalog
 - Issue and pull-request templates
@@ -45,8 +46,8 @@ Define authority boundaries and risk treatment in issue [#23](https://github.com
 
 ## Next controlled sequence
 
-1. Implement authority boundaries and risk treatment in issue [#23](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/23).
-2. Complete the remaining normative core in issues [#24](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/24) through [#27](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/27) in dependency order.
+1. Implement durable evidence requirements in issue [#24](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/24).
+2. Complete the remaining normative core in issues [#25](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/25) through [#27](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/27) in dependency order.
 3. Continue only in the dependency order recorded by the Pilot Edition backlog.
 
 The foundation gate is satisfied. Changes to the release boundary or product architecture require a recorded methodology decision.
