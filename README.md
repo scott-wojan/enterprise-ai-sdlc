@@ -6,13 +6,13 @@ The playbook assumes gradual adoption. It does not assume that every organizatio
 
 ## Current state
 
-The repository is in its foundation stage. This stage establishes the complete product architecture, governing principles, terminology, decision process, source controls, contribution rules, validation model and release roadmap before substantive procedures are written.
+Version 0.1 Pilot Edition is pilot-ready. A qualified enterprise team can use the repository to establish governance and readiness, run Assisted Work or Bounded Change pilots, enforce controls, preserve evidence, respond to failure and decide whether to continue, restrict or stop.
 
-The first planned content release is the Pilot Edition, version 0.1. The complete intended product is represented in the roadmap and epic catalog from the beginning, even though later capabilities will be implemented incrementally.
+Start with the [Pilot Edition information architecture](docs/publication/pilot-edition-information-architecture.md). Use the [version 0.1 release manifest](docs/publication/v0.1-release-manifest.md) for included capabilities, limitations and deferred scope.
 
 ## Authoritative context
 
-Start with these documents:
+For methodology and product context, use these documents:
 
 1. [Project charter](docs/charter.md)
 2. [Product architecture](docs/product-architecture.md)
@@ -30,5 +30,7 @@ Start with these documents:
 - Pull requests are the unit of review and change.
 - Stable identifiers connect principles, controls, procedures, artifacts, decisions and measures.
 - A responsive documentation site and generated distribution formats will be created only after the content model stabilizes.
+
+The Pilot Edition is delivered as mobile-readable Markdown with audience entry points, procedures, controls, artifact templates, examples and facilitation guides. A publication site remains deferred.
 
 No platform-specific implementation guidance is in scope for the core playbook.

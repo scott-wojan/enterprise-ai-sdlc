@@ -2,7 +2,7 @@
 
 ## Current phase
 
-Version 0.1 Pilot Edition execution.
+Version 0.1 Pilot Edition ready for controlled enterprise pilots.
 
 ## Active milestone
 
@@ -10,7 +10,7 @@ Version 0.1 Pilot Edition.
 
 ## Current objective
 
-Assemble the Pilot Edition release in issue [#74](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/74).
+Run controlled field pilots, preserve evidence and file bounded improvements against version 0.1.
 
 ## Completed
 
@@ -64,24 +64,25 @@ Assemble the Pilot Edition release in issue [#74](https://github.com/scott-wojan
 - Integrated pilot start, onboarding, operation, failure-inspection and standardization runbook
 - Complete Assisted Work and Bounded Defect Correction examples with filled artifacts and stop paths
 - Leadership, readiness, pilot-design, team-onboarding and pilot-review facilitation guides
+- Mobile-readable Pilot Edition navigation and version 0.1 release manifest
 - Product roadmap
 - Complete epic catalog
 - Issue and pull-request templates
 - Full Pilot Edition work-item backlog
 
-## Not yet started
+## Deferred beyond version 0.1
 
-- Adoption-state definitions
-- Readiness and enterprise-foundation procedures
-- Assisted-work and bounded-change procedures
-- Artifact templates
-- Worked examples
-- Publication site
+- Governed Workflow and Selective Orchestration states
+- Mixed-state enterprise operation
+- Platform-specific adapters
+- Machine-readable traceability
+- Responsive publication site and generated distribution formats
+- Broad external field validation and version 1.0 reconciliation
 
 ## Next controlled sequence
 
-1. Assemble the Pilot Edition release in issue [#74](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/74).
-2. Preserve the recorded dependency order and validation gates.
-3. Continue only in the dependency order recorded by the Pilot Edition backlog.
+1. Use the release manifest and information architecture to run bounded enterprise pilots.
+2. Capture failures, control evidence, balanced outcomes and participant experience.
+3. Change the release boundary only through a recorded methodology decision and roadmap update.
 
-The foundation gate is satisfied. Changes to the release boundary or product architecture require a recorded methodology decision.
+The Pilot Edition exit condition is satisfied in repository content. Changes to the release boundary or product architecture require a recorded methodology decision.
