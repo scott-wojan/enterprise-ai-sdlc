@@ -10,7 +10,7 @@ Version 0.1 Pilot Edition.
 
 ## Current objective
 
-Define organizational and team readiness in issue [#32](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/32).
+Define engineering and context readiness in issue [#33](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/33).
 
 ## Completed
 
@@ -37,6 +37,7 @@ Define organizational and team readiness in issue [#32](https://github.com/scott
 - Assisted Work adoption state
 - Bounded Change adoption state
 - Pilot Edition adoption-state transition decisions
+- Organizational and team readiness conditions
 - Product roadmap
 - Complete epic catalog
 - Issue and pull-request templates
@@ -53,8 +54,8 @@ Define organizational and team readiness in issue [#32](https://github.com/scott
 
 ## Next controlled sequence
 
-1. Implement organizational and team readiness in issue [#32](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/32).
-2. Implement engineering and context readiness in issue [#33](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/33).
+1. Implement engineering and context readiness in issue [#33](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/33).
+2. Implement control and measurement readiness in issue [#34](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/34).
 3. Continue only in the dependency order recorded by the Pilot Edition backlog.
 
 The foundation gate is satisfied. Changes to the release boundary or product architecture require a recorded methodology decision.

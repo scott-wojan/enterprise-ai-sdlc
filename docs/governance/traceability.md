@@ -181,3 +181,17 @@ Version 0.1 may maintain traceability in Markdown. A machine-readable register m
 - CTRL-STATE-DEC-001 through CTRL-STATE-DEC-005 are defined in `docs/adoption/state-decisions.md`.
 - SRC-001 and SRC-010 inform the state-decision model and are interpreted in `docs/adoption/state-decisions.md`.
 - Later Pilot Edition procedures and artifacts must identify the state decisions they consume or produce.
+
+### Organizational and team readiness
+
+- PRIN-001 is implemented by CTRL-READY-ORG-001 through CTRL-READY-ORG-004 and CTRL-READY-TEAM-001 through CTRL-READY-TEAM-002.
+- PRIN-002 is implemented by CTRL-READY-ORG-001, CTRL-READY-ORG-002 and CTRL-READY-TEAM-001.
+- PRIN-003 is implemented by CTRL-READY-ORG-001 through CTRL-READY-ORG-004 and CTRL-READY-TEAM-001.
+- PRIN-004 is implemented by all organizational and team readiness controls.
+- PRIN-007 is implemented by CTRL-READY-ORG-002 and CTRL-READY-TEAM-002.
+- PRIN-008 is implemented by CTRL-READY-ORG-002, CTRL-READY-ORG-003 and CTRL-READY-TEAM-001.
+- PRIN-010 is implemented by CTRL-READY-TEAM-002.
+- CTRL-READY-ORG-001 through CTRL-READY-ORG-004 and CTRL-READY-TEAM-001 through CTRL-READY-TEAM-002 consume the applicable normative-core, Foundation and state-decision controls.
+- These controls are defined in `docs/readiness/organizational-and-team.md`.
+- SRC-001 and SRC-010 inform organizational and team readiness and are interpreted in `docs/readiness/organizational-and-team.md`.
+- The readiness decision procedure must consume each readiness finding and its evidence.
