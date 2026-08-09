@@ -409,3 +409,10 @@ Version 0.1 may maintain traceability in Markdown. A machine-readable register m
 - `readiness-workshop.md` produces ART-READY-001 and authority-changing remediation without composite scoring.
 - The pilot design, team onboarding and pilot review guides produce downstream-ready ART-PILOT-001, role demonstration and ART-ADV-001 evidence.
 - Each guide defines pre-work, required decision owners, outputs, agenda, stop conditions and procedural handoff.
+
+### Pilot Edition release assembly
+
+- `docs/publication/pilot-edition-information-architecture.md` provides audience entry points and dependency-safe paths to every Pilot Edition content layer.
+- `docs/publication/v0.1-release-manifest.md` defines release identity, included capabilities, required consumption sequence, validation, limitations and deferred scope.
+- The root README points consumers to both release entry points.
+- Release assembly preserves vendor neutrality, mobile-readable navigation and the version boundary established by DEC-006 and the roadmap.
