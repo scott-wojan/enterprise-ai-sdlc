@@ -1,0 +1,99 @@
+name: Playbook work item
+description: Create or change a bounded part of the enterprise AI-assisted delivery playbook
+title: ""
+labels: []
+body:
+  - type: textarea
+    id: objective
+    attributes:
+      label: Objective
+      description: State the exact capability or content this issue must produce.
+    validations:
+      required: true
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Why this exists
+      description: Explain the problem and relationship to the playbook.
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: Scope
+      description: List what must be included.
+    validations:
+      required: true
+  - type: textarea
+    id: exclusions
+    attributes:
+      label: Exclusions
+      description: List what must not be introduced.
+    validations:
+      required: true
+  - type: textarea
+    id: dependencies
+    attributes:
+      label: Dependencies
+      description: Identify prerequisite decisions, issues, procedures or artifacts.
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Required context
+      description: Name every repository file that must be read before work begins.
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Source requirements
+      description: Identify required sources and claims needing verification.
+    validations:
+      required: true
+  - type: textarea
+    id: deliverables
+    attributes:
+      label: Deliverables
+      description: Name the files, sections or records to create or modify.
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance criteria
+      description: Provide observable completion conditions.
+    validations:
+      required: true
+  - type: textarea
+    id: consistency
+    attributes:
+      label: Consistency checks
+      description: Identify related terms, principles, controls, procedures and artifacts.
+    validations:
+      required: true
+  - type: textarea
+    id: validation
+    attributes:
+      label: Validation
+      description: Explain how the result will be reviewed and tested.
+    validations:
+      required: true
+  - type: input
+    id: milestone
+    attributes:
+      label: Target milestone
+    validations:
+      required: true
+  - type: checkboxes
+    id: ready
+    attributes:
+      label: Definition of ready
+      options:
+        - label: Objective, scope, exclusions and acceptance criteria are unambiguous.
+          required: true
+        - label: Dependencies and required context are identified.
+          required: true
+        - label: Source and validation requirements are defined.
+          required: true
