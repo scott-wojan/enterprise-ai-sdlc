@@ -31,9 +31,9 @@ The existing canonical content remains authoritative. The guide makes it consuma
 
 ## Current state
 
-Version 0.1 Pilot Edition contains the full underlying method for establishing governance and readiness, running Assisted Work or Bounded Change pilots, enforcing controls, preserving evidence, responding to failure and making an evidence-backed decision.
+Version 0.1.1 is ready for pilot use. It combines the complete version 0.1 method with the 22-page human-centered Pilot Guide, one Pilot Workbook and progressive access to examples, facilitation support and canonical detail.
 
-The human-centered Pilot Guide and Workbook are being assembled as version 0.1.1. Progress is tracked in [the implementation epic](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/114).
+Read the [version 0.1.1 consumption model](docs/publication/v0.1.1-consumption-model.md) for what changed and what remains authoritative. The remaining limitation is live usability validation with independent enterprise users during the first external adoption.
 
 ## Maintainers and contributors
 
