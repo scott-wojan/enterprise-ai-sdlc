@@ -2,18 +2,21 @@
 
 ## Current phase
 
-Foundation review.
+Version 0.1 Pilot Edition execution.
 
 ## Active milestone
 
-Repository and methodology foundation.
+Version 0.1 Pilot Edition.
 
 ## Current objective
 
-Approve the durable context and governance system before creating the full GitHub issue backlog.
+Implement the repository validation automation defined by issue [#21](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/21), then begin the normative core in its recorded dependency order.
 
 ## Completed
 
+- Repository and methodology foundation
+- Foundation approval through [PR #1](https://github.com/scott-wojan/enterprise-ai-sdlc/pull/1)
+- Acceptance of DEC-006
 - Initial project charter
 - Complete product architecture
 - Governing principles
@@ -26,20 +29,20 @@ Approve the durable context and governance system before creating the full GitHu
 - Product roadmap
 - Complete epic catalog
 - Issue and pull-request templates
+- Full Pilot Edition work-item backlog
 
 ## Not yet started
 
-- GitHub issue backlog
+- Automated repository content validation
 - Normative controls and procedures
 - Artifact templates
 - Worked examples
 - Publication site
 
-## Foundation approval questions
+## Next controlled sequence
 
-1. Does the charter describe the intended product accurately?
-2. Is the complete product represented in the architecture, roadmap and epics?
-3. Are the principles sufficiently strong to constrain later work?
-4. Are any important concepts missing or defined incorrectly?
-5. Is version 0.1 the correct first usable release boundary?
-6. Is the issue schema sufficient to prevent context loss and scope drift?
+1. Implement and validate content automation in issue [#21](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/21).
+2. Implement the normative core in issues [#22](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/22) through [#27](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/27).
+3. Continue only in the dependency order recorded by the Pilot Edition backlog.
+
+The foundation gate is satisfied. Changes to the release boundary or product architecture require a recorded methodology decision.
