@@ -34,7 +34,12 @@ At minimum, involve an executive sponsor, pilot lead, engineering manager, parti
 
 ### Prepare
 
-Name the pilot owner, choose the team and use case, assess readiness, agree boundaries, establish measures and complete the charter.
+6. [Name the pilot owner and decision group](prepare/name-owners.md)
+7. [Choose the team and use case](prepare/choose-team-and-use-case.md)
+8. [Assess readiness](prepare/assess-readiness.md)
+9. [Agree the pilot boundaries and guardrails](prepare/agree-boundaries.md)
+10. [Establish the baseline and success measures](prepare/establish-baseline.md)
+11. [Complete the pilot charter](prepare/complete-charter.md)
 
 ### Run
 
@@ -46,7 +51,9 @@ Review evidence, decide whether to continue, restrict, expand or stop, then plan
 
 ### Reference
 
-Use the Pilot Workbook as the team's working surface. Open examples, facilitation guides or canonical material only when needed.
+21. [Pilot Workbook](reference/pilot-workbook.md)
+
+Open examples, facilitation guides or canonical material only when needed.
 
 ## What this guide does not do
 
