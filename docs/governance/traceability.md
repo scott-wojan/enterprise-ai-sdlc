@@ -210,3 +210,17 @@ Version 0.1 may maintain traceability in Markdown. A machine-readable register m
 - These controls are defined in `docs/readiness/engineering-and-context.md`.
 - SRC-001, SRC-005, SRC-006 and SRC-007 inform engineering and context readiness and are interpreted in `docs/readiness/engineering-and-context.md`.
 - The readiness decision procedure must consume each finding, restriction and remediation item.
+
+### Control and measurement readiness
+
+- PRIN-001 is implemented by all control and measurement readiness controls.
+- PRIN-002 is implemented by CTRL-READY-CTL-001 through CTRL-READY-CTL-004.
+- PRIN-003 is implemented by CTRL-READY-CTL-001, CTRL-READY-CTL-003 and CTRL-READY-CTL-004.
+- PRIN-004 is implemented by CTRL-READY-CTL-001, CTRL-READY-CTL-003, CTRL-READY-CTL-004 and CTRL-READY-MEAS-001 through CTRL-READY-MEAS-003.
+- PRIN-005 is implemented by CTRL-READY-CTL-002 and CTRL-READY-CTL-003.
+- PRIN-007 is implemented by CTRL-READY-MEAS-001 through CTRL-READY-MEAS-003.
+- PRIN-008 is implemented by CTRL-READY-CTL-001, CTRL-READY-CTL-002 and CTRL-READY-CTL-004.
+- CTRL-READY-CTL-001 through CTRL-READY-CTL-004 and CTRL-READY-MEAS-001 through CTRL-READY-MEAS-003 consume the applicable normative-core and adoption-state controls.
+- These controls are defined in `docs/readiness/control-and-measurement.md`.
+- SRC-001, SRC-008 and SRC-009 inform control and measurement readiness and are interpreted in `docs/readiness/control-and-measurement.md`.
+- The readiness decision and pilot procedures must consume each finding, restriction, baseline and measure definition.
