@@ -32,3 +32,16 @@ Validation should identify:
 ## Initial implementation
 
 Version 0.1 may maintain traceability in Markdown. A machine-readable register may be added once the identifier and content schemas stabilize.
+
+## Pilot Edition traceability
+
+### Human accountability and consequential decisions
+
+- PRIN-002 is implemented by CTRL-ACC-001, CTRL-ACC-003, CTRL-ACC-006 and CTRL-ACC-007.
+- PRIN-003 is implemented by CTRL-ACC-001 through CTRL-ACC-007.
+- PRIN-004 is implemented by CTRL-ACC-004, CTRL-ACC-005, CTRL-ACC-006 and CTRL-ACC-007.
+- PRIN-005 is implemented by CTRL-ACC-002, CTRL-ACC-005 and CTRL-ACC-007.
+- PRIN-008 is implemented by CTRL-ACC-003, CTRL-ACC-006 and CTRL-ACC-007.
+- CTRL-ACC-001 through CTRL-ACC-007 are defined in `docs/core/accountability.md`.
+- SRC-001, SRC-002, SRC-003 and SRC-015 inform the accountability model and are interpreted in `docs/core/accountability.md`.
+- Later Pilot Edition procedures and artifacts must identify which CTRL-ACC controls they implement or consume.
