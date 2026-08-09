@@ -10,7 +10,7 @@ Version 0.1 Pilot Edition.
 
 ## Current objective
 
-Define balanced Pilot Edition measures beginning with issue [#63](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/63).
+Create the integrated pilot operating procedures beginning with issue [#66](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/66).
 
 ## Completed
 
@@ -60,6 +60,7 @@ Define balanced Pilot Edition measures beginning with issue [#63](https://github
 - Operational identity, isolation, tool, verification, approval, audit, evidence, incident and revocation controls
 - Complete Pilot Edition artifact definitions and usable Markdown templates
 - Complete enterprise, platform, domain, delivery and operations decision-right model
+- Balanced baseline, flow, quality, operations, security, product, experience and economic measures with a decision procedure and scorecard
 - Product roadmap
 - Complete epic catalog
 - Issue and pull-request templates
@@ -76,7 +77,7 @@ Define balanced Pilot Edition measures beginning with issue [#63](https://github
 
 ## Next controlled sequence
 
-1. Define balanced Pilot Edition measures beginning with issue [#63](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/63).
+1. Create the integrated pilot operating procedures beginning with issue [#66](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/66).
 2. Preserve the recorded dependency order and validation gates.
 3. Continue only in the dependency order recorded by the Pilot Edition backlog.
 
