@@ -1,6 +1,6 @@
 {
   "name": "enterprise-ai-sdlc",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "description": "Executable enterprise AI-assisted software delivery playbook",
   "type": "module",
@@ -8,8 +8,9 @@
     "node": ">=24"
   },
   "scripts": {
-    "validate": "npm run validate:content && npm run test:validation",
+    "validate": "npm run validate:content && npm run validate:guide && npm run test:validation",
     "validate:content": "node scripts/validate-content.mjs",
+    "validate:guide": "node scripts/validate-guide.mjs",
     "test:validation": "node scripts/test-content-validation.mjs"
   }
 }
