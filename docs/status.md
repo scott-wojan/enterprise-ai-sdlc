@@ -10,7 +10,7 @@ Version 0.1 Pilot Edition.
 
 ## Current objective
 
-Create bounded verification and human-review procedures in issue [#49](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/49).
+Create evidence, release and failed-execution procedures in issue [#50](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/50).
 
 ## Completed
 
@@ -55,6 +55,7 @@ Create bounded verification and human-review procedures in issue [#49](https://g
 - Least-authority bounded execution-boundary procedure
 - Human-approved, small-batch Bounded Change planning procedure
 - Controlled, checkpointed Bounded Change execution procedure
+- Independent deterministic verification and accountable human-review gates
 - Product roadmap
 - Complete epic catalog
 - Issue and pull-request templates
@@ -71,7 +72,7 @@ Create bounded verification and human-review procedures in issue [#49](https://g
 
 ## Next controlled sequence
 
-1. Create bounded verification and human-review procedures in issue [#49](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/49).
+1. Create evidence, release and failed-execution procedures in issue [#50](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/50).
 2. Preserve the recorded dependency order and validation gates.
 3. Continue only in the dependency order recorded by the Pilot Edition backlog.
 
