@@ -27,6 +27,8 @@ Expected scope:
 
 Exit condition: a qualified enterprise team can run and evaluate a bounded pilot using repository content alone.
 
+Release status: satisfied by the version 0.1 Pilot Edition manifest and merged Pilot Edition backlog. Field evidence remains the input to later validation and releases.
+
 ## Version 0.2: Governed Workflow Edition
 
 Add specification-driven, multi-step delivery between explicit human and automated gates.
