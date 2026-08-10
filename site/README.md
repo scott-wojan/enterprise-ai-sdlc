@@ -17,3 +17,9 @@ PAGES_BASE_PATH=/enterprise-ai-sdlc npm run build
 ```
 
 The static export is written to `site/out`. The GitHub Actions workflow builds and deploys it; generated output is not committed.
+
+## Deployment
+
+The production site is published from `main` to:
+
+https://scott-wojan.github.io/enterprise-ai-sdlc/
