@@ -141,6 +141,18 @@ Should the Account Services delivery team stop, restrict, remediate, continue or
 - Updated authority and current posture
 - Remediation and reassessment plan
 
+### Scenario transition notice
+
+**Heading**
+
+This evaluation occurs after a separate remediation and pilot period
+
+**Copy**
+
+The blocked readiness decision in the earlier scenario did not lead directly to this evaluation. Before this completed-pilot evidence could exist, the organization demonstrated the human stop path, established production-support attribution, completed the total-cost method, obtained a new readiness and launch decision, ran the approved pilot and completed the downstream observation period.
+
+This is a later representative state. Moving to it does not imply that clicking a next action cleared the earlier hard stops or completed the pilot.
+
 ### Current posture and proposed decision
 
 **Current posture before evaluation**
@@ -251,22 +263,22 @@ Compare work type, eligibility rules, complexity, team, service, delivery bounda
 
 Why are the cohorts comparable, and what differences limit the conclusion?
 
-**Insufficient response example**
+**Example that is not sufficient**
 
 > Both groups contain authentication defects from the same team, so the comparison is fair.
 
-**Why it is insufficient**
+**Why this is not sufficient**
 
 - It does not address eligibility, complexity or delivery boundary.
 - It does not identify outside changes.
 - It does not state limitations.
 - It cannot show which conclusions remain supportable.
 
-**Useful response example**
+**Example that is useful**
 
 > Both cohorts contain accepted authentication defect corrections in Service A completed by the same team under the same release and support process. Eligibility rules, complexity classification, start event, end event and 14-day support period are unchanged. The pilot cohort contains a slightly higher share of medium-complexity defects, so results are also reported within complexity bands. No material staffing, policy, release or observability change occurred during the pilot. The independent reviewer accepted comparison of total effort, elapsed time, quality, operations and cost, with a limitation that the pilot cohort of 24 changes produces wider uncertainty than the 42-change baseline.
 
-**Why it is useful**
+**Why this is useful**
 
 - It describes the matching conditions.
 - It identifies a real difference and its treatment.
@@ -340,22 +352,22 @@ For each requirement show:
 
 How does the limitation change the conclusion or claim boundary?
 
-**Insufficient response example**
+**Example that is not sufficient**
 
 > The participant survey had a lower response rate, but the other metrics are complete.
 
-**Why it is insufficient**
+**Why this is not sufficient**
 
 - It does not state the response rate or affected population.
 - It does not explain selection effects.
 - It does not state whether the team-experience conclusion remains supportable.
 - It treats other favorable evidence as compensation.
 
-**Useful response example**
+**Example that is useful**
 
 > Twelve of fourteen eligible participants responded to the end-of-pilot pulse. The two nonrespondents were both reviewers, so review-burden evidence may understate deterioration. The participant evidence remains usable as a limitation because time records and reviewer observations independently show increased review effort. The report does not claim that every participant experienced the same effect and preserves the two missing responses as unknown.
 
-**Why it is useful**
+**Why this is useful**
 
 - It identifies the population and missingness.
 - It explains the likely selection effect.
@@ -445,21 +457,21 @@ Eligible authentication defects were completed, but the accepted-defect backlog,
 - Evidence status: Verified
 - Limitation: Pilot scope and duration were not designed to establish broader product impact
 
-**Required rationale example that is insufficient**
+**Example that is not sufficient**
 
 > The pilot completed 24 defects, so it delivered customer value.
 
-**Why it is insufficient**
+**Why this is not sufficient**
 
 - It equates completed work with an improved outcome.
 - It does not compare the baseline.
 - It does not identify customer or service effect.
 
-**Required rationale example that is useful**
+**Example that is useful**
 
 > The pilot completed its eligible authentication-defect work, but the accepted-defect backlog, affected-user incidents and authentication-service outcome showed no material improvement against the comparable baseline. Completion volume is recorded as activity, not product-value evidence.
 
-**Why it is useful**
+**Why this is useful**
 
 - It separates activity from outcome.
 - It uses the approved comparison.
@@ -502,22 +514,22 @@ Engineering, quality, release, service, measurement and participant representati
 - Evidence status: Verified
 - Limitation: Scoped to the eligible pilot cohort
 
-**Required rationale example that is insufficient**
+**Example that is not sufficient**
 
 > Developer effort decreased by 32 percent, demonstrating a strong productivity improvement.
 
-**Why it is insufficient**
+**Why this is not sufficient**
 
 - It reports only implementation.
 - It omits increased review, rework and support.
 - It ignores higher total effort and elapsed time.
 - It uses the word productivity for a local activity result.
 
-**Required rationale example that is useful**
+**Example that is useful**
 
 > Implementation effort decreased by 2.6 hours per eligible change. Increased review, correction and production-support work more than consumed that saving. Total human effort increased by 4.2 hours, and total elapsed time increased by 0.6 days per eligible change. Delivery flow and total effort therefore deteriorated even though implementation became faster.
 
-**Why it is useful**
+**Why this is useful**
 
 - It preserves the local benefit.
 - It includes transferred downstream effort.
@@ -560,21 +572,21 @@ Engineering lead, reviewers, service owner, measurement owner and independent re
 - Evidence status: Verified
 - Limitation: Small pilot cohort requires caution about exact rates but does not erase the direction and material burden
 
-**Required rationale example that is insufficient**
+**Example that is not sufficient**
 
 > Quality was acceptable because every change passed tests and human review before release.
 
-**Why it is insufficient**
+**Why this is not sufficient**
 
 - Passing before release does not erase increased review and correction effort.
 - It omits escaped defects and churn.
 - It treats control completion as proof of a favorable outcome.
 
-**Required rationale example that is useful**
+**Example that is useful**
 
 > Required tests and reviews operated, but they detected and corrected substantially more problems. Review and correction effort increased, escaped-defect incidence was higher and changed-line rework more than doubled. The small cohort limits the precision of exact rates, but the combined evidence shows a material deterioration in quality and maintainability for this scope.
 
-**Why it is useful**
+**Why this is useful**
 
 - It acknowledges that controls operated.
 - It evaluates the burden and outcomes those controls revealed.
@@ -617,21 +629,21 @@ Platform owner, engineering lead, quality owner, measurement owner and independe
 - Evidence status: Verified
 - Limitation: Applies only to the approved Service A scope and pilot tools
 
-**Required rationale example that is insufficient**
+**Example that is not sufficient**
 
 > Security passed, so the pilot was safe and should continue.
 
-**Why it is insufficient**
+**Why this is not sufficient**
 
 - A security result does not decide quality, operations, economics or continuation.
 - It ignores increased review burden.
 - It overgeneralizes beyond the assessed scope.
 
-**Required rationale example that is useful**
+**Example that is useful**
 
 > No material security finding or boundary violation occurred, and required controls operated for the exact pilot scope. Security-review effort increased by 24 percent and is included in total effort and cost. The security result is no material change, not evidence that the overall pilot succeeded or should continue.
 
-**Why it is useful**
+**Why this is useful**
 
 - It reports the favorable security outcome accurately.
 - It preserves the increased control burden.
@@ -672,21 +684,21 @@ Release owner, engineering lead, support participants, measurement owner and ind
 - Evidence status: Verified
 - Limitation: Small number of change failures requires caution about exact rates
 
-**Required rationale example that is insufficient**
+**Example that is not sufficient**
 
 > Operations remained stable because there were no severe incidents and both failed changes were recovered.
 
-**Why it is insufficient**
+**Why this is not sufficient**
 
 - It ignores higher support effort.
 - It treats successful recovery as proof that failures did not matter.
 - It omits the increased change-failure signal.
 
-**Required rationale example that is useful**
+**Example that is useful**
 
 > No severe incident occurred, and approved recovery worked for both pilot change failures. Production-support effort increased by 1.8 hours per eligible change, and the pilot had two failures across 24 changes compared with one across 42 baseline changes. The small counts limit the precision of the rate comparison, but the combined support and failure evidence shows operational deterioration for this scope.
 
-**Why it is useful**
+**Why this is useful**
 
 - It preserves successful recovery evidence.
 - It includes support burden and failures.
@@ -729,22 +741,22 @@ Participant representative, workforce or people partner, quality owner, service 
 - Evidence status: Verified with limitation
 - Limitation: Two missing reviewer responses remain unknown
 
-**Required rationale example that is insufficient**
+**Example that is not sufficient**
 
 > Most team members completed the pilot, and the team gained useful AI experience.
 
-**Why it is insufficient**
+**Why this is not sufficient**
 
 - Completion does not establish sustainable experience.
 - It omits cognitive load and lower confidence.
 - It does not account for nonresponse.
 - Learning cannot cancel participant harm or burden.
 
-**Required rationale example that is useful**
+**Example that is useful**
 
 > Nine of twelve respondents reported higher cognitive load, and four reported lower confidence in understanding and supporting the resulting changes. Reviewer observations and time records support the reported burden. Two eligible reviewers did not respond, so the result may understate rather than overstate the problem. The team learned from the pilot, but team sustainability deteriorated for this operating approach.
 
-**Why it is useful**
+**Why this is useful**
 
 - It preserves the learning benefit.
 - It reports attributable adverse evidence.
@@ -791,22 +803,22 @@ Measurement owner, delivery lead, platform owner, quality owner, service owner a
 - Finance disposition: Economic benefit not demonstrated; total cost increased
 - Limitation: Applies to this pilot scale and allocation method
 
-**Required rationale example that is insufficient**
+**Example that is not sufficient**
 
 > The pilot saved $420 of developer time per change, and platform costs should decline at scale.
 
-**Why it is insufficient**
+**Why this is not sufficient**
 
 - It reports only implementation labor.
 - It ignores the verified $730 total-cost increase.
 - It assumes untested future scale savings.
 - It omits the absence of product benefit.
 
-**Required rationale example that is useful**
+**Example that is useful**
 
 > Implementation labor decreased by $420 per eligible change. Increased review, correction and production-support cost, together with $220 of AI-specific and allocated platform cost, produced a verified total increase of $730 per eligible change. No material product benefit offset that increase. The result is an economic deterioration for this exact scope. Possible future scale effects are not evidence in this decision.
 
-**Why it is useful**
+**Why this is useful**
 
 - It preserves the implementation saving.
 - It includes transferred and AI-specific costs.
@@ -859,22 +871,22 @@ Confirm that the package includes:
 
 What material disagreement remains, and what interim restriction governs it?
 
-**Insufficient response example**
+**Example that is not sufficient**
 
 > Some team members remain concerned, but leadership supports continued innovation.
 
-**Why it is insufficient**
+**Why this is not sufficient**
 
 - It does not identify the disputed condition.
 - It does not preserve the evidence or accountable position.
 - It substitutes leadership enthusiasm for disposition.
 - It states no governing restriction.
 
-**Useful response example**
+**Example that is useful**
 
 > The pilot lead recommends a limited remediation trial because implementation effort improved. The quality and service owners reject continued Bounded Change because review, correction, escaped defects and support effort deteriorated. The participant representative supports continued Assisted Work but not AI state-changing authority. The more restrictive position governs: Bounded Change stops, Assisted Work may continue within its prior boundary and leadership must decide whether to fund remediation or stop the use case.
 
-**Why it is useful**
+**Why this is useful**
 
 - It records each material position.
 - It connects positions to evidence and authority.
@@ -990,22 +1002,22 @@ The enterprise AI adoption lead records this restriction after receiving the req
 
 Why does the recommended consequence match the evidence and category decisions?
 
-**Insufficient response example**
+**Example that is not sufficient**
 
 > Continue with caution because the team needs more time to learn and implementation became faster.
 
-**Why it is insufficient**
+**Why this is not sufficient**
 
 - “With caution” states no enforceable boundary.
 - It ignores the negative net-value conclusion.
 - It ignores quality, service and participant decisions.
 - It does not state what stops or what evidence permits reconsideration.
 
-**Useful response example**
+**Example that is useful**
 
 > Stop Bounded Change for Service A authentication defect corrections because the complete pilot demonstrated negative net value and the quality, service and participant owners do not accept continued state-changing AI authority. Return the scope to Assisted Work so people may use AI for analysis, explanation and drafting while humans perform every state-changing action. Do not expand. Leadership may fund remediation, but Bounded Change cannot return until corrective work is verified, a new bounded evaluation shows acceptable full-SDLC and total-cost results and every required owner records a new approval.
 
-**Why it is useful**
+**Why this is useful**
 
 - It identifies the exact authority removed.
 - It preserves useful lower-risk activity.
