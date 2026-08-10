@@ -682,7 +682,7 @@ Before asking for information, the product will explain:
 - what work may continue and what must stop;
 - what record or report will be produced.
 
-You will not be asked to fill in a blank workbook. Questions use structured choices where possible. When a written response is necessary, you will see a useful example, an insufficient example and an explanation of why they differ.
+You will not be asked to fill in a blank workbook. Questions use structured choices where possible. When a written response is necessary, you will see an example that is useful, an example that is not sufficient and an explanation of why they differ.
 
 Unknown and not yet established are valid responses. Material unknowns create visible evidence gaps or restrictions. They are not treated as favorable answers.
 
