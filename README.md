@@ -4,7 +4,7 @@ A public, vendor-neutral operating guide for consulting teams and enterprises th
 
 ## Use the playbook
 
-**[Open the public Enterprise AI Delivery Pilot Guide](https://enterprise-ai-sdlc-guide.scott-wojan.chatgpt.site)**
+**[Open the public Enterprise AI Delivery Pilot Guide](https://scott-wojan.github.io/enterprise-ai-sdlc/)**
 
 The site is the product experience for pilot participants. It provides:
 
