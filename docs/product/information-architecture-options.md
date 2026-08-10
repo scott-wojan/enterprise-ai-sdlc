@@ -8,7 +8,19 @@ The approved [Product Contract](product-contract.md) governs these options.
 
 This document defines hierarchy, navigation, page relationships, and the boundary between public guidance and an adoption workspace. It does not select a visual design, framework, hosting platform, storage model, or production implementation.
 
-## Decision to make
+## Selected direction
+
+Option A is selected as the primary architecture.
+
+The approved combination is:
+
+- Journey-led public guidance.
+- Option B's decision structure inside the adoption workspace and at adoption-stage decision points.
+- Option C's role and software-delivery views as secondary lenses that link to shared guidance rather than duplicate it.
+
+The remaining Gate 2 decision is approval of the exact page inventory and navigation behavior in [information-architecture.md](information-architecture.md).
+
+## Original decision frame
 
 Select the organizing model that will help a person:
 
@@ -669,13 +681,8 @@ This model gives a first-time reader one coherent explanation while supporting e
 
 These remain contextual, generated, secondary, or maintainer-facing as appropriate.
 
-## Selection required
+### Selection record
 
-Gate 2 should choose one of these directions:
+Selected: Journey-led architecture with decision-led application and contextual role and software-delivery lenses.
 
-1. Journey-led architecture as recommended.
-2. Decision-led architecture.
-3. Role-and-context hub.
-4. A specified combination different from the recommendation.
-
-After selection, the next Gate 2 artifact will define the exact page inventory, page hierarchy, section order, cross-links, and navigation behavior for the chosen architecture. No wireframes or production implementation should begin before that artifact is approved.
+The exact page inventory, page hierarchy, section order, cross-links, and navigation behavior are defined in the companion Gate 2 artifact. No wireframes or production implementation should begin before that artifact is approved.
