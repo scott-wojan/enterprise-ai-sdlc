@@ -36,7 +36,7 @@ Every acceptable architecture must:
 - remove the global workbook action;
 - permit the final platform to change after the vertical slice establishes actual requirements.
 
-# Option A: Journey-led architecture
+## Option A: Journey-led architecture
 
 ## Organizing idea
 
@@ -367,7 +367,7 @@ The final technical route format will be selected later. The information archite
 - Provide the Across-the-SDLC lens as a first-class secondary route.
 - Generate a contextual path after the organization begins applying the playbook.
 
-# Option B: Decision-led architecture
+## Option B: Decision-led architecture
 
 ## Organizing idea
 
@@ -480,7 +480,7 @@ Decision questions work well in a compact list. The risk is that the list become
 
 This structure works best for an experienced practitioner or as the workspace organization inside another architecture. It is weaker as the complete public information architecture.
 
-# Option C: Role-and-context hub architecture
+## Option C: Role-and-context hub architecture
 
 ## Organizing idea
 
@@ -566,7 +566,7 @@ Role entry is easy to present as a short list, but switching among role, stage, 
 
 This structure is useful as a secondary role index and workspace emphasis. It is not recommended as the primary architecture.
 
-# Comparison
+## Comparison
 
 ## Option A: Journey-led
 
@@ -606,7 +606,7 @@ Main risk:
 
 - fragmentation, duplication, and excessive navigation complexity.
 
-# Recommendation
+## Recommendation
 
 Adopt **Option A, Journey-led**, as the primary information architecture.
 
@@ -669,7 +669,7 @@ This model gives a first-time reader one coherent explanation while supporting e
 
 These remain contextual, generated, secondary, or maintainer-facing as appropriate.
 
-# Selection required
+## Selection required
 
 Gate 2 should choose one of these directions:
 
