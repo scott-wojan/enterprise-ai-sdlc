@@ -456,11 +456,11 @@ Choose **Demonstrated** only after the exact pilot identity, tools, repository a
 
 Describe the human and technical stop path for this exact scope.
 
-**Insufficient response example**
+**Example that is not sufficient**
 
 > The pilot lead can tell the team to stop, and administrators can disable the tool if needed.
 
-**Why it is insufficient**
+**Why this is not sufficient**
 
 - It does not identify the person authorized to declare the stop.
 - It does not identify the AI identity, access, tool or action that will be disabled.
@@ -468,11 +468,11 @@ Describe the human and technical stop path for this exact scope.
 - It does not show that the path was tested.
 - It does not explain evidence preservation or verification.
 
-**Useful response example**
+**Example that is useful**
 
 > For the Service A pilot, the pilot lead, enterprise AI adoption lead, platform on-call lead or security incident lead may declare a stop. The platform on-call lead disables the named pilot identity, revokes its repository token and blocks the pilot tool at the approved access gateway. The repository owner verifies that no new branch, commit or pull request can be created. The security owner preserves gateway and repository logs. A dated exercise on 12 August used the actual pilot identity and completed revocation in four minutes. The pilot cannot restart until the platform and security owners verify the restored boundary and the enterprise AI adoption lead records a new decision.
 
-**Why it is useful**
+**Why this is useful**
 
 - It names authorized people.
 - It identifies the exact identity, access and actions stopped.
@@ -563,22 +563,22 @@ Choose **Demonstrated** only when participants have a known reporting route, und
 
 How can participants report adverse evidence or request a stop?
 
-**Insufficient response example**
+**Example that is not sufficient**
 
 > Team members can raise concerns in the weekly pilot meeting.
 
-**Why it is insufficient**
+**Why this is not sufficient**
 
 - It provides no route outside the pilot lead.
 - It does not explain confidentiality or retaliation protection.
 - It does not state who can act on a stop request.
 - It gives no evidence that participants understand the route.
 
-**Useful response example**
+**Example that is useful**
 
 > Participants may report issues to the pilot lead, the enterprise AI adoption lead or the workforce partner through the existing confidential reporting channel. Any participant may request an immediate pause when continued work could increase harm. The sponsor's pilot notice states that defects, rework, control failure, excess review burden and negative cost evidence are expected inputs and will not be treated as participant failure. All twelve participants acknowledged the route during onboarding, and the participant representative confirmed understanding through a private follow-up.
 
-**Why it is useful**
+**Why this is useful**
 
 - It provides more than one route.
 - It explains when a pause may be requested.
@@ -639,11 +639,11 @@ Define one work type and the complete comparison path. Name the intended result 
 
 What outcome should improve, for which work, across what start and end boundary?
 
-**Insufficient response example**
+**Example that is not sufficient**
 
 > Improve developer productivity and deliver authentication fixes faster.
 
-**Why it is insufficient**
+**Why this is not sufficient**
 
 - It does not define the comparable work.
 - It does not define the start and end of the delivery path.
@@ -651,11 +651,11 @@ What outcome should improve, for which work, across what start and end boundary?
 - It omits review, testing, security, release and production support.
 - It does not protect quality, maintainability, team experience or total cost.
 
-**Useful response example**
+**Example that is useful**
 
 > For accepted authentication defect corrections in Service A, determine whether AI assistance reduces total elapsed time and human effort from defect acceptance through 14 days of production support. Include analysis, implementation, review, security checking, testing, release, correction, rework and support. Do not treat the pilot as successful if defects, escaped defects, security findings, code churn, change failure, operational work, participant burden or total delivery cost becomes materially worse.
 
-**Why it is useful**
+**Why this is useful**
 
 - It identifies the exact work and service.
 - It declares the comparison boundary.
@@ -736,11 +736,11 @@ Choose **Verified** only when the baseline covers comparable work across the dec
 
 Describe the baseline cohort and why it is comparable.
 
-**Insufficient response example**
+**Example that is not sufficient**
 
 > We will compare the pilot with our normal delivery metrics from last quarter.
 
-**Why it is insufficient**
+**Why this is not sufficient**
 
 - It does not identify the work type or population.
 - It does not define which delivery activities are included.
@@ -748,11 +748,11 @@ Describe the baseline cohort and why it is comparable.
 - It does not explain material differences.
 - It cannot be reproduced.
 
-**Useful response example**
+**Example that is useful**
 
 > The baseline contains 42 accepted authentication defect corrections completed in Service A during the prior two quarters by the same delivery team. Each item has timestamps and human-effort records from acceptance through 14 days of production support. The cohort excludes two emergency security incidents and three changes bundled with unrelated feature work. Review, test, release, defect, churn and support records are linked by work-item and change identifier. The measurement owner reproduced the cohort on 8 August. The independent reviewer accepted the baseline with the limitation that seasonal on-call staffing may affect support effort.
 
-**Why it is useful**
+**Why this is useful**
 
 - It defines the population and period.
 - It matches the intended work and delivery boundary.
@@ -838,22 +838,22 @@ Activities for this scope:
 
 What is missing, which decision does it prevent and how will the organization establish it?
 
-**Insufficient response example**
+**Example that is not sufficient**
 
 > Operations data is difficult to connect, so we will use implementation and testing results for the pilot.
 
-**Why it is insufficient**
+**Why this is not sufficient**
 
 - It silently removes production support from the approved delivery boundary.
 - It does not identify the missing evidence or owner.
 - It would allow a local speed result to hide transferred support work.
 - It does not state the claim and decisions that are blocked.
 
-**Useful response example**
+**Example that is useful**
 
 > Production-support effort for Service A is recorded by weekly cost center, not by work item or change. The service owner cannot currently distinguish effort caused by pilot changes from other support work during the 14-day observation period. This prevents a complete downstream and tangible-value conclusion. The service owner will add the change identifier to support records for eligible pilot work and the measurement owner will reconcile work items, releases and support activity before launch. Until the method is tested against three historical changes, the outcome-evaluated pilot and every value or expansion claim remain blocked.
 
-**Why it is useful**
+**Why this is useful**
 
 - It names the exact missing downstream evidence.
 - It explains why the current source is not usable.
@@ -962,22 +962,22 @@ For each category capture:
 
 What cost is missing or uncertain, how could it change the decision and how will it be established?
 
-**Insufficient response example**
+**Example that is not sufficient**
 
 > The pilot will use existing licenses, so the main cost is team time. We expect the productivity gain to cover it.
 
-**Why it is insufficient**
+**Why this is not sufficient**
 
 - Existing licenses still have a cost and allocation.
 - It omits token, integration, training, review, control, rework, support and governance cost.
 - It assumes a productivity gain before evidence exists.
 - It does not identify sources, period or uncertainty.
 
-**Useful response example**
+**Example that is useful**
 
 > License, model, token, platform, integration, enablement, review, test, security and governance costs have named sources for the six-week pilot. Production-support cost cannot yet be allocated to eligible work because support effort is not linked to work items. Shared platform cost is available only as a range of $4,000 to $7,000 because the allocation method is pending finance review. These gaps could reverse the apparent economic result. The service owner will establish work-item support attribution, and finance will approve the shared-cost allocation before launch. No savings, productivity, value or expansion claim may be made until the total-cost view is reviewed and accepted.
 
-**Why it is useful**
+**Why this is useful**
 
 - It names available and missing costs.
 - It states the affected period and scope.
@@ -1063,22 +1063,22 @@ Name a qualified reviewer who did not perform the AI-assisted work and does not 
 
 What will the independent reviewer examine?
 
-**Insufficient response example**
+**Example that is not sufficient**
 
 > The architecture review board will review the pilot results.
 
-**Why it is insufficient**
+**Why this is not sufficient**
 
 - It names a group rather than an accountable reviewer.
 - It does not define independence.
 - It does not identify evidence or calculations reviewed.
 - It does not include adverse evidence or claim limits.
 
-**Useful response example**
+**Example that is useful**
 
 > A principal measurement analyst who is not assigned to the pilot will reproduce the eligible cohort, baseline comparison, downstream effort and total-cost calculation. The analyst will review excluded work, missing evidence, confounders, adverse results and the proposed claim language. Security, quality, service and finance owners will separately decide within their categories. The enterprise AI adoption lead will preserve dissent in the final report.
 
-**Why it is useful**
+**Why this is useful**
 
 - It names an independent role and exact work.
 - It defines reproducible review.
