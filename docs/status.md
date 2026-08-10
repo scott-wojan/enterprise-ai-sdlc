@@ -65,6 +65,7 @@ Run controlled field pilots, preserve evidence and file bounded improvements aga
 - Complete Assisted Work and Bounded Defect Correction examples with filled artifacts and stop paths
 - Leadership, readiness, pilot-design, team-onboarding and pilot-review facilitation guides
 - Mobile-readable Pilot Edition navigation and version 0.1 release manifest
+- Responsive Next.js Pilot Guide deployed through GitHub Pages
 - Product roadmap
 - Complete epic catalog
 - Issue and pull-request templates
@@ -76,7 +77,7 @@ Run controlled field pilots, preserve evidence and file bounded improvements aga
 - Mixed-state enterprise operation
 - Platform-specific adapters
 - Machine-readable traceability
-- Responsive publication site and generated distribution formats
+- Generated PDF and editable distribution formats
 - Broad external field validation and version 1.0 reconciliation
 
 ## Next controlled sequence
