@@ -2,9 +2,9 @@
 
 ## Status
 
-Desktop structure accepted on 11 August 2026 for the represented pre-interpretation moment.
+Desktop and mobile structures accepted on 11 August 2026 for the represented pre-interpretation moment.
 
-This remains a low-fidelity structural wireframe. The visual cleanliness does not constitute approval of typography, color, branding, component styling, responsive behavior, interaction detail, prototype behavior or production implementation.
+These remain low-fidelity structural wireframes. Their visual cleanliness does not constitute approval of typography, color, branding, component styling, detailed interaction behavior, prototype behavior or production implementation.
 
 ## Represented moment
 
@@ -19,13 +19,17 @@ This review covers one moment only:
 
 ## Product-owner acceptance
 
-On 11 August 2026, the product owner confirmed that the screen keeps the user focused on answering one requirement and supplying evidence without implying that the response has already blocked the pilot or advanced the journey.
+On 11 August 2026, the product owner confirmed that the desktop screen keeps the user focused on answering one requirement and supplying evidence without implying that the response has already blocked the pilot or advanced the journey.
 
-The acceptance validates the information hierarchy and screen responsibility for this desktop moment. It does not authorize extension of the visual styling to the product as a whole.
+The product owner subsequently approved the mobile adaptation. The approval confirms that the same guidance, response, evidence and action distinction remain understandable in a single-column mobile structure.
 
-## Selected desktop artifact
+These acceptances validate the information hierarchy, semantic order and screen responsibility for this moment. They do not authorize extension of the visual styling to the product as a whole.
+
+## Selected artifacts
 
 [Anchor 2 desktop selected](explorations/anchor-2-desktop-selected.png)
+
+[Anchor 2 mobile selected](explorations/anchor-2-mobile-selected.png)
 
 The accepted structure uses this sequence:
 
@@ -46,7 +50,9 @@ The accepted structure uses this sequence:
 - guidance before input;
 - examples of useful and insufficient responses;
 - separation between draft saving and formal interpretation;
-- absence of premature blocker, gate or journey-state language.
+- absence of premature blocker, gate or journey-state language;
+- preservation of the same semantic order on desktop and mobile;
+- a mobile reading path without a permanent sidebar, detached rail or horizontal scrolling.
 
 ## What this selection does not decide
 
@@ -54,8 +60,7 @@ The accepted structure uses this sequence:
 - the hard-stop result screen, which is reviewed separately as Anchor 3;
 - the accountable stage-gate decision;
 - initiative-level progress reporting;
-- mobile structure;
-- accessibility behavior;
+- detailed accessibility behavior;
 - final visual design;
 - working prototype or production implementation.
 
@@ -73,6 +78,8 @@ Gate 6.4 is currently validating low-fidelity product structure:
 
 Final visual hierarchy, design tokens, brand expression, interaction polish and implementation begin only after the structural anchor set has been validated.
 
-## Next validation target
+## Remaining validation
 
-Adapt Anchor 2 to mobile and verify that its guidance, examples, response controls, evidence and action distinction remain understandable without creating a long, disorienting form.
+Anchor 2 is structurally accepted. Detailed accessibility annotations and representative task validation remain required before Gate 6.4 can close.
+
+The next structural target is Anchor 1, Public Home. It must explain the product's purpose and available starting paths before asking the reader for organizational information or placing them inside the adoption workspace.
