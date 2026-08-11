@@ -26,11 +26,11 @@ Read every Accepted record that affects the active issue before producing UX or 
 
 ### DEC-UX-003: Use decision-led durable navigation and single-owner screen responsibilities
 
-- Status: Proposed
+- Status: Accepted
 - Decision date: 11 August 2026
 - Scope: Gate 6.2 navigation, screen responsibilities and task flows
 - Record: [0003-decision-led-durable-navigation.md](0003-decision-led-durable-navigation.md)
-- Proposed result: Separate journey-led public guidance from a decision-led initiative workspace. Use durable destinations for Decisions, Opportunities, Adoption Increments, Governed Practices, Evidence, Risks and Remediation, and Reports. Preserve exact scope, canonical source ownership, direct entry, post-pilot continuity and the same desktop and mobile information structure.
+- Result: Separate journey-led public guidance from a decision-led initiative workspace. Use durable destinations for Decisions, Opportunities, Adoption Increments, Governed Practices, Evidence, Risks and Remediation, and Reports. Preserve exact scope, canonical source ownership, direct entry, post-pilot continuity and the same desktop and mobile information structure.
 
 ## Adding a decision
 
