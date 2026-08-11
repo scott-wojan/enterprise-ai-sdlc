@@ -2,7 +2,7 @@
 
 ## Status
 
-Proposed design brief for revised anchor exploration after acceptance of DEC-UX-005.
+Anchor 3 desktop structure selected for responsive validation on 11 August 2026. Mobile review remains pending. The other anchors remain proposed.
 
 This document is not a wireframe, visual direction or implementation target. It defines the screen responsibilities, representative state and content boundaries that the next visual exploration must preserve.
 
@@ -323,7 +323,7 @@ The readable leadership output is derived from the evidence conclusion, authorit
 
 ## Visual exploration target
 
-The first revised visual exploration will test Anchor 3, Immediate hard-stop result.
+The first revised visual exploration tested Anchor 3, Immediate hard-stop result. The product owner selected the second desktop exploration as the better representation of this moment. See the [Anchor 3 Selection and Responsive Review](anchor-3-selection-review.md).
 
 This is the most demanding intersection between focused work and journey consequence. It must prove that the product can:
 
