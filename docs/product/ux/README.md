@@ -18,8 +18,9 @@ Before changing the public experience, adoption workspace, navigation, screen st
 4. This file
 5. [Gate 6 UX Recovery and Design Plan](gate-6-ux-recovery-plan.md)
 6. [UX and UI Design Governance](design-governance.md)
-7. [UX Decision Register](decisions/README.md)
-8. The issue governing the current work
+7. [Product UX Design Principles](design-principles.md)
+8. [UX Decision Register](decisions/README.md)
+9. The issue governing the current work
 
 The active issue may name additional required sources. If conversation instructions conflict with approved repository content, stop and resolve the conflict in GitHub before implementation.
 
@@ -35,7 +36,7 @@ Accepted Gate 6.3 artifacts:
 - [Vertical-Slice Content Blueprints](vertical-slice-content-blueprints.md)
 - [DEC-UX-004](decisions/0004-decision-consequence-content-hierarchy.md)
 
-Gate 6.4 responsive structural wireframes may begin. Visual direction, implementation and production changes remain blocked.
+Gate 6.4 responsive structural wireframes may begin. The first anchor explorations were rejected because they intermingled journey state, work progress, evidence collection and decision consequence without enough causal or next-action clarity. Replacement wireframes remain blocked until the product-specific separation contract and principle review are applied. Visual direction, implementation and production changes remain blocked.
 
 Gate 6.2 was approved by the product owner on 11 August 2026.
 
@@ -119,6 +120,8 @@ An opportunity, increment or practice opens inside the initiative shell. It neve
 
 [DEC-UX-004](decisions/0004-decision-consequence-content-hierarchy.md) is Accepted. It places the decision or governing consequence first, keeps current action boundaries in the primary path, separates Save, Interpret, Verify and Decide, and defines one responsive semantic order.
 
+[DEC-UX-005](decisions/0005-mandatory-product-ux-principles.md) is Accepted. It makes the [Product UX Design Principles](design-principles.md), the separation between journey management and focused work, and evidence-backed principle review mandatory for Gate 6.4 and later work.
+
 The three visual mockups generated on 10 August 2026 are rejected exploratory outputs. No visual direction was selected. They must not be used as implementation targets or evidence of approval.
 
 High-fidelity visual design remains blocked until product structure, lifecycle, navigation, state scope, content hierarchy, interaction sequence, responsive order and low-fidelity wireframes are explicitly approved.
@@ -127,6 +130,8 @@ High-fidelity visual design remains blocked until product structure, lifecycle, 
 
 - [Gate 6 UX Recovery and Design Plan](gate-6-ux-recovery-plan.md) defines the corrected design process and Gate 6 finish line.
 - [UX and UI Design Governance](design-governance.md) defines how guidance, decisions, references, prototypes and validation survive across contributors and contexts.
+- [Product UX Design Principles](design-principles.md) defines mandatory human-centered design rules, product-specific screen separation and blocking failures.
+- [Product UX Principle Conformance Record](templates/principle-conformance-record.md) requires evidence for every applicable principle before a design checkpoint advances.
 - [Product Model](product-model.md) defines the durable concepts.
 - [Adoption Lifecycle](adoption-lifecycle.md) defines how those concepts change over time.
 - [State and Scope Model](state-scope-model.md) defines the facts and authority boundaries that must remain separate.

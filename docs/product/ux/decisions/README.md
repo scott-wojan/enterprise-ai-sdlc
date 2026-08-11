@@ -40,6 +40,14 @@ Read every Accepted record that affects the active issue before producing UX or 
 - Record: [0004-decision-consequence-content-hierarchy.md](0004-decision-consequence-content-hierarchy.md)
 - Result: Use a five-level content hierarchy led by the decision or governing consequence. Keep action boundaries, material evidence and authority in the primary path, separate Save, Interpret, Verify and Decide, and use one canonical semantic order across desktop and mobile.
 
+### DEC-UX-005: Make product UX principles mandatory design constraints
+
+- Status: Accepted
+- Decision date: 11 August 2026
+- Scope: Gate 6.4 and all later product-design and interface work
+- Record: [0005-mandatory-product-ux-principles.md](0005-mandatory-product-ux-principles.md)
+- Result: Apply sixteen product-specific UXP principles, preserve the separation between journey management and focused work, require evidence-backed principle conformance, and block advancement when an applicable principle or representative task fails.
+
 ## Adding a decision
 
 1. Copy the [UX decision-record template](../templates/decision-record.md).

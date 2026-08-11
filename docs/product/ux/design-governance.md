@@ -12,14 +12,15 @@ When sources disagree, use this order:
 
 1. Approved Product Contract and governing product models
 2. Accepted UX decision records
-3. Approved UX architecture and content-priority specifications
-4. Approved wireframes and interaction specifications
-5. Approved visual-system specification
-6. Approved prototype behavior
-7. Recorded validation findings and resulting decisions
-8. Active issue scope and acceptance criteria
-9. Pull-request discussion
-10. Conversation history, unpublished sketches and generated images
+3. Product UX Design Principles
+4. Approved UX architecture and content-priority specifications
+5. Approved wireframes and interaction specifications
+6. Approved visual-system specification
+7. Approved prototype behavior
+8. Recorded validation findings and resulting decisions
+9. Active issue scope and acceptance criteria
+10. Pull-request discussion
+11. Conversation history, unpublished sketches and generated images
 
 A lower source cannot silently override a higher source.
 
@@ -62,6 +63,14 @@ For every representative screen or decision unit, record:
 - remediation;
 - accountable next action;
 - mobile reading order.
+
+### Product design principles and conformance
+
+The [Product UX Design Principles](design-principles.md) define mandatory design rules and the separation between journey management, work and evidence collection, stage-gate decisions and reporting.
+
+Every UX checkpoint must complete a [Product UX Principle Conformance Record](templates/principle-conformance-record.md). The record must cite artifact or validation evidence for every applicable principle. Self-attestation is not sufficient.
+
+A failed, unassessed or unsupported applicable principle makes the checkpoint Revision required. A material exception requires a DEC-UX record.
 
 ### Interaction specifications
 
@@ -202,6 +211,8 @@ Every UX pull request must state:
 - desktop and mobile review result;
 - accessibility checks;
 - validation result;
+- completed principle conformance record;
+- unresolved principle failures or exceptions;
 - unresolved questions;
 - which downstream checkpoint becomes available after merge.
 
@@ -214,9 +225,10 @@ Before starting UX or UI work, a contributor must:
 3. Read the active issue.
 4. Read the governing architecture and content sources named by the issue.
 5. Read every accepted UX decision affecting the work.
-6. Confirm which visual and prototype references are approved.
-7. Confirm which outputs are rejected, exploratory or superseded.
-8. State the current checkpoint before producing work.
+6. Read the Product UX Design Principles.
+7. Confirm which visual and prototype references are approved.
+8. Confirm which outputs are rejected, exploratory or superseded.
+9. State the current checkpoint before producing work.
 
 The contributor must stop if the repository does not answer a material product question. The missing decision must be recorded and resolved before implementation.
 
@@ -255,6 +267,13 @@ Do not edit an accepted decision to reverse its meaning. Create a superseding re
 
 All future UX and UI work must:
 
+- comply with the Product UX Design Principles and complete the required conformance record;
+- begin with a documented representative user, situation, problem, primary job and successful outcome;
+- give every screen one primary responsibility and one dominant action;
+- separate journey management, work and evidence collection, stage-gate decisions and reporting;
+- keep complete journey state out of focused answer and evidence work except for restrained context and directly relevant consequences;
+- label progress by the exact thing counted rather than combining work, evidence, verification, decision and journey progress;
+- explain the scope, cause, consequence, permitted work, prohibited work and recommended next action for aggregate state;
 - explain the product purpose before requesting organizational information;
 - support the complete adoption lifecycle rather than only the pilot;
 - distinguish organization, initiative, pilot, decision, evidence and authority state;
@@ -270,6 +289,22 @@ All future UX and UI work must:
 - support keyboard operation and visible focus;
 - use direct language without unexplained jargon;
 - avoid em dashes.
+
+## Principle enforcement gate
+
+A UX artifact cannot advance when:
+
+- an applicable UXP principle is not assessed;
+- evidence for conformance is missing;
+- a mandatory principle fails;
+- the screen has no clear primary job;
+- journey state competes with focused work or evidence collection;
+- a status lacks scope, cause, consequence or recovery;
+- a progress indicator conflates different facts;
+- task completion implies readiness, approval or authority;
+- representative task validation has an unresolved blocking failure.
+
+Gate 6.5 must encode applicable principles into reusable patterns, components, states, content rules, accessibility behavior and design tokens. Production validation must automate deterministic checks where practical and retain human task validation for comprehension and usability.
 
 ## Gate 6 context-survival test
 
