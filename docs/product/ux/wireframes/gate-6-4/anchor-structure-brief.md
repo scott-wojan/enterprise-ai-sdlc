@@ -2,7 +2,7 @@
 
 ## Status
 
-Anchor 3 desktop structure selected for responsive validation on 11 August 2026. Mobile review remains pending. The other anchors remain proposed.
+Anchor 2 desktop and mobile structures were accepted on 11 August 2026. Anchor 3 desktop structure was selected and its mobile adaptation was directionally accepted. Anchors 1, 4 and 5 remain proposed.
 
 This document is not a wireframe, visual direction or implementation target. It defines the screen responsibilities, representative state and content boundaries that the next visual exploration must preserve.
 
@@ -323,7 +323,9 @@ The readable leadership output is derived from the evidence conclusion, authorit
 
 ## Visual exploration target
 
-The first revised visual exploration tested Anchor 3, Immediate hard-stop result. The product owner selected the second desktop exploration as the better representation of this moment. See the [Anchor 3 Selection and Responsive Review](anchor-3-selection-review.md).
+The first revised visual exploration tested Anchor 3, Immediate hard-stop result. The product owner selected the second desktop exploration as the better representation of this moment and confirmed that its mobile adaptation directionally preserves the meaning. See the [Anchor 3 Selection and Responsive Review](anchor-3-selection-review.md).
+
+Anchor 2, Focused readiness work item, was then tested on desktop and mobile. The product owner accepted both structures for the represented pre-interpretation moment. See the [Anchor 2 Selection Review](anchor-2-selection-review.md).
 
 This is the most demanding intersection between focused work and journey consequence. It must prove that the product can:
 
@@ -353,4 +355,4 @@ Without explanation from the designer, a representative pilot lead must be able 
 11. Does remediation restore authority automatically?
 12. Where can the person see the complete readiness state?
 
-Failure on any question requires revision before Anchor 2 or the remaining anchors are extended.
+Failure on any question requires revision before Gate 6.4 closes.
