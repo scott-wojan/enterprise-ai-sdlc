@@ -46,8 +46,6 @@ Accepted Gate 6.2 artifacts:
 - [Task Flow Model](task-flow-model.md)
 - [DEC-UX-003](decisions/0003-decision-led-durable-navigation.md)
 
-Gate 6.3 content priority, interaction sequence and responsive reading order may begin. Wireframes, visual design and implementation remain blocked.
-
 Gate 6.1 was approved by the product owner on 11 August 2026.
 
 Accepted Gate 6.1 artifacts:
