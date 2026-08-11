@@ -25,6 +25,17 @@ The active issue may name additional required sources. If conversation instructi
 
 ## Current checkpoint
 
+Gate 6.2 is under product-owner review.
+
+Proposed Gate 6.2 artifacts:
+
+- [Navigation Model](navigation-model.md)
+- [Screen Responsibility Map](screen-responsibility-map.md)
+- [Task Flow Model](task-flow-model.md)
+- [DEC-UX-003](decisions/0003-decision-led-durable-navigation.md)
+
+Gate 6.3 content priority, interaction sequence and responsive reading order remain blocked until Gate 6.2 is approved and merged.
+
 Gate 6.1 was approved by the product owner on 11 August 2026.
 
 Accepted Gate 6.1 artifacts:
@@ -33,8 +44,6 @@ Accepted Gate 6.1 artifacts:
 - [Adoption Lifecycle](adoption-lifecycle.md)
 - [State and Scope Model](state-scope-model.md)
 - [DEC-UX-002](decisions/0002-adoption-initiative-product-model.md)
-
-Gate 6.2 navigation and screen responsibilities may begin. Navigation, wireframes, visual design and implementation are not yet approved.
 
 ## Product structure that must survive implementation
 
@@ -46,13 +55,22 @@ The public playbook explains why the product exists, who it serves, the full ado
 
 Its primary organization is the nine-stage adoption journey. Role and SDLC views are secondary ways to reach the same guidance.
 
+Proposed durable public destinations are:
+
+- Home
+- Why this matters
+- Adoption journey
+- Across the SDLC
+- Apply the playbook
+- Examples and resources
+
 ### Adoption workspace
 
 The workspace applies the playbook to one adoption initiative. It is not a pilot-only workbook or questionnaire.
 
 A pilot is one controlled adoption increment inside the initiative. The workspace must continue to make sense before a pilot, during a pilot, after evaluation, during remediation, while deciding whether to expand or restrict adoption, and during ongoing operation.
 
-Durable workspace concepts include:
+Accepted durable workspace concepts include:
 
 - adoption initiative;
 - current AI participation posture;
@@ -68,23 +86,56 @@ Durable workspace concepts include:
 
 Every displayed state must identify which concept and scope it applies to.
 
+Proposed durable initiative destinations are:
+
+- Overview
+- Decisions
+- Opportunities
+- Adoption increments
+- Governed practices
+- Evidence
+- Risks and remediation
+- Reports
+
+An opportunity, increment or practice opens inside the initiative shell. It never replaces the initiative context.
+
 ## Governing and proposed UX decisions
 
 [DEC-UX-001](decisions/0001-architecture-before-visual-design.md) is Accepted and resets Gate 6 to architecture-first design.
 
 [DEC-UX-002](decisions/0002-adoption-initiative-product-model.md) is Accepted and defines the adoption initiative, adoption increment, exact scope, lifecycle, decision and state model.
 
+[DEC-UX-003](decisions/0003-decision-led-durable-navigation.md) is Proposed. It defines separate public and workspace navigation, a decision-led initiative structure, local object navigation, canonical screen ownership, direct entry, Resume and post-pilot continuity.
+
 The three visual mockups generated on 10 August 2026 are rejected exploratory outputs. No visual direction was selected. They must not be used as implementation targets or evidence of approval.
 
-High-fidelity visual design remains blocked until product structure, lifecycle, navigation, state scope, content priority, interaction sequence, responsive reading order and low-fidelity wireframes are explicitly approved.
+High-fidelity visual design remains blocked until product structure, lifecycle, navigation, state scope, content hierarchy, interaction sequence, responsive order and low-fidelity wireframes are explicitly approved.
 
 ## Artifact structure
 
 - [Gate 6 UX Recovery and Design Plan](gate-6-ux-recovery-plan.md) defines the corrected design process and Gate 6 finish line.
 - [UX and UI Design Governance](design-governance.md) defines how guidance, decisions, references, prototypes and validation survive across contributors and contexts.
+- [Product Model](product-model.md) defines the durable concepts.
+- [Adoption Lifecycle](adoption-lifecycle.md) defines how those concepts change over time.
+- [State and Scope Model](state-scope-model.md) defines the facts and authority boundaries that must remain separate.
+- [Navigation Model](navigation-model.md) defines stable destinations and movement.
+- [Screen Responsibility Map](screen-responsibility-map.md) defines what each destination owns, uses and produces.
+- [Task Flow Model](task-flow-model.md) tests the architecture against representative work.
 - [UX Decision Register](decisions/README.md) lists accepted, proposed, rejected and superseded UX decisions.
 - [Decision Record Template](templates/decision-record.md) is required for material product-experience choices.
-- Approved architecture, content-priority, wireframe, visual-system and validation artifacts will remain linked from this file.
+- Approved content-priority, wireframe, visual-system and validation artifacts will remain linked from this file.
+
+## Canonical ownership rule
+
+Future UX and implementation work must preserve these source responsibilities:
+
+- Decisions owns authoritative decision state and history.
+- Evidence owns evidence records and frozen snapshots.
+- Risks and remediation owns risk, hard-stop, restriction and corrective-work records.
+- Opportunities, increments and practices own their durable context.
+- Reports owns derived audience views and never authority.
+
+A summary or filtered view links to the source. It does not create another source of truth.
 
 ## Working rule
 
