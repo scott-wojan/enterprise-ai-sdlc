@@ -23,6 +23,21 @@ Before changing the public experience, adoption workspace, navigation, screen st
 
 The active issue may name additional required sources. If conversation instructions conflict with approved repository content, stop and resolve the conflict in GitHub before implementation.
 
+## Current checkpoint
+
+Gate 6.1 is under review in [issue #147](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/147).
+
+Proposed Gate 6.1 artifacts:
+
+- [Product Model](product-model.md)
+- [Adoption Lifecycle](adoption-lifecycle.md)
+- [State and Scope Model](state-scope-model.md)
+- [DEC-UX-002](decisions/0002-adoption-initiative-product-model.md)
+
+These artifacts are not authoritative until the product owner approves DEC-UX-002 and the accepted status is merged.
+
+Gate 6.2 navigation and screen responsibilities remain blocked.
+
 ## Product structure that must survive implementation
 
 The product has two connected surfaces:
@@ -55,9 +70,11 @@ Durable workspace concepts include:
 
 Every displayed state must identify which concept and scope it applies to.
 
-## Current governing UX decision
+## Governing and proposed UX decisions
 
-[DEC-UX-001](decisions/0001-architecture-before-visual-design.md) resets Gate 6 to architecture-first design.
+[DEC-UX-001](decisions/0001-architecture-before-visual-design.md) is Accepted and resets Gate 6 to architecture-first design.
+
+[DEC-UX-002](decisions/0002-adoption-initiative-product-model.md) is Proposed and defines the adoption initiative, adoption increment, exact scope, lifecycle, decision and state model.
 
 The three visual mockups generated on 10 August 2026 are rejected exploratory outputs. No visual direction was selected. They must not be used as implementation targets or evidence of approval.
 
@@ -69,7 +86,7 @@ High-fidelity visual design remains blocked until product structure, lifecycle, 
 - [UX and UI Design Governance](design-governance.md) defines how guidance, decisions, references, prototypes and validation survive across contributors and contexts.
 - [UX Decision Register](decisions/README.md) lists accepted, proposed, rejected and superseded UX decisions.
 - [Decision Record Template](templates/decision-record.md) is required for material product-experience choices.
-- Future architecture, content-priority, wireframe, visual-system and validation artifacts will be linked from this file after approval.
+- Approved architecture, content-priority, wireframe, visual-system and validation artifacts will remain linked from this file.
 
 ## Working rule
 
