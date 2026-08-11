@@ -2,7 +2,7 @@
 
 ## Status
 
-Desktop structure selected for responsive validation. Mobile structure pending product-owner review.
+Desktop structure selected. Mobile structure directionally accepted on 11 August 2026. Detailed responsive and accessibility validation remains pending.
 
 This is not approval of the complete Gate 6.4 anchor set, visual system, prototype or production interface.
 
@@ -39,9 +39,11 @@ The desktop direction uses this sequence:
 7. the recommended next action;
 8. links to the complete readiness view and source response.
 
-## Mobile artifact awaiting review
+## Mobile artifact directionally accepted
 
-[Anchor 3 mobile pending review](explorations/anchor-3-mobile-pending-review.png)
+[Anchor 3 mobile directionally accepted](explorations/anchor-3-mobile-directionally-accepted.png)
+
+On 11 August 2026, the product owner confirmed that the mobile adaptation directionally preserves the desktop meaning. This is not final responsive approval.
 
 The mobile adaptation preserves the same semantic order in one column. It does not use a permanent sidebar, right rail, horizontal scrolling or hidden essential consequence.
 
@@ -125,11 +127,10 @@ In progress. The first exploration was rejected, the second direction was select
 
 Anchor 3 cannot be approved until:
 
-- the mobile adaptation is reviewed;
 - desktop and mobile accessibility annotations are complete;
 - a representative reviewer can answer the twelve validation questions in the anchor brief without designer explanation;
 - any resulting failures are corrected and retested.
 
-## Exact review question
+## Next review target
 
-Does the mobile adaptation preserve the selected desktop meaning and hierarchy without making the state, cause, remaining blockers, permitted work, prohibited work or recommended next action harder to understand?
+Anchor 2, Focused readiness work item, must now prove that answer and evidence collection can remain focused before interpretation without repeating the journey overview or prematurely presenting the blocker.
