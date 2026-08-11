@@ -621,7 +621,7 @@ Pilot completed, prior Bounded Change period ended, evidence decision pending an
 1. Exact scope and frozen snapshot.
 2. Comparability and limitations.
 3. Evidence completeness.
-4. Complete-system conclusion.
+4. Current evidence conclusion, initially Decision pending. After dimension review and accountable disposition, summarize the recorded complete-system conclusion here.
 5. Product outcome.
 6. Delivery flow and total human effort.
 7. Quality and maintainability.
@@ -636,7 +636,7 @@ Pilot completed, prior Bounded Change period ended, evidence decision pending an
 
 ### Interaction
 
-Reviewers inspect and disposition each dimension. The evidence conclusion becomes available only after material evidence and dissent are addressed.
+Reviewers inspect and disposition each dimension. The evidence conclusion becomes available only after material evidence and dissent are addressed. Returning readers see the recorded complete-system conclusion before reopening dimension detail; first-time reviewers see Decision pending until the required review is complete.
 
 ### Supporting detail
 
