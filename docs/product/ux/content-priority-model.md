@@ -283,8 +283,8 @@ Use this order:
 2. Exact evaluated scope and frozen evidence snapshot.
 3. Current authority and proposed decision.
 4. Comparability, completeness and material limitations.
-5. Complete-system evidence conclusion.
-6. Results by separate dimension.
+5. Current evidence conclusion. Before accountable disposition, this is Decision pending. After the conclusion is recorded, the complete-system result is summarized here.
+6. Results by separate dimension. On initial review, these dimensions are dispositioned before the accountable evidence conclusion is recorded.
 7. Adverse evidence and dissent.
 8. Claim limits.
 9. Accountable operating decision.
