@@ -279,7 +279,7 @@ The action label cannot imply completion of remediation, launch or pilot work.
 7. Comparability.
 8. Completeness.
 9. Material limitations and dissent.
-10. Complete-system evidence conclusion.
+10. Current evidence conclusion. It remains Decision pending until dimension review and accountable disposition are complete. After recording, the complete-system conclusion is summarized here.
 11. Product or business outcome.
 12. Delivery flow and total human effort.
 13. Quality and maintainability.
