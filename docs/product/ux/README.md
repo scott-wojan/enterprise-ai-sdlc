@@ -25,9 +25,9 @@ The active issue may name additional required sources. If conversation instructi
 
 ## Current checkpoint
 
-Gate 6.3 is under product-owner review.
+Gate 6.3 was approved by the product owner on 11 August 2026.
 
-Proposed Gate 6.3 artifacts:
+Accepted Gate 6.3 artifacts:
 
 - [Content Priority Model](content-priority-model.md)
 - [Interaction Sequence Model](interaction-sequence-model.md)
@@ -35,7 +35,7 @@ Proposed Gate 6.3 artifacts:
 - [Vertical-Slice Content Blueprints](vertical-slice-content-blueprints.md)
 - [DEC-UX-004](decisions/0004-decision-consequence-content-hierarchy.md)
 
-Gate 6.4 responsive structural wireframes remain blocked until Gate 6.3 is approved and merged.
+Gate 6.4 responsive structural wireframes may begin. Visual direction, implementation and production changes remain blocked.
 
 Gate 6.2 was approved by the product owner on 11 August 2026.
 
@@ -119,7 +119,7 @@ An opportunity, increment or practice opens inside the initiative shell. It neve
 
 [DEC-UX-003](decisions/0003-decision-led-durable-navigation.md) is Accepted. It defines separate public and workspace navigation, a decision-led initiative structure, local object navigation, canonical screen ownership, direct entry, Resume and post-pilot continuity.
 
-[DEC-UX-004](decisions/0004-decision-consequence-content-hierarchy.md) is Proposed. It places the decision or governing consequence first, keeps current action boundaries in the primary path, separates Save, Interpret, Verify and Decide, and defines one responsive semantic order.
+[DEC-UX-004](decisions/0004-decision-consequence-content-hierarchy.md) is Accepted. It places the decision or governing consequence first, keeps current action boundaries in the primary path, separates Save, Interpret, Verify and Decide, and defines one responsive semantic order.
 
 The three visual mockups generated on 10 August 2026 are rejected exploratory outputs. No visual direction was selected. They must not be used as implementation targets or evidence of approval.
 
