@@ -2,7 +2,7 @@
 
 ## Status
 
-Anchor 2 desktop and mobile structures were accepted on 11 August 2026. Anchor 3 desktop structure was selected and its mobile adaptation was directionally accepted. Anchors 1, 4 and 5 remain proposed.
+Anchor 1 and Anchor 2 desktop and mobile structures were accepted on 11 August 2026. Anchor 3 desktop structure was selected and its mobile adaptation was directionally accepted. Anchors 4 and 5 remain proposed.
 
 This document is not a wireframe, visual direction or implementation target. It defines the screen responsibilities, representative state and content boundaries that the next visual exploration must preserve.
 
@@ -326,6 +326,8 @@ The readable leadership output is derived from the evidence conclusion, authorit
 The first revised visual exploration tested Anchor 3, Immediate hard-stop result. The product owner selected the second desktop exploration as the better representation of this moment and confirmed that its mobile adaptation directionally preserves the meaning. See the [Anchor 3 Selection and Responsive Review](anchor-3-selection-review.md).
 
 Anchor 2, Focused readiness work item, was then tested on desktop and mobile. The product owner accepted both structures for the represented pre-interpretation moment. See the [Anchor 2 Selection Review](anchor-2-selection-review.md).
+
+Anchor 1, Public Home, was corrected after the first attempt exposed too much product documentation in the orientation layer. The product owner accepted the revised desktop and mobile structures. See the [Anchor 1 Selection Review](anchor-1-selection-review.md).
 
 This is the most demanding intersection between focused work and journey consequence. It must prove that the product can:
 
