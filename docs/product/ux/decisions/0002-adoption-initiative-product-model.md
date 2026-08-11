@@ -2,11 +2,11 @@
 
 ## Status
 
-Proposed
+Accepted
 
 ## Decision date
 
-Pending product-owner approval.
+11 August 2026
 
 ## Decider
 
@@ -31,7 +31,7 @@ The approved product contract and information architecture state that:
 
 Gate 6.1 must convert those principles into a durable product model before navigation or visual design begins.
 
-## Proposed decision
+## Decision
 
 ### Workspace container
 
@@ -141,7 +141,7 @@ A report does not own state and does not grant authority.
 
 ## Consequences
 
-### Work enabled after acceptance
+### Work enabled by acceptance
 
 - Gate 6.2 may define durable navigation and screen responsibilities.
 - Navigation can distinguish initiative-level and increment-level work.
