@@ -34,11 +34,11 @@ Read every Accepted record that affects the active issue before producing UX or 
 
 ### DEC-UX-004: Put the decision and governing consequence before task detail
 
-- Status: Proposed
+- Status: Accepted
 - Decision date: 11 August 2026
 - Scope: Gate 6.3 content priority, interaction sequence and responsive reading order
 - Record: [0004-decision-consequence-content-hierarchy.md](0004-decision-consequence-content-hierarchy.md)
-- Proposed result: Use a five-level content hierarchy led by the decision or governing consequence. Keep action boundaries, material evidence and authority in the primary path, separate Save, Interpret, Verify and Decide, and use one canonical semantic order across desktop and mobile.
+- Result: Use a five-level content hierarchy led by the decision or governing consequence. Keep action boundaries, material evidence and authority in the primary path, separate Save, Interpret, Verify and Decide, and use one canonical semantic order across desktop and mobile.
 
 ## Adding a decision
 
