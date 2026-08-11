@@ -2,7 +2,9 @@
 
 ## Status
 
-Proposed for product-owner approval under [Gate 6.1](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/147).
+Approved by the product owner under [Gate 6.1](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/147) on 11 August 2026.
+
+[DEC-UX-002](decisions/0002-adoption-initiative-product-model.md) is the accepted architecture decision.
 
 This document defines how people and records move through the complete adoption journey. It does not prescribe a wizard, page order, navigation pattern or platform workflow.
 
