@@ -24,6 +24,14 @@ Read every Accepted record that affects the active issue before producing UX or 
 - Record: [0002-adoption-initiative-product-model.md](0002-adoption-initiative-product-model.md)
 - Result: Use the adoption initiative as the durable workspace, use adoption increments for bounded changes, bind state and authority to exact scope, support parallel lifecycle stages and keep evidence conclusions separate from authority.
 
+### DEC-UX-003: Use decision-led durable navigation and single-owner screen responsibilities
+
+- Status: Proposed
+- Decision date: 11 August 2026
+- Scope: Gate 6.2 navigation, screen responsibilities and task flows
+- Record: [0003-decision-led-durable-navigation.md](0003-decision-led-durable-navigation.md)
+- Proposed result: Separate journey-led public guidance from a decision-led initiative workspace. Use durable destinations for Decisions, Opportunities, Adoption Increments, Governed Practices, Evidence, Risks and Remediation, and Reports. Preserve exact scope, canonical source ownership, direct entry, post-pilot continuity and the same desktop and mobile information structure.
+
 ## Adding a decision
 
 1. Copy the [UX decision-record template](../templates/decision-record.md).
