@@ -120,7 +120,7 @@ An opportunity, increment or practice opens inside the initiative shell. It neve
 
 [DEC-UX-004](decisions/0004-decision-consequence-content-hierarchy.md) is Accepted. It places the decision or governing consequence first, keeps current action boundaries in the primary path, separates Save, Interpret, Verify and Decide, and defines one responsive semantic order.
 
-[DEC-UX-005](decisions/0005-mandatory-product-ux-principles.md) is Proposed. It makes the [Product UX Design Principles](design-principles.md), the separation between journey management and focused work, and evidence-backed principle review mandatory for Gate 6.4 and later work.
+[DEC-UX-005](decisions/0005-mandatory-product-ux-principles.md) is Accepted. It makes the [Product UX Design Principles](design-principles.md), the separation between journey management and focused work, and evidence-backed principle review mandatory for Gate 6.4 and later work.
 
 The three visual mockups generated on 10 August 2026 are rejected exploratory outputs. No visual direction was selected. They must not be used as implementation targets or evidence of approval.
 
