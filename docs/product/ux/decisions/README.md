@@ -42,7 +42,7 @@ Read every Accepted record that affects the active issue before producing UX or 
 
 ### DEC-UX-005: Make product UX principles mandatory design constraints
 
-- Status: Proposed
+- Status: Accepted
 - Decision date: 11 August 2026
 - Scope: Gate 6.4 and all later product-design and interface work
 - Record: [0005-mandatory-product-ux-principles.md](0005-mandatory-product-ux-principles.md)
