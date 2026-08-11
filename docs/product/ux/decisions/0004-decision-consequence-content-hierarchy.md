@@ -130,8 +130,8 @@ Pilot Evaluation presents:
 
 1. decision and scope;
 2. frozen evidence, comparability and completeness;
-3. complete-system evidence conclusion;
-4. separate dimension results;
+3. current evidence conclusion, shown as Decision pending until accountable disposition and summarized as the complete-system result after recording;
+4. separate dimension results that must be reviewed before the evidence conclusion can be recorded;
 5. adverse evidence and dissent;
 6. claim limits;
 7. separate authority decision;
