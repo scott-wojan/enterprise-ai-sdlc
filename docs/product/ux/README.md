@@ -25,16 +25,16 @@ The active issue may name additional required sources. If conversation instructi
 
 ## Current checkpoint
 
-Gate 6.2 is under product-owner review.
+Gate 6.2 was approved by the product owner on 11 August 2026.
 
-Proposed Gate 6.2 artifacts:
+Accepted Gate 6.2 artifacts:
 
 - [Navigation Model](navigation-model.md)
 - [Screen Responsibility Map](screen-responsibility-map.md)
 - [Task Flow Model](task-flow-model.md)
 - [DEC-UX-003](decisions/0003-decision-led-durable-navigation.md)
 
-Gate 6.3 content priority, interaction sequence and responsive reading order remain blocked until Gate 6.2 is approved and merged.
+Gate 6.3 content priority, interaction sequence and responsive reading order may begin. Wireframes, visual design and implementation remain blocked.
 
 Gate 6.1 was approved by the product owner on 11 August 2026.
 
@@ -55,7 +55,7 @@ The public playbook explains why the product exists, who it serves, the full ado
 
 Its primary organization is the nine-stage adoption journey. Role and SDLC views are secondary ways to reach the same guidance.
 
-Proposed durable public destinations are:
+Accepted durable public destinations are:
 
 - Home
 - Why this matters
@@ -86,7 +86,7 @@ Accepted durable workspace concepts include:
 
 Every displayed state must identify which concept and scope it applies to.
 
-Proposed durable initiative destinations are:
+Accepted durable initiative destinations are:
 
 - Overview
 - Decisions
@@ -105,7 +105,7 @@ An opportunity, increment or practice opens inside the initiative shell. It neve
 
 [DEC-UX-002](decisions/0002-adoption-initiative-product-model.md) is Accepted and defines the adoption initiative, adoption increment, exact scope, lifecycle, decision and state model.
 
-[DEC-UX-003](decisions/0003-decision-led-durable-navigation.md) is Proposed. It defines separate public and workspace navigation, a decision-led initiative structure, local object navigation, canonical screen ownership, direct entry, Resume and post-pilot continuity.
+[DEC-UX-003](decisions/0003-decision-led-durable-navigation.md) is Accepted. It defines separate public and workspace navigation, a decision-led initiative structure, local object navigation, canonical screen ownership, direct entry, Resume and post-pilot continuity.
 
 The three visual mockups generated on 10 August 2026 are rejected exploratory outputs. No visual direction was selected. They must not be used as implementation targets or evidence of approval.
 
