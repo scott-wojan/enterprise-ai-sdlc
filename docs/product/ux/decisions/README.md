@@ -18,11 +18,11 @@ Read every Accepted record that affects the active issue before producing UX or 
 
 ### DEC-UX-002: Use an adoption initiative as the durable workspace model
 
-- Status: Proposed
-- Decision date: Pending product-owner approval
+- Status: Accepted
+- Decision date: 11 August 2026
 - Scope: Gate 6.1 product model, lifecycle and state scope
 - Record: [0002-adoption-initiative-product-model.md](0002-adoption-initiative-product-model.md)
-- Proposed result: Use the adoption initiative as the durable workspace, use adoption increments for bounded changes, bind state and authority to exact scope, support parallel lifecycle stages and keep evidence conclusions separate from authority.
+- Result: Use the adoption initiative as the durable workspace, use adoption increments for bounded changes, bind state and authority to exact scope, support parallel lifecycle stages and keep evidence conclusions separate from authority.
 
 ## Adding a decision
 
