@@ -136,3 +136,12 @@ The source ledger records material reused across the playbook. It distinguishes 
 - **Type:** Consensus-developed, voluntary risk-management framework
 - **Limit:** Applies broadly to AI risk management and does not define a software-delivery accountability workflow
 - **Last verified:** 2026-08-09
+
+## SRC-016: UX design principles
+
+- **Publisher:** UXPin
+- **Location:** https://www.uxpin.com/studio/blog/ux-design-principles/
+- **Use:** Human-centered design, consistency, scannability, cognitive-load reduction, visual structure, problem definition, clear language, feedback, hierarchy, accessibility, user control, whitespace, error recovery, progressive disclosure, mental models and evidence-based iteration
+- **Type:** Practitioner design guidance synthesizing established UX principles
+- **Limit:** Vendor-authored secondary guidance that includes product promotion and vendor claims. This project adapts the principles but does not adopt UXPin tooling, marketing claims or the article as product authority.
+- **Last verified:** 2026-08-11
