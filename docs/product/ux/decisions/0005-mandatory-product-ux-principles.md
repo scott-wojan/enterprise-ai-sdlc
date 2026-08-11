@@ -2,11 +2,13 @@
 
 ## Status
 
-Proposed
+Accepted
 
 ## Decision date
 
 2026-08-11
+
+Approved by the product owner through PR #154.
 
 ## Decider
 
