@@ -15,6 +15,28 @@ Before changing normative content, read:
 
 Do not use conversation memory as an authoritative source when repository content exists.
 
+## Product experience and UX context
+
+Before changing public guidance, adoption-workspace structure, navigation, information hierarchy, content priority, interaction behavior, visual design, responsive behavior or a product prototype, also read:
+
+1. `docs/product/product-contract.md`
+2. `docs/product/information-architecture.md`
+3. `docs/product/gate-5-cross-experience-review.md`
+4. `docs/product/ux/README.md`
+5. The accepted UX decision records named by that entry point
+6. The active UX issue and its Required Context
+
+For UX and UI work:
+
+- Treat GitHub as authoritative. Conversation history, generated images and model memory are not product decisions.
+- Stop when a material product question is not answered by repository sources.
+- Record material product-experience decisions using a `DEC-UX-###` record.
+- Do not begin high-fidelity visual design before the governing product model, lifecycle, navigation, state scope, content hierarchy, interaction sequence, responsive reading order and structural wireframes are approved.
+- Design for the complete adoption lifecycle. A pilot is one increment, not the product's permanent organizing structure.
+- Mark exploratory, rejected and superseded visual references clearly.
+- Validate representative desktop and mobile behavior, keyboard operation, visible focus and task comprehension.
+- Do not claim that a prototype is validated without recorded task-based validation by representative humans.
+
 ## Scope discipline
 
 - Work only within the active issue's stated scope.
@@ -61,5 +83,7 @@ Use these prefixes:
 - `MEAS` for measures
 - `DEC` for decisions
 - `EX` for worked examples
+
+`DEC-UX-###` is the decision form for material UX and UI choices.
 
 Identifiers are permanent after a released version references them. Retired identifiers must not be reused.
