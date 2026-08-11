@@ -25,6 +25,18 @@ The active issue may name additional required sources. If conversation instructi
 
 ## Current checkpoint
 
+Gate 6.3 is under product-owner review.
+
+Proposed Gate 6.3 artifacts:
+
+- [Content Priority Model](content-priority-model.md)
+- [Interaction Sequence Model](interaction-sequence-model.md)
+- [Responsive Reading Order](responsive-reading-order.md)
+- [Vertical-Slice Content Blueprints](vertical-slice-content-blueprints.md)
+- [DEC-UX-004](decisions/0004-decision-consequence-content-hierarchy.md)
+
+Gate 6.4 responsive structural wireframes remain blocked until Gate 6.3 is approved and merged.
+
 Gate 6.2 was approved by the product owner on 11 August 2026.
 
 Accepted Gate 6.2 artifacts:
@@ -107,6 +119,8 @@ An opportunity, increment or practice opens inside the initiative shell. It neve
 
 [DEC-UX-003](decisions/0003-decision-led-durable-navigation.md) is Accepted. It defines separate public and workspace navigation, a decision-led initiative structure, local object navigation, canonical screen ownership, direct entry, Resume and post-pilot continuity.
 
+[DEC-UX-004](decisions/0004-decision-consequence-content-hierarchy.md) is Proposed. It places the decision or governing consequence first, keeps current action boundaries in the primary path, separates Save, Interpret, Verify and Decide, and defines one responsive semantic order.
+
 The three visual mockups generated on 10 August 2026 are rejected exploratory outputs. No visual direction was selected. They must not be used as implementation targets or evidence of approval.
 
 High-fidelity visual design remains blocked until product structure, lifecycle, navigation, state scope, content hierarchy, interaction sequence, responsive order and low-fidelity wireframes are explicitly approved.
@@ -121,9 +135,13 @@ High-fidelity visual design remains blocked until product structure, lifecycle, 
 - [Navigation Model](navigation-model.md) defines stable destinations and movement.
 - [Screen Responsibility Map](screen-responsibility-map.md) defines what each destination owns, uses and produces.
 - [Task Flow Model](task-flow-model.md) tests the architecture against representative work.
+- [Content Priority Model](content-priority-model.md) defines what people must understand first and what may remain supporting detail.
+- [Interaction Sequence Model](interaction-sequence-model.md) defines the behavior and authority boundary of each consequential action.
+- [Responsive Reading Order](responsive-reading-order.md) defines one semantic order for desktop, mobile, keyboard and screen-reader use.
+- [Vertical-Slice Content Blueprints](vertical-slice-content-blueprints.md) applies the hierarchy to the sixteen representative views.
 - [UX Decision Register](decisions/README.md) lists accepted, proposed, rejected and superseded UX decisions.
 - [Decision Record Template](templates/decision-record.md) is required for material product-experience choices.
-- Approved content-priority, wireframe, visual-system and validation artifacts will remain linked from this file.
+- Approved wireframe, visual-system and validation artifacts will remain linked from this file.
 
 ## Canonical ownership rule
 
