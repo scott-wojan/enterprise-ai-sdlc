@@ -16,6 +16,14 @@ Read every Accepted record that affects the active issue before producing UX or 
 - Record: [0001-architecture-before-visual-design.md](0001-architecture-before-visual-design.md)
 - Result: The initial visual-first attempt is rejected. Product model, lifecycle, navigation, state scope, content hierarchy, interaction sequence, responsive order and structural wireframes must be approved before new high-fidelity visual exploration.
 
+### DEC-UX-002: Use an adoption initiative as the durable workspace model
+
+- Status: Accepted
+- Decision date: 11 August 2026
+- Scope: Gate 6.1 product model, lifecycle and state scope
+- Record: [0002-adoption-initiative-product-model.md](0002-adoption-initiative-product-model.md)
+- Result: Use the adoption initiative as the durable workspace, use adoption increments for bounded changes, bind state and authority to exact scope, support parallel lifecycle stages and keep evidence conclusions separate from authority.
+
 ## Adding a decision
 
 1. Copy the [UX decision-record template](../templates/decision-record.md).
