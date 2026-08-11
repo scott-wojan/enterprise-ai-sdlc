@@ -25,18 +25,16 @@ The active issue may name additional required sources. If conversation instructi
 
 ## Current checkpoint
 
-Gate 6.1 is under review in [issue #147](https://github.com/scott-wojan/enterprise-ai-sdlc/issues/147).
+Gate 6.1 was approved by the product owner on 11 August 2026.
 
-Proposed Gate 6.1 artifacts:
+Accepted Gate 6.1 artifacts:
 
 - [Product Model](product-model.md)
 - [Adoption Lifecycle](adoption-lifecycle.md)
 - [State and Scope Model](state-scope-model.md)
 - [DEC-UX-002](decisions/0002-adoption-initiative-product-model.md)
 
-These artifacts are not authoritative until the product owner approves DEC-UX-002 and the accepted status is merged.
-
-Gate 6.2 navigation and screen responsibilities remain blocked.
+Gate 6.2 navigation and screen responsibilities may begin. Navigation, wireframes, visual design and implementation are not yet approved.
 
 ## Product structure that must survive implementation
 
@@ -74,7 +72,7 @@ Every displayed state must identify which concept and scope it applies to.
 
 [DEC-UX-001](decisions/0001-architecture-before-visual-design.md) is Accepted and resets Gate 6 to architecture-first design.
 
-[DEC-UX-002](decisions/0002-adoption-initiative-product-model.md) is Proposed and defines the adoption initiative, adoption increment, exact scope, lifecycle, decision and state model.
+[DEC-UX-002](decisions/0002-adoption-initiative-product-model.md) is Accepted and defines the adoption initiative, adoption increment, exact scope, lifecycle, decision and state model.
 
 The three visual mockups generated on 10 August 2026 are rejected exploratory outputs. No visual direction was selected. They must not be used as implementation targets or evidence of approval.
 
