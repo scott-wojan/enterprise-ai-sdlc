@@ -23,12 +23,20 @@ Before changing public guidance, adoption-workspace structure, navigation, infor
 2. `docs/product/information-architecture.md`
 3. `docs/product/gate-5-cross-experience-review.md`
 4. `docs/product/ux/README.md`
-5. The accepted UX decision records named by that entry point
-6. The active UX issue and its Required Context
+5. `docs/product/ux/design-principles.md`
+6. The accepted UX decision records named by that entry point
+7. The active UX issue and its Required Context
 
 For UX and UI work:
 
 - Treat GitHub as authoritative. Conversation history, generated images and model memory are not product decisions.
+- Begin every screen from a documented representative user, situation, problem, primary job and successful outcome.
+- Give every screen one primary responsibility and one dominant action.
+- Keep journey management, work and evidence collection, stage-gate decisions and reporting as separate experiences.
+- Do not place a complete journey dashboard around focused answer or evidence collection.
+- Label progress by the exact fact counted. Never combine task, evidence, verification, decision, journey or authority progress.
+- Explain the scope, cause, consequence, permitted work, prohibited work and recommended next action for blocked or aggregate state.
+- Complete `docs/product/ux/templates/principle-conformance-record.md` for every UX checkpoint. A failed, unsupported or unassessed applicable UXP principle blocks advancement.
 - Stop when a material product question is not answered by repository sources.
 - Record material product-experience decisions using a `DEC-UX-###` record.
 - Do not begin high-fidelity visual design before the governing product model, lifecycle, navigation, state scope, content hierarchy, interaction sequence, responsive reading order and structural wireframes are approved.
@@ -83,6 +91,7 @@ Use these prefixes:
 - `MEAS` for measures
 - `DEC` for decisions
 - `EX` for worked examples
+- `UXP` for product UX principles
 
 `DEC-UX-###` is the decision form for material UX and UI choices.
 
