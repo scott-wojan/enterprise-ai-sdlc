@@ -2,7 +2,7 @@
 
 ## Status
 
-Complete and ready for product-owner approval on 12 August 2026.
+Approved by the product owner and complete on 12 August 2026.
 
 This package records the selected anchor views, the connected representative path, responsive and accessibility behavior, and the structural validation result. It does not approve final production architecture or change the production site.
 
@@ -103,4 +103,4 @@ Representative-human comprehension remains a Gate 6.7 activity. It is not fabric
 
 ## Decision
 
-Approve this responsive structural system as the implementation basis for the Gate 6 isolated prototype.
+The responsive structural system is approved as the implementation basis for the Gate 6 isolated prototype.
