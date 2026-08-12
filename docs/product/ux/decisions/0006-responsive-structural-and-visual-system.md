@@ -2,11 +2,15 @@
 
 ## Status
 
-Proposed
+Accepted
 
 ## Decision date
 
 12 August 2026
+
+## Approval
+
+Accepted by the product owner after review of all five desktop and mobile anchor sets, the connected prototype path, and the Gate 6 completion package.
 
 ## Decider
 
@@ -48,6 +52,7 @@ The system makes the current job, consequence, safe work, prohibited work, and n
 
 - Gate 6 prototype implementation is enabled.
 - Production implementation remains blocked until Gate 7 selects a platform.
+- Gate 6 closes with the honest outcome Working prototype requiring representative-human validation.
 - Representative-human validation remains required before claiming a validated vertical slice.
 
 ## Affected sources
