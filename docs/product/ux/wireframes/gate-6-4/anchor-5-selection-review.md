@@ -2,7 +2,7 @@
 
 ## Status
 
-Desktop structure accepted on 12 August 2026 for the leadership investment decision moment. Mobile structure remains pending.
+Desktop and mobile structures accepted on 12 August 2026 for the leadership investment decision moment.
 
 This remains a low-fidelity structural wireframe. Approval does not cover final typography, color, branding, component styling, detailed interaction behavior, prototype behavior or production implementation.
 
@@ -22,9 +22,13 @@ Leadership is not asked to reinterpret evidence or select AI authority.
 
 On 12 August 2026, the product owner confirmed that the desktop screen makes the leadership decision and consequences clear without requiring leadership to reinterpret pilot evidence.
 
-## Selected artifact
+The product owner subsequently approved the mobile adaptation. The approval confirms that an executive can understand that the evidence and authority decisions are already settled, compare funding remediation against stopping investment, and recognize that recording the choice changes funding only.
+
+## Selected artifacts
 
 [Anchor 5 desktop selected](explorations/anchor-5-desktop-selected.png)
+
+[Anchor 5 mobile selected](explorations/anchor-5-mobile-selected.png)
 
 ## Accepted content order
 
@@ -86,11 +90,11 @@ Leadership cannot select:
 - remediation as a capped learning investment rather than a guaranteed recovery;
 - delay behavior;
 - separation of evidence, authority and investment decisions;
-- exact scope and accountable decision owner.
+- exact scope and accountable decision owner;
+- preservation of the same meaning and option consequences on mobile.
 
 ## What this selection does not decide
 
-- the mobile structure;
 - the generated readable leadership output after the decision;
 - detailed accessibility behavior;
 - final visual design;
@@ -98,4 +102,4 @@ Leadership cannot select:
 
 ## Next validation target
 
-Adapt the leadership decision to mobile without separating each option from its consequence or allowing the primary action to appear before the executive understands both choices.
+Represent the post-decision readable leadership output as a derived record. It must explain what leadership decided, why, what remains allowed and prohibited, what happens next, and where the underlying evidence and decisions came from. It must not permit edits that could change those source records.
