@@ -2,7 +2,7 @@
 
 ## Status
 
-Desktop structure accepted on 12 August 2026 for the completed-pilot evidence evaluation moment. Mobile structure remains pending.
+Desktop and mobile structures accepted on 12 August 2026 for the completed-pilot evidence evaluation moment.
 
 This remains a low-fidelity structural wireframe. Approval does not cover final typography, color, branding, component styling, detailed interaction behavior, prototype behavior or production implementation.
 
@@ -45,9 +45,11 @@ On 12 August 2026, the product owner confirmed that the simplified desktop scree
 4. The immediate action is to review and record the evidence conclusion.
 5. Greater authority would require later remediation, reevaluation and approval.
 
-## Selected artifact
+## Selected artifacts
 
 [Anchor 4 desktop selected](explorations/anchor-4-desktop-selected.png)
+
+[Anchor 4 mobile selected](explorations/anchor-4-mobile-selected.png)
 
 ## Accepted content order
 
@@ -93,11 +95,14 @@ The screen must not require a reader to reconstruct the complete-system takeaway
 - the authority-decision screen;
 - the leadership investment decision;
 - the readable leadership output;
-- the mobile structure;
 - detailed accessibility behavior;
 - final visual design;
 - working prototype or production implementation.
 
+## Responsive acceptance
+
+The mobile adaptation preserves the same five-takeaway hierarchy in one column without introducing an evidence inventory, permanent sidebar, detached rail or horizontal scrolling. The result, current status, restrictions and primary action remain in the primary reading path. The recovery condition remains secondary.
+
 ## Next validation target
 
-Adapt the selected five-takeaway hierarchy to mobile. The mobile structure must preserve rapid comprehension without stacking so many explanatory sections that the result and next action become separated by a long scroll.
+Anchor 5, Leadership investment decision and readable output, must represent the later moment after the evidence conclusion and authority restriction have already been recorded.
