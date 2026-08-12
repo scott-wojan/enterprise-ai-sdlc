@@ -2,7 +2,7 @@
 
 ## Status
 
-Desktop and mobile structures accepted on 12 August 2026 for the leadership investment decision moment. The desktop readable leadership output is also accepted. Its mobile adaptation remains pending.
+Desktop and mobile structures accepted on 12 August 2026 for both the leadership investment decision moment and the recorded readable leadership output.
 
 These remain low-fidelity structural wireframes. Approval does not cover final typography, color, branding, component styling, detailed interaction behavior, prototype behavior or production implementation.
 
@@ -87,11 +87,13 @@ The selected output represents the later state after leadership recorded Fund bo
 
 The output is derived from the frozen evidence conclusion, recorded authority decision and recorded investment decision. It is a readable leadership brief, not a decision form or editable report.
 
-## Desktop readable-output acceptance
+## Readable-output acceptance
 
-On 12 August 2026, the product owner accepted the desktop structure for the recorded Fund bounded remediation outcome.
+On 12 August 2026, the product owner accepted the desktop structure for the recorded Fund bounded remediation outcome and subsequently approved its mobile adaptation. The mobile structure preserves the recorded decision, authority boundary, accountable commitments, stop triggers, required review and source-record provenance in one uninterrupted reading path.
 
 [Anchor 5 readable output desktop selected](explorations/anchor-5-readable-output-desktop-selected.png)
+
+[Anchor 5 readable output mobile selected](explorations/anchor-5-readable-output-mobile-selected.png)
 
 The accepted output makes these facts directly available:
 
@@ -120,11 +122,10 @@ The accepted output makes these facts directly available:
 
 ## What these selections do not decide
 
-- the mobile structure for the readable leadership output;
 - detailed accessibility behavior;
 - final visual design;
 - working prototype or production implementation.
 
 ## Next validation target
 
-Adapt the readable leadership output to mobile while preserving decision-first hierarchy, accountable commitments, restrictions, the next review step and source-record provenance in one uninterrupted reading path.
+Anchor 5 is structurally accepted on desktop and mobile. Gate 6.4A still requires detailed interaction-state, accessibility, reading-order and principle-conformance validation across the anchor set before the connected-path work begins.
