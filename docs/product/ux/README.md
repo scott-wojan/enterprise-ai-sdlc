@@ -35,10 +35,10 @@ Completed Gate 6 artifacts:
 - [Gate 6.5 Visual Direction and System](visual-system/gate-6-5.md)
 - [Gate 6.6 Working Prototype Manifest](prototype/gate-6-6-manifest.md)
 - [Gate 6.7 Validation Record](validation/gate-6-7.md)
-- [DEC-UX-006](decisions/0006-responsive-structural-and-visual-system.md), Proposed pending product-owner approval
+- [DEC-UX-006](decisions/0006-responsive-structural-and-visual-system.md), Accepted
 - isolated working prototype under `prototype/`
 
-The responsive structural system, visual system, and isolated working prototype are complete and technically verified. Production implementation remains blocked until Gate 7 selects a platform. The vertical slice must not be called validated until the recorded tasks have been observed with representative humans or the product owner explicitly changes the finish line.
+The responsive structural system, visual system, and isolated working prototype are approved, complete, and technically verified. Gate 6 is complete with the outcome Working prototype requiring representative-human validation. Production implementation remains blocked until Gate 7 selects a platform. The vertical slice must not be called validated until the recorded tasks have been observed with representative humans or the product owner explicitly changes the finish line.
 
 Gate 6.3 was approved by the product owner on 11 August 2026.
 
@@ -136,7 +136,7 @@ An opportunity, increment or practice opens inside the initiative shell. It neve
 
 The three visual mockups generated on 10 August 2026 are rejected exploratory outputs. They must not be used as implementation targets or evidence of approval.
 
-The Gate 6.4 selected anchors and Gate 6.5 decision-brief visual system are the current implementation references for the isolated prototype. Production visual implementation remains blocked until Gate 7 selects a platform and DEC-UX-006 is accepted.
+The Gate 6.4 selected anchors and Gate 6.5 decision-brief visual system are the accepted implementation references for the isolated prototype. Production visual implementation remains blocked until Gate 7 selects a platform.
 
 ## Artifact structure
 
