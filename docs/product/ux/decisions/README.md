@@ -50,11 +50,11 @@ Read every Accepted record that affects the active issue before producing UX or 
 
 ### DEC-UX-006: Use the responsive decision-brief structural and visual system
 
-- Status: Proposed
+- Status: Accepted
 - Decision date: 12 August 2026
 - Scope: Gate 6.4 through Gate 6.7
 - Record: [0006-responsive-structural-and-visual-system.md](0006-responsive-structural-and-visual-system.md)
-- Result if accepted: Use the approved responsive anchors, decision-brief visual system and interaction behavior as the basis for the isolated vertical slice while keeping production platform selection in Gate 7. Representative-human validation remains required before calling the slice validated.
+- Result: Use the approved responsive anchors, decision-brief visual system and interaction behavior as the basis for the isolated vertical slice while keeping production platform selection in Gate 7. Gate 6 closes with a working prototype requiring representative-human validation.
 
 ## Adding a decision
 
