@@ -2,7 +2,7 @@
 
 ## Status
 
-Working prototype ready for representative-human validation.
+Gate 6 complete with the outcome Working prototype requiring representative-human validation.
 
 ## Automated and implementation evidence
 
@@ -45,10 +45,10 @@ Any failure defined in issue #145 remains blocking and requires revision and ret
 
 ## Honest Gate 6 outcome
 
-Current supported outcome: **Working prototype requiring representative-human validation.**
+Approved Gate 6 outcome: **Working prototype requiring representative-human validation.**
 
 The repository working instructions prohibit calling the vertical slice validated without recorded task-based validation by representative humans. No participant observations have been fabricated.
 
 ## Completion path
 
-Run the tasks with the three participant perspectives, record observed behavior, correct material failures, retest, and obtain product-owner approval. If no material failure occurs, change the outcome to Validated vertical slice, ready for Gate 7 platform decision.
+Gate 6 is complete under the second honest completion result allowed by issue #145. To upgrade the outcome later, run the tasks with the three participant perspectives, record observed behavior, correct material failures, and retest. If no material failure occurs, change the outcome to Validated vertical slice, ready for Gate 7 platform decision.
