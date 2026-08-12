@@ -26,6 +26,20 @@ The active issue may name additional required sources. If conversation instructi
 
 ## Current checkpoint
 
+Gate 6 executable work was completed on 12 August 2026 with the honest outcome **Working prototype requiring representative-human validation**.
+
+Completed Gate 6 artifacts:
+
+- [Gate 6.4 Responsive Structural System](wireframes/gate-6-4/README.md)
+- [Gate 6.4 Product UX Principle Conformance](wireframes/gate-6-4/principle-conformance.md)
+- [Gate 6.5 Visual Direction and System](visual-system/gate-6-5.md)
+- [Gate 6.6 Working Prototype Manifest](prototype/gate-6-6-manifest.md)
+- [Gate 6.7 Validation Record](validation/gate-6-7.md)
+- [DEC-UX-006](decisions/0006-responsive-structural-and-visual-system.md), Accepted
+- isolated working prototype under `prototype/`
+
+The responsive structural system, visual system, and isolated working prototype are approved, complete, and technically verified. Gate 6 is complete with the outcome Working prototype requiring representative-human validation. Production implementation remains blocked until Gate 7 selects a platform. The vertical slice must not be called validated until the recorded tasks have been observed with representative humans or the product owner explicitly changes the finish line.
+
 Gate 6.3 was approved by the product owner on 11 August 2026.
 
 Accepted Gate 6.3 artifacts:
@@ -35,8 +49,6 @@ Accepted Gate 6.3 artifacts:
 - [Responsive Reading Order](responsive-reading-order.md)
 - [Vertical-Slice Content Blueprints](vertical-slice-content-blueprints.md)
 - [DEC-UX-004](decisions/0004-decision-consequence-content-hierarchy.md)
-
-Gate 6.4 responsive structural wireframes may begin. The first anchor explorations were rejected because they intermingled journey state, work progress, evidence collection and decision consequence without enough causal or next-action clarity. Replacement wireframes remain blocked until the product-specific separation contract and principle review are applied. Visual direction, implementation and production changes remain blocked.
 
 Gate 6.2 was approved by the product owner on 11 August 2026.
 
@@ -122,9 +134,9 @@ An opportunity, increment or practice opens inside the initiative shell. It neve
 
 [DEC-UX-005](decisions/0005-mandatory-product-ux-principles.md) is Accepted. It makes the [Product UX Design Principles](design-principles.md), the separation between journey management and focused work, and evidence-backed principle review mandatory for Gate 6.4 and later work.
 
-The three visual mockups generated on 10 August 2026 are rejected exploratory outputs. No visual direction was selected. They must not be used as implementation targets or evidence of approval.
+The three visual mockups generated on 10 August 2026 are rejected exploratory outputs. They must not be used as implementation targets or evidence of approval.
 
-High-fidelity visual design remains blocked until product structure, lifecycle, navigation, state scope, content hierarchy, interaction sequence, responsive order and low-fidelity wireframes are explicitly approved.
+The Gate 6.4 selected anchors and Gate 6.5 decision-brief visual system are the accepted implementation references for the isolated prototype. Production visual implementation remains blocked until Gate 7 selects a platform.
 
 ## Artifact structure
 
@@ -144,7 +156,11 @@ High-fidelity visual design remains blocked until product structure, lifecycle, 
 - [Vertical-Slice Content Blueprints](vertical-slice-content-blueprints.md) applies the hierarchy to the sixteen representative views.
 - [UX Decision Register](decisions/README.md) lists accepted, proposed, rejected and superseded UX decisions.
 - [Decision Record Template](templates/decision-record.md) is required for material product-experience choices.
-- Approved wireframe, visual-system and validation artifacts will remain linked from this file.
+- [Gate 6.4 Responsive Structural System](wireframes/gate-6-4/README.md) records selected desktop and mobile anchors, the connected path, interaction states, responsive behavior and review guidance.
+- [Gate 6.4 Product UX Principle Conformance](wireframes/gate-6-4/principle-conformance.md) records evidence against UXP-001 through UXP-016.
+- [Gate 6.5 Visual Direction and System](visual-system/gate-6-5.md) defines the decision-brief visual system used in the isolated prototype.
+- [Gate 6.6 Working Prototype Manifest](prototype/gate-6-6-manifest.md) records implemented behavior, isolation and technical verification.
+- [Gate 6.7 Validation Record](validation/gate-6-7.md) records completed checks, required representative-human tasks and the honest outcome.
 
 ## Canonical ownership rule
 

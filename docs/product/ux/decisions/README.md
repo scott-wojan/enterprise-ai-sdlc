@@ -48,6 +48,14 @@ Read every Accepted record that affects the active issue before producing UX or 
 - Record: [0005-mandatory-product-ux-principles.md](0005-mandatory-product-ux-principles.md)
 - Result: Apply sixteen product-specific UXP principles, preserve the separation between journey management and focused work, require evidence-backed principle conformance, and block advancement when an applicable principle or representative task fails.
 
+### DEC-UX-006: Use the responsive decision-brief structural and visual system
+
+- Status: Accepted
+- Decision date: 12 August 2026
+- Scope: Gate 6.4 through Gate 6.7
+- Record: [0006-responsive-structural-and-visual-system.md](0006-responsive-structural-and-visual-system.md)
+- Result: Use the approved responsive anchors, decision-brief visual system and interaction behavior as the basis for the isolated vertical slice while keeping production platform selection in Gate 7. Gate 6 closes with a working prototype requiring representative-human validation.
+
 ## Adding a decision
 
 1. Copy the [UX decision-record template](../templates/decision-record.md).
