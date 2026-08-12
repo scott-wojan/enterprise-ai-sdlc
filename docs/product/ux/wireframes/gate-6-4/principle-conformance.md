@@ -7,7 +7,7 @@
 - Governing decisions: DEC-UX-001 through DEC-UX-005
 - Reviewer: Product design and implementation review
 - Review date: 12 August 2026
-- Outcome: Ready for product-owner review
+- Outcome: Approved for the isolated Gate 6 prototype
 
 ## Problem and user
 
@@ -47,7 +47,7 @@
 
 ## Final conclusion
 
-- Outcome: Ready for product-owner review
+- Outcome: Approved for the isolated Gate 6 prototype
 - Principles failed: None in the structural and working-prototype scope
 - Blocking structural failures: None
 - Remaining external validation: Representative task testing under Gate 6.7
