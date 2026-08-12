@@ -2,7 +2,7 @@
 
 ## Status
 
-Anchor 1 and Anchor 2 desktop and mobile structures were accepted on 11 August 2026. Anchor 3 desktop structure was selected and its mobile adaptation was directionally accepted. Anchors 4 and 5 remain proposed.
+Anchor 1, Anchor 2, Anchor 4 and Anchor 5 desktop and mobile structures were accepted on 11 or 12 August 2026. Anchor 3 desktop structure was selected and its mobile adaptation was directionally accepted. Anchor 5 includes both the leadership investment decision and its derived readable output. This completes product-owner structural selection of the five anchor concepts, but it does not complete Gate 6.4A validation.
 
 This document is not a wireframe, visual direction or implementation target. It defines the screen responsibilities, representative state and content boundaries that the next visual exploration must preserve.
 
@@ -329,6 +329,10 @@ Anchor 2, Focused readiness work item, was then tested on desktop and mobile. Th
 
 Anchor 1, Public Home, was corrected after the first attempt exposed too much product documentation in the orientation layer. The product owner accepted the revised desktop and mobile structures. See the [Anchor 1 Selection Review](anchor-1-selection-review.md).
 
+Anchor 4, Completed-pilot evaluation, was corrected after a dense evidence inventory obscured the overall result, current state and recovery path. The product owner accepted the simplified desktop and mobile structures. See the [Anchor 4 Selection Review](anchor-4-selection-review.md).
+
+Anchor 5, Leadership investment decision and output, was accepted as two distinct moments: a decision-entry screen and a read-only derived leadership brief. Desktop and mobile structures are selected for both moments. See the [Anchor 5 Selection Review](anchor-5-selection-review.md).
+
 This is the most demanding intersection between focused work and journey consequence. It must prove that the product can:
 
 - preserve exact journey context without showing a journey dashboard;
@@ -358,3 +362,26 @@ Without explanation from the designer, a representative pilot lead must be able 
 12. Where can the person see the complete readiness state?
 
 Failure on any question requires revision before Gate 6.4 closes.
+
+
+## Gate 6.4A structural-selection checkpoint
+
+The selected anchor concepts now cover:
+
+1. public orientation and starting choice;
+2. focused readiness response and evidence collection before interpretation;
+3. the immediate consequence of an interpreted hard-stop response;
+4. completed-pilot evaluation governed by complete-system and total-cost evidence;
+5. leadership investment entry and its derived readable output.
+
+Structural selection is not equivalent to Gate 6.4A approval. Before Slice 6.4B begins, the package still requires:
+
+- detailed responsive validation for Anchor 3 mobile;
+- interaction-state annotations for the required state variations;
+- canonical reading-order annotations;
+- keyboard, focus and dynamic-announcement annotations;
+- completed Product UX Principle Conformance Records;
+- representative comprehension validation against the anchor-review questions;
+- correction and retest of any blocking failure;
+- an updated wireframe index and review guide;
+- explicit product-owner approval of Slice 6.4A.
